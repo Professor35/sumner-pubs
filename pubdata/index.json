@@ -35,7 +35,385 @@
    "rules": "804d2fcf9b2a",
    "built": "2026-10-10T21:17:33.969Z",
    "mb": 8.1
+  },
+  "nga123": {
+   "edition": "2025",
+   "pages": 268,
+   "items": 247,
+   "sha": "e82071f0277c121e50309499b047054b13dde7af93b280de22be678c89a4e2bc",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:21:25.298Z",
+   "mb": 6.4
+  },
+  "nga124": {
+   "edition": "2025",
+   "pages": 374,
+   "items": 154,
+   "sha": "94209a7a8bf3a804f3efb03bdaa36fafbdfae8b89df79957983fe30911d59e86",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:21:31.910Z",
+   "mb": 13.2
+  },
+  "nga125": {
+   "edition": "2025",
+   "pages": 312,
+   "items": 131,
+   "sha": "bd32a5ab23f264717166b2d2415651d38a8b371e383b54f9a582537e5c82dfbd",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:21:38.498Z",
+   "mb": 12.9
+  },
+  "nga126": {
+   "edition": "2025",
+   "pages": 367,
+   "items": 131,
+   "sha": "fe67304e0c8cdcd95a48a6a9a49299f1dc1f96343b80051f7ff2ff93e9ea0fd6",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:21:44.943Z",
+   "mb": 11.8
+  },
+  "nga127": {
+   "edition": "2025",
+   "pages": 395,
+   "items": 166,
+   "sha": "99545cc409f833cf251ecd997efbddd88319a3f082730bf8b3232790ba096754",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:21:51.792Z",
+   "mb": 11.3
+  },
+  "nga131": {
+   "edition": "2025",
+   "pages": 536,
+   "items": 477,
+   "sha": "9bb14dc486321272a6188e2071e0d0137cdf996a77ceabb8924d05502a7a4ee8",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:02.313Z",
+   "mb": 20
+  },
+  "nga132": {
+   "edition": "2026",
+   "pages": 333,
+   "items": 280,
+   "sha": "e78f618b3c89bc03452d3908bef87f8e54a2a536c22fdba46d8b53f47342f5a7",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:11.315Z",
+   "mb": 18.7
+  },
+  "nga141": {
+   "edition": "2026",
+   "pages": 302,
+   "items": 89,
+   "sha": "f35eae8ed5e82acdd3f049b7a277fb25e131c0638ed4216f497a30f5c113a5c7",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:19.306Z",
+   "mb": 16.5
+  },
+  "nga142": {
+   "edition": "2024",
+   "pages": 204,
+   "items": 92,
+   "sha": "80c0604efd5e3ca4d7a0fb1686c35614e72cc2940120b5580570bcfdaba9d7e7",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:24.451Z",
+   "mb": 9.8
+  },
+  "nga143": {
+   "edition": "2025",
+   "pages": 380,
+   "items": 169,
+   "sha": "3bf10d6a25c23a64b291362a866f125beb8b9f2073f7a45ce2d860d77e216315",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:32.148Z",
+   "mb": 15.2
+  },
+  "nga145": {
+   "edition": "2025",
+   "pages": 313,
+   "items": 98,
+   "sha": "dbba74de601b11396c1af737efe455caba4b842a5bbab12c2541801c3731e7f4",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:39.498Z",
+   "mb": 11.7
+  },
+  "nga146": {
+   "edition": "2026",
+   "pages": 379,
+   "items": 77,
+   "sha": "59976a866dc31a425ff983e033a1f605db0f78bdeb5a8a21274baa26f22df2ed",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:22:52.225Z",
+   "mb": 20.5
+  },
+  "nga153": {
+   "edition": "2024",
+   "pages": 193,
+   "items": 58,
+   "sha": "9e064e89b0d067778ab4d9484d99204f35d48961da533924cb2385cb117c143e",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:05.210Z",
+   "mb": 10.2
+  },
+  "nga154": {
+   "edition": "2026",
+   "pages": 323,
+   "items": 46,
+   "sha": "ff01e2015518a14a314a24133ec5d3729d168b6887674e2b249e647365155600",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:13.180Z",
+   "mb": 17.8
+  },
+  "nga155": {
+   "edition": "2026",
+   "pages": 238,
+   "items": 97,
+   "sha": "85eebb963784c35ddcde358ae0818890ad0e409187b32b5fe6b946135d21e1c8",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:17.986Z",
+   "mb": 9.2
+  },
+  "nga157": {
+   "edition": "2026",
+   "pages": 438,
+   "items": 221,
+   "sha": "6012ab06c90fa45fd8ba90af8e4c53524ad55b09b0a4d2920aee398480df4336",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:24.733Z",
+   "mb": 10.7
+  },
+  "nga158": {
+   "edition": "2024",
+   "pages": 238,
+   "items": 82,
+   "sha": "077a515a4b892bb37846c9504d93135143a1df4196399d84a2764d89757d4f9b",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:27.344Z",
+   "mb": 8.6
+  },
+  "nga159": {
+   "edition": "2025",
+   "pages": 290,
+   "items": 99,
+   "sha": "40a08998f02b29e15177a60e98adb5a70c35b4f69800350993de3a0377aae8ea",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:32.722Z",
+   "mb": 10.2
+  },
+  "nga161": {
+   "edition": "2026",
+   "pages": 258,
+   "items": 125,
+   "sha": "c741ec5465135322cfe72f243129759df8948f7309deef8791f113d75fe94795",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:37.958Z",
+   "mb": 9
+  },
+  "nga162": {
+   "edition": "2025",
+   "pages": 405,
+   "items": 73,
+   "sha": "a688b1943fd894e994321e5efa2a2247b75cf1a43b79c8004dc10865f1da57b2",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:44.357Z",
+   "mb": 10.6
+  },
+  "nga163": {
+   "edition": "2025",
+   "pages": 481,
+   "items": 126,
+   "sha": "3186811b1aa8956f60f3a380655ca6e78b670b7b0e954f3a9fb03b5e5d6fed5c",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:52.261Z",
+   "mb": 11
+  },
+  "nga164": {
+   "edition": "2025",
+   "pages": 298,
+   "items": 42,
+   "sha": "3c6ebb6ba624609e0ad229cd06c335f0d065f6b2338bf1b22c513c19073706c4",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:54.157Z",
+   "mb": 10.4
+  },
+  "nga171": {
+   "edition": "2026",
+   "pages": 260,
+   "items": 97,
+   "sha": "adac6d31cc43dd13ae955eb94de003fe4aefb47bcf3eb27bde9d233433cf1a89",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:23:59.031Z",
+   "mb": 9.4
+  },
+  "nga172": {
+   "edition": "2025",
+   "pages": 458,
+   "items": 261,
+   "sha": "576772bceaf94b7a96f2c70d2dd74bba66ac30a939b3dfb98e248cbde68196df",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:01.464Z",
+   "mb": 13.7
+  },
+  "nga173": {
+   "edition": "2026",
+   "pages": 371,
+   "items": 162,
+   "sha": "2525f06af690ccd7891e67ac5257ec86b28ba725880d12dd5bddc37e123eed3e",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:04.043Z",
+   "mb": 9.4
+  },
+  "nga174": {
+   "edition": "2025",
+   "pages": 220,
+   "items": 68,
+   "sha": "4a43c8f8319bb0aa0b545b98b90fe838009c4d6d8c8137975d0cdd6543d187e1",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:05.659Z",
+   "mb": 8.7
+  },
+  "nga175": {
+   "edition": "2026",
+   "pages": 270,
+   "items": 92,
+   "sha": "2fa215969549bb110dc8ad0b70ae9f4351fbf287fa077a9d5e6375d19efd5be0",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:07.705Z",
+   "mb": 8.7
+  },
+  "nga181": {
+   "edition": "2025",
+   "pages": 207,
+   "items": 73,
+   "sha": "c93c8813d8ee5a925b1db0d38fd0d9597f0fa3bfff68a13c5594c2f05c7e496c",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:09.325Z",
+   "mb": 7.8
+  },
+  "nga182": {
+   "edition": "2025",
+   "pages": 306,
+   "items": 155,
+   "sha": "ebf289c97848a5bd98bf525c64a42776846c64bd5d2514a6a8149d6cc27e0022",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:11.649Z",
+   "mb": 13.8
+  },
+  "nga183": {
+   "edition": "2025",
+   "pages": 206,
+   "items": 81,
+   "sha": "28130a9b9c8fb12404b91c0fc5f21b2e8fec56338a32416263f235e961d3b8cb",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:13.782Z",
+   "mb": 8.3
+  },
+  "nga191": {
+   "edition": "2024",
+   "pages": 259,
+   "items": 143,
+   "sha": "71793597d7376cb1f65955384a6c471647b31797d09bd9ad11c1bc4826ca2e2f",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:16.157Z",
+   "mb": 10.3
+  },
+  "nga192": {
+   "edition": "2025",
+   "pages": 448,
+   "items": 207,
+   "sha": "05a48b9bd5cd33f6a9a13c26d5e50a4427d6f1a9d4dc9d36ea9c4b498ec4dcf7",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:18.793Z",
+   "mb": 11.2
+  },
+  "nga193": {
+   "edition": "2025",
+   "pages": 207,
+   "items": 149,
+   "sha": "e92bdea1e6c91d1dd21b4a4cb1cbf093bada8b66d6b3ed430985328e0c7aad60",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:20.372Z",
+   "mb": 9.4
+  },
+  "nga194": {
+   "edition": "2026",
+   "pages": 409,
+   "items": 289,
+   "sha": "145edc40b4090cc1c8cf20e90df740dc32a176bed87a8b7ebb4fae7d64a4ad38",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:23.827Z",
+   "mb": 13.3
+  },
+  "nga195": {
+   "edition": "2026",
+   "pages": 247,
+   "items": 155,
+   "sha": "3761fae7ade827535a026cab38150f21c9521be213981a0da141a4366cf57725",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:25.627Z",
+   "mb": 7.8
+  },
+  "cp1": {
+   "edition": "2026",
+   "pages": 440,
+   "items": 33,
+   "sha": "30972edabeddef902714a06d367babcf267a4ac4f3225cc998ae254762ef277f",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:29.517Z",
+   "mb": 7.4
+  },
+  "cp2": {
+   "edition": "2026",
+   "pages": 446,
+   "items": 30,
+   "sha": "f0032bc47843bbb34054ad8b519705304b0095e0eb8a51f3a63bce641f067d0e",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:32.996Z",
+   "mb": 7.5
+  },
+  "cp3": {
+   "edition": "2026",
+   "pages": 403,
+   "items": 18,
+   "sha": "e17c917c3fd961b265147c24b1b24bd90491b61eadb46014b6f3f55facb61ddc",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:35.578Z",
+   "mb": 6.9
+  },
+  "cp6": {
+   "edition": "2026",
+   "pages": 543,
+   "items": 46,
+   "sha": "9b65e9b85fd9e27942eab5024c52fc4d1afb59832782d6ca1764ae4ee9968889",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:39.677Z",
+   "mb": 7.7
+  },
+  "cp7": {
+   "edition": "2026",
+   "pages": 382,
+   "items": 20,
+   "sha": "6f32e618e59275dbd7b695a5d9c9506a728ef1d74da24eb5944758fa9932ec4a",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:42.400Z",
+   "mb": 4.7
+  },
+  "cp8": {
+   "edition": "2026",
+   "pages": 422,
+   "items": 15,
+   "sha": "c62e5eb2535122d0f23f16203acd6ae64d70003f52a4c2a9a16a0bdfac8fb4c0",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:45.328Z",
+   "mb": 7.5
+  },
+  "cp9": {
+   "edition": "2026",
+   "pages": 550,
+   "items": 41,
+   "sha": "4eea2d3c7d44c4a3e495ba4c7ba208d24195e574f64e93fa24120f188d40286b",
+   "rules": "804d2fcf9b2a",
+   "built": "2026-10-10T21:24:49.266Z",
+   "mb": 9.8
   }
  },
- "built": "2026-10-10T21:19:31.759Z"
+ "built": "2026-10-10T21:24:49.266Z"
 }
