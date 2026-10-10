@@ -21,21 +21,21 @@
   "cp4": {
    "edition": "2026",
    "pages": 461,
-   "items": 0,
+   "items": 18,
    "sha": "f37e11d8fb0e48943d1e3636cfcf0cc8c7b4c903378c092e874809fc3abf601b",
-   "rules": "f5578b6d63e5",
-   "built": "2026-10-10T21:01:10.167Z",
+   "rules": "935ed1babb80",
+   "built": "2026-10-10T21:07:40.176Z",
    "mb": 6.8
   },
   "cp5": {
    "edition": "2026",
    "pages": 610,
-   "items": 0,
+   "items": 37,
    "sha": "495c850d37b43bba68e052676de2246efdea1c6bd13fa7ec6bcfafe74075c8aa",
-   "rules": "f5578b6d63e5",
-   "built": "2026-10-10T21:01:13.201Z",
+   "rules": "935ed1babb80",
+   "built": "2026-10-10T21:07:43.255Z",
    "mb": 8.1
   }
  },
- "built": "2026-10-10T21:01:13.201Z"
+ "built": "2026-10-10T21:07:43.256Z"
 }
