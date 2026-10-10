@@ -1,0 +1,265 @@
+{
+ "note": "One entry per book. url is the direct link to the PDF; null means no link has been set yet. Links marked here have not all been checked: the robot reports any that fail.",
+ "books": [
+  {
+   "id": "nga117",
+   "name": "Pub 117 Radio Navigational Aids",
+   "url": null
+  },
+  {
+   "id": "nga123",
+   "name": "Pub 123 Southwest Coast of Africa",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub123bk.pdf&type=view"
+  },
+  {
+   "id": "nga124",
+   "name": "Pub 124 East Coast of South America",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub124bk.pdf&type=view"
+  },
+  {
+   "id": "nga125",
+   "name": "Pub 125 West Coast of South America",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub125bk.pdf&type=view"
+  },
+  {
+   "id": "nga126",
+   "name": "Pub 126 Pacific Islands",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub126bk.pdf&type=view"
+  },
+  {
+   "id": "nga127",
+   "name": "Pub 127 East Coast of Australia and New Zealand",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub127bk.pdf&type=view"
+  },
+  {
+   "id": "nga131",
+   "name": "Pub 131 Western Mediterranean",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub131bk.pdf&type=view"
+  },
+  {
+   "id": "nga132",
+   "name": "Pub 132 Eastern Mediterranean",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub132bk.pdf&type=view"
+  },
+  {
+   "id": "nga141",
+   "name": "Pub 141 Scotland",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub141bk.pdf&type=view"
+  },
+  {
+   "id": "nga142",
+   "name": "Pub 142 Ireland and the West Coast of England",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub142bk.pdf&type=view"
+  },
+  {
+   "id": "nga143",
+   "name": "Pub 143 West Coast of Europe and Northwest Africa",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub143bk.pdf&type=view"
+  },
+  {
+   "id": "nga145",
+   "name": "Pub 145 Nova Scotia and the St. Lawrence",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub145bk.pdf&type=view"
+  },
+  {
+   "id": "nga146",
+   "name": "Pub 146 Newfoundland, Labrador and Hudson Bay",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub146bk.pdf&type=view"
+  },
+  {
+   "id": "nga147",
+   "name": "Pub 147 Caribbean Sea Volume 1: Bermuda, Bahamas and the islands",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub147bk.pdf&type=view"
+  },
+  {
+   "id": "nga148",
+   "name": "Pub 148 Caribbean Sea Volume 2: mainland coasts",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub148bk.pdf&type=view"
+  },
+  {
+   "id": "nga153",
+   "name": "Pub 153 West Coasts of Mexico and Central America",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub153bk.pdf&type=view"
+  },
+  {
+   "id": "nga154",
+   "name": "Pub 154 British Columbia",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub154bk.pdf&type=view"
+  },
+  {
+   "id": "nga155",
+   "name": "Pub 155 East Coast of Russia",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub155bk.pdf&type=view"
+  },
+  {
+   "id": "nga157",
+   "name": "Pub 157 Coasts of Korea and China",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub157bk.pdf&type=view"
+  },
+  {
+   "id": "nga158",
+   "name": "Pub 158 Japan Volume 1",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub158bk.pdf&type=view"
+  },
+  {
+   "id": "nga159",
+   "name": "Pub 159 Japan Volume 2",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub159bk.pdf&type=view"
+  },
+  {
+   "id": "nga161",
+   "name": "Pub 161 South China Sea and the Gulf of Thailand",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub161bk.pdf&type=view"
+  },
+  {
+   "id": "nga162",
+   "name": "Pub 162 Philippine Islands",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub162bk.pdf&type=view"
+  },
+  {
+   "id": "nga163",
+   "name": "Pub 163 Borneo, Jawa, Sulawesi and Nusa Tenggara",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub163bk.pdf&type=view"
+  },
+  {
+   "id": "nga164",
+   "name": "Pub 164 New Guinea",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub164bk.pdf&type=view"
+  },
+  {
+   "id": "nga171",
+   "name": "Pub 171 East Africa and the South Indian Ocean",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub171bk.pdf&type=view"
+  },
+  {
+   "id": "nga172",
+   "name": "Pub 172 Red Sea and the Persian Gulf",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub172bk.pdf&type=view"
+  },
+  {
+   "id": "nga173",
+   "name": "Pub 173 India and the Bay of Bengal",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub173bk.pdf&type=view"
+  },
+  {
+   "id": "nga174",
+   "name": "Pub 174 Strait of Malacca and Sumatera",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub174bk.pdf&type=view"
+  },
+  {
+   "id": "nga175",
+   "name": "Pub 175 North, West and South Coasts of Australia",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub175bk.pdf&type=view"
+  },
+  {
+   "id": "nga181",
+   "name": "Pub 181 Greenland and Iceland",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub181bk.pdf&type=view"
+  },
+  {
+   "id": "nga182",
+   "name": "Pub 182 North and West Coasts of Norway",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub182bk.pdf&type=view"
+  },
+  {
+   "id": "nga183",
+   "name": "Pub 183 North Coast of Russia",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub183bk.pdf&type=view"
+  },
+  {
+   "id": "nga191",
+   "name": "Pub 191 English Channel",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub191bk.pdf&type=view"
+  },
+  {
+   "id": "nga192",
+   "name": "Pub 192 North Sea",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub192bk.pdf&type=view"
+  },
+  {
+   "id": "nga193",
+   "name": "Pub 193 Skagerrak and Kattegat",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub193bk.pdf&type=view"
+  },
+  {
+   "id": "nga194",
+   "name": "Pub 194 Baltic Sea, Southern Part",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub194bk.pdf&type=view"
+  },
+  {
+   "id": "nga195",
+   "name": "Pub 195 Gulf of Finland and Gulf of Bothnia",
+   "url": "https://msi.nga.mil/api/publications/download?key=16694491/SFH00000/Pub195bk.pdf&type=view"
+  },
+  {
+   "id": "cp1",
+   "name": "Coast Pilot 1 Eastport, Maine to Cape Cod",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1_WEB.pdf"
+  },
+  {
+   "id": "cp2",
+   "name": "Coast Pilot 2 Cape Cod to Sandy Hook",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_WEB.pdf"
+  },
+  {
+   "id": "cp3",
+   "name": "Coast Pilot 3 Sandy Hook to Cape Henry",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp3/CPB3_WEB.pdf"
+  },
+  {
+   "id": "cp4",
+   "name": "Coast Pilot 4 Cape Henry to Key West",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp4/CPB4_WEB.pdf"
+  },
+  {
+   "id": "cp5",
+   "name": "Coast Pilot 5 Gulf Coast, Puerto Rico and Virgin Islands",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp5/CPB5_WEB.pdf"
+  },
+  {
+   "id": "cp6",
+   "name": "Coast Pilot 6 Great Lakes and connecting waterways",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp6/CPB6_WEB.pdf"
+  },
+  {
+   "id": "cp7",
+   "name": "Coast Pilot 7 California, Oregon, Washington, Hawaii and Pacific Islands",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp7/CPB7_WEB.pdf"
+  },
+  {
+   "id": "cp8",
+   "name": "Coast Pilot 8 Alaska: Dixon Entrance to Cape Spencer",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp8/CPB8_WEB.pdf"
+  },
+  {
+   "id": "cp9",
+   "name": "Coast Pilot 9 Alaska: Cape Spencer to Beaufort Sea",
+   "url": "https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp9/CPB9_WEB.pdf"
+  },
+  {
+   "id": "nga120",
+   "name": "Pub 120 Pacific Ocean and Southeast Asia",
+   "url": null
+  },
+  {
+   "id": "nga140",
+   "name": "Pub 140 North Atlantic Ocean, Baltic Sea, North Sea and Mediterranean Sea",
+   "url": null
+  },
+  {
+   "id": "nga160",
+   "name": "Pub 160 South Atlantic Ocean and Indian Ocean",
+   "url": null
+  },
+  {
+   "id": "nga180",
+   "name": "Pub 180 Arctic Ocean",
+   "url": null
+  },
+  {
+   "id": "nga200",
+   "name": "Pub 200 Antarctica",
+   "url": null
+  }
+ ]
+}
