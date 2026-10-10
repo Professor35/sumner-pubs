@@ -16,6 +16,8 @@ const APP_URL = process.env.APP_URL || 'https://sumnermarine.com/';
 const OUT = 'pubdata';
 const UA = 'SumnerMarine-publications-robot/1.0 (+https://sumnermarine.com)';
 const only = (process.env.ONLY || '').split(',').map(s => s.trim()).filter(Boolean);
+// Books whose plain text is also saved (in pubtext/), so the reading rules can be tuned for them.
+const wantText = (process.env.TEXT || '').split(',').map(s => s.trim()).filter(Boolean);
 const local = Object.fromEntries((process.env.LOCAL || '').split(',').filter(Boolean).map(s => s.split('=')));
 const sha = b => crypto.createHash('sha256').update(b).digest('hex');
 const log = [];
@@ -61,12 +63,13 @@ for (const b of books) {
       buf = Buffer.from(await r.arrayBuffer());
     }
     if (buf.subarray(0, 5).toString('latin1') !== '%PDF-') throw new Error('the link did not return a PDF (' + buf.length + ' bytes, starts "' + buf.subarray(0, 40).toString('latin1').replace(/\s+/g, ' ') + '")');
-    const fileSha = sha(buf), old = index.books[b.id];
-    if (old && old.sha === fileSha && old.rules === rules && fs.existsSync(path.join(OUT, b.id + '.json'))) { log.push([b.id, name, 'UNCHANGED', old.items + ' entries, ' + (old.edition || 'edition not found')]); continue; }
+    const fileSha = sha(buf), old = index.books[b.id], textOut = path.join('pubtext', b.id + '.txt');
+    if (old && old.sha === fileSha && old.rules === rules && fs.existsSync(path.join(OUT, b.id + '.json')) && !(wantText.includes(b.id) && !fs.existsSync(textOut))) { log.push([b.id, name, 'UNCHANGED', old.items + ' entries, ' + (old.edition || 'edition not found')]); continue; }
     const pages = await pagesOf(buf);
     const chars = pages.reduce((t, s) => t + s.length, 0);
     if (chars < pages.length * 20) throw new Error('no text found, it looks like scanned pages');
     const items = pubExtract(pages);
+    if (wantText.includes(b.id) || !items.length) { fs.mkdirSync('pubtext', { recursive: true }); fs.writeFileSync(textOut, pages.map((t, i) => '=== page ' + (i + 1) + ' ===\n' + t).join('\n')); }
     const front = pages.slice(0, 4).join(' ');
     const ed = (/\b(20\d\d)\b[^.]{0,40}\bEDITION\b/i.exec(front) || /\bEDITION\b[^.]{0,40}\b(20\d\d)\b/i.exec(front) || /\b(20\d\d)\b/.exec(front) || [])[1] || '';
     const built = new Date().toISOString();
