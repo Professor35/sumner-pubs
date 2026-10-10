@@ -1,0 +1,41 @@
+{
+ "books": {
+  "nga147": {
+   "edition": "2025",
+   "pages": 232,
+   "items": 146,
+   "sha": "38af7b06df9cb9c18dd3ccc4993b085d7450342259ca6e758028f8a0863f0be1",
+   "rules": "f5578b6d63e5",
+   "built": "2026-10-10T20:44:52.643Z",
+   "mb": 10
+  },
+  "nga148": {
+   "edition": "2025",
+   "pages": 250,
+   "items": 129,
+   "sha": "3190287d062844273953301c065555c2517c4951efd673bd2b0131d4fbba42be",
+   "rules": "f5578b6d63e5",
+   "built": "2026-10-10T20:45:00.842Z",
+   "mb": 10.6
+  },
+  "cp4": {
+   "edition": "2026",
+   "pages": 461,
+   "items": 0,
+   "sha": "f37e11d8fb0e48943d1e3636cfcf0cc8c7b4c903378c092e874809fc3abf601b",
+   "rules": "f5578b6d63e5",
+   "built": "2026-10-10T20:45:05.637Z",
+   "mb": 6.8
+  },
+  "cp5": {
+   "edition": "2026",
+   "pages": 610,
+   "items": 0,
+   "sha": "495c850d37b43bba68e052676de2246efdea1c6bd13fa7ec6bcfafe74075c8aa",
+   "rules": "f5578b6d63e5",
+   "built": "2026-10-10T20:45:11.413Z",
+   "mb": 8.1
+  }
+ },
+ "built": "2026-10-10T20:45:11.414Z"
+}
