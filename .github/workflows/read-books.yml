@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       only:
-        description: 'Book ids, comma separated. Leave empty to read every book.'
+        description: 'Book ids, comma separated, or all.'
         required: false
-        default: 'nga147,nga148,cp4,cp5'
+        default: 'all'
       text:
         description: 'Book ids whose plain text should also be saved, for tuning. Usually empty.'
         required: false
@@ -16,6 +16,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: save-data
+  cancel-in-progress: false
 
 jobs:
   read:
@@ -37,5 +41,7 @@ jobs:
           git config user.email "sumner-robot@users.noreply.github.com"
           git add pubdata
           if [ -d pubtext ]; then git add pubtext; fi
-          git diff --cached --quiet || git commit -m "Publications data $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet && exit 0
+          git commit -m "Publications data $(date -u +%Y-%m-%d)"
+          git pull --rebase
           git push
