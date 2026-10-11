@@ -15,7 +15,8 @@ import { getDocument } from 'pdfjs-dist/legacy/build/pdf.mjs';
 const APP_URL = process.env.APP_URL || 'https://sumnermarine.com/';
 const OUT = 'pubdata';
 const UA = 'SumnerMarine-publications-robot/1.0 (+https://sumnermarine.com)';
-const only = (process.env.ONLY || '').split(',').map(s => s.trim()).filter(Boolean);
+// ONLY: book ids, comma separated. Empty or 'all' reads every book.
+const only = /^\s*all\s*$/i.test(process.env.ONLY || '') ? [] : (process.env.ONLY || '').split(',').map(s => s.trim()).filter(Boolean);
 // Books whose plain text is also saved (in pubtext/), so the reading rules can be tuned for them.
 const wantText = (process.env.TEXT || '').split(',').map(s => s.trim()).filter(Boolean);
 const local = Object.fromEntries((process.env.LOCAL || '').split(',').filter(Boolean).map(s => s.split('=')));
@@ -31,6 +32,18 @@ const rules = sha(m[1]).slice(0, 12);
 const { pubExtract, PUBCAT } = new Function(m[1] + '\nreturn { pubExtract, PUBCAT };')();
 
 const books = JSON.parse(fs.readFileSync('books.json', 'utf8')).books;
+
+// 2. NGA's own catalogue gives the current file for each book, so a moved file does not break the robot.
+const ngaKeys = {};
+for (const type of [11, 21, 22]) {   // 11 Radio Navigational Aids, 21 planning guides, 22 Sailing Directions (Enroute)
+  try {
+    const r = await fetch('https://msi.nga.mil/api/publications/stored-pubs?pubTypeId=' + type, { headers: { 'User-Agent': UA, 'Accept': 'application/json' } });
+    const j = await r.json(), list = Array.isArray(j) ? j : (j.pubs || j.content || []);
+    for (const p of list) { const key = p.s3Key || ''; const m = /\/Pub(\d{3})bk\.pdf$/i.exec(key); if (m && !ngaKeys['nga' + m[1]]) ngaKeys['nga' + m[1]] = 'https://msi.nga.mil/api/publications/download?key=' + encodeURIComponent(key).replace(/%2F/g, '/') + '&type=view'; }
+  } catch (e) { say('NGA catalogue type ' + type + ' could not be read: ' + (e && e.message || e)); }
+}
+say('NGA catalogue: ' + Object.keys(ngaKeys).length + ' books found.');
+for (const b of books) if (ngaKeys[b.id]) b.url = ngaKeys[b.id];
 fs.mkdirSync(OUT, { recursive: true });
 const indexPath = path.join(OUT, 'index.json');
 const index = fs.existsSync(indexPath) ? JSON.parse(fs.readFileSync(indexPath, 'utf8')) : { books: {} };

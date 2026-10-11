@@ -1,10 +1,10 @@
 {
- "note": "One entry per book. url is the direct link to the PDF; null means no link has been set yet. Links marked here have not all been checked: the robot reports any that fail.",
+ "note": "One entry per book. For NGA books the robot also looks up the current link in NGA's own catalogue on every run.",
  "books": [
   {
    "id": "nga117",
    "name": "Pub 117 Radio Navigational Aids",
-   "url": null
+   "url": "https://msi.nga.mil/api/publications/download?key=16694477/SFH00000/Pub117bk.pdf&type=view"
   },
   {
    "id": "nga123",
@@ -239,27 +239,27 @@
   {
    "id": "nga120",
    "name": "Pub 120 Pacific Ocean and Southeast Asia",
-   "url": null
+   "url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub120bk.pdf&type=view"
   },
   {
    "id": "nga140",
    "name": "Pub 140 North Atlantic Ocean, Baltic Sea, North Sea and Mediterranean Sea",
-   "url": null
+   "url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub140bk.pdf&type=view"
   },
   {
    "id": "nga160",
    "name": "Pub 160 South Atlantic Ocean and Indian Ocean",
-   "url": null
+   "url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub160bk.pdf&type=view"
   },
   {
    "id": "nga180",
    "name": "Pub 180 Arctic Ocean",
-   "url": null
+   "url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub180bk.pdf&type=view"
   },
   {
    "id": "nga200",
    "name": "Pub 200 Antarctica",
-   "url": null
+   "url": "https://msi.nga.mil/api/publications/download?key=16694492/SFH00000/Pub200bk.pdf&type=view"
   }
  ]
 }
