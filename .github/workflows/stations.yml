@@ -1,0 +1,42 @@
+name: DSC stations
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: 'Also save the plain text of the Master Plan, for tuning (yes or no).'
+        required: false
+        default: 'no'
+  schedule:
+    - cron: '29 4 3 * *'   # 04:29 UTC on the 3rd of each month
+
+permissions:
+  contents: write
+
+concurrency:
+  group: save-data
+  cancel-in-progress: false
+
+jobs:
+  stations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-save pdfjs-dist@6.2.108
+      - run: node read-stations.mjs
+        env:
+          TEXT: ${{ inputs.text == 'yes' && '1' || '' }}
+      - name: Save the data files
+        run: |
+          git config user.name "sumner-robot"
+          git config user.email "sumner-robot@users.noreply.github.com"
+          git add stations
+          if [ -d pubtext ]; then git add pubtext; fi
+          git diff --cached --quiet && exit 0
+          git commit -m "DSC stations $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
