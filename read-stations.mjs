@@ -1,6 +1,6 @@
 // Sumner DSC stations robot.
 // Reads the free IMO GMDSS Master Plan (GMDSS.1/Circ.22, 2018: the last edition published with its station tables),
-// picks out the VHF, MF and HF DSC coast stations with the same reading rules the Sumner app uses, adds the
+// picks out the VHF, MF and HF DSC coast stations (with their remote sites) using the same reading rules the Sumner app uses, adds the
 // administrations' own confirmations from stations-extra.json, and writes stations/dsc.json for the app.
 //   node read-stations.mjs                 normal run
 //   TEXT=1 node read-stations.mjs           also save the plain text (pubtext/gmdss-master-plan.txt), for tuning
@@ -38,12 +38,13 @@ for (let p = 1; p <= doc.numPages; p++) {
 await task.destroy();
 if (process.env.TEXT) { fs.mkdirSync('pubtext', { recursive: true }); fs.writeFileSync('pubtext/gmdss-master-plan.txt', pages.map((t, i) => '=== page ' + (i + 1) + ' ===\n' + t).join('\n')); }
 
-const stations = dscExtract(pages).map(s => ({ ...s, src: 'IMO GMDSS Master Plan, GMDSS.1/Circ.22 (30 July 2018)', srcUrl: SRC }));
+const stations = dscExtract(pages);
 const extra = fs.existsSync('stations-extra.json') ? JSON.parse(fs.readFileSync('stations-extra.json', 'utf8')) : {};
 const out = { built: new Date().toISOString(), sources: [{ name: 'IMO GMDSS Master Plan, GMDSS.1/Circ.22 (30 July 2018)', url: SRC, note: 'The last edition published with station tables. Stations may have changed since 2018.' }].concat(extra.sources || []), stations, confirm: extra.confirm || [], areas: extra.areas || [] };
 fs.mkdirSync('stations', { recursive: true });
 fs.writeFileSync('stations/dsc.json', JSON.stringify(out));
 const by = {}; stations.forEach(s => { by[s.band] = (by[s.band] || 0) + 1; });
-const summary = pages.length + ' pages read, ' + stations.length + ' DSC stations (' + Object.entries(by).map(([k, v]) => v + ' ' + k).join(', ') + '), ' + (extra.confirm || []).length + ' confirmations added, ' + Math.round(fs.statSync('stations/dsc.json').size / 1024) + ' KB.';
+const countries = new Set(stations.map(s => s.country).filter(Boolean)).size;
+const summary = pages.length + ' pages read, ' + stations.length + ' DSC station sites' + (countries ? ' from ' + countries + ' countries' : '') + ' (' + Object.entries(by).map(([k, v]) => v + ' ' + k).join(', ') + '), ' + (extra.confirm || []).length + ' confirmations added, ' + Math.round(fs.statSync('stations/dsc.json').size / 1024) + ' KB.';
 say(summary);
 if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, '## Sumner DSC stations robot\n\n' + summary + '\n');
