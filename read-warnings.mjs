@@ -83,6 +83,30 @@ async function get(url) {
   finally { clearTimeout(t); }
 }
 
+// Japan Coast Guard: the page asks warnings.cgi for the year's list (XML), then each warning's text comes from disp_warnings.cgi.
+async function readJcg(s) {
+  const base = 'https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/', out = [], year = new Date().getUTCFullYear();
+  for (const type of ['NAVAREA11', '212']) {
+    const tanas = [];
+    for (const y of [year, year - 1]) {
+      try {
+        const r = await fetch(base + 'warnings.cgi', { method: 'POST', headers: { 'User-Agent': UA, 'Content-Type': 'application/x-www-form-urlencoded' }, body: 'YEAR=' + y + '&TYPE=' + type + '&LANG=EG' });
+        const xml = await r.text();
+        if (RAW) fs.writeFileSync('warnraw/' + s.id + '-list-' + type + '-' + y + '.txt', xml.slice(0, 200000));
+        for (const m of xml.matchAll(/<tana>\s*([^<]+?)\s*<\/tana>/gi)) tanas.push(m[1]);
+      } catch (e) { /* next */ }
+    }
+    if (!tanas.length) continue;
+    for (const tana of tanas.slice(0, 120)) {
+      const page = await get(base + 'disp_warnings.cgi?TYPE=' + type + '&TANA=' + encodeURIComponent(tana) + '&LANG=EG');
+      if (page.ok) out.push(htmlText(page.body));
+    }
+    if (RAW && out.length) fs.writeFileSync('warnraw/' + s.id + '-texts.txt', out.join('\n\n----\n\n').slice(0, 1500000));
+    break;
+  }
+  return readPage(out.join('\n'), s.area);
+}
+
 fs.mkdirSync('warnings', { recursive: true });
 if (RAW) fs.mkdirSync('warnraw', { recursive: true });
 const index = { built: new Date().toISOString(), note: 'Warnings in force read from each coordinator\'s own website. Check the source before relying on them.', sources: [] };
@@ -102,9 +126,17 @@ for (const s of cfg.sources) {
     for (const j of res.body.matchAll(/["'`]((?:https?:\/\/|\/)[^"'`\s]*(?:api|json|ajax|navarea|warning|aviso|radioaviso|keiho|msi)[^"'`\s]*)["'`]/gi)) links.add('[in page code] | ' + abs(j[1]));
     fs.writeFileSync('warnraw/' + s.id + '.links.txt', [...links].slice(0, 800).join('\n'));
   }
-  const entry = { id: s.id, area: s.area, name: s.name, url: s.url, kind: s.kind, http: res.status, bytes: res.body.length, fetched: new Date().toISOString() };
-  if (s.kind === 'page') {
-    const ws = res.ok ? readPage(text, s.area) : [];
+  const entry = { id: s.id, area: s.area, name: s.name, url: s.url, kind: s.kind === 'jcg' ? 'page' : s.kind, http: res.status, bytes: res.body.length, fetched: new Date().toISOString() };
+  if (s.kind === 'page' || s.kind === 'jcg') {
+    let ws = res.ok ? readPage(text, s.area) : [];
+    if (s.kind === 'jcg' && res.ok) ws = await readJcg(s);
+    // a site that is down for one run keeps its last good list for up to 3 days
+    if (!ws.length && fs.existsSync('warnings/' + s.id + '.json')) {
+      try {
+        const old = JSON.parse(fs.readFileSync('warnings/' + s.id + '.json', 'utf8'));
+        if (old.warnings && old.warnings.length && Date.now() - Date.parse(old.fetched) < 3 * 864e5) { entry.count = old.warnings.length; entry.status = 'ok'; entry.kept = old.fetched; index.sources.push(entry); rows.push('| ' + s.id + ' | ' + (s.area || '-') + ' | ' + res.status + ' | kept from ' + old.fetched.slice(0, 16) + ' | ' + entry.count + ' |'); say(s.id.padEnd(16), String(res.status).padEnd(4), 'kept', entry.count); continue; }
+      } catch (e) { /* read fresh */ }
+    }
     entry.count = ws.length; entry.status = !res.ok ? (s.note ? 'blocks robots' : 'unreachable') : ws.length ? 'ok' : 'no warnings read';
     if (ws.length) fs.writeFileSync('warnings/' + s.id + '.json', JSON.stringify({ source: s.name, url: s.url, area: s.area, fetched: entry.fetched, warnings: ws }));
   } else if (s.kind === 'inforce') {

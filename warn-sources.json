@@ -1,5 +1,5 @@
 {
- "note": "NAVAREA coordinators' lists of warnings in force. The robot reads each one; 'kind' is 'page' (a web page with full texts), 'inforce' (NGA's daily list of numbers in force) or 'discover' (look for where a site loads its data from). 'raw' only saves the page for study.",
+ "note": "NAVAREA coordinators' lists of warnings in force. The robot reads each one; 'kind' is 'page' (a web page with full texts), 'inforce' (NGA's daily list of numbers in force) or 'discover' (look for where a site loads its data from). 'raw' only saves the page for study. 'jcg' is the Japan Coast Guard's two-step list.",
  "sources": [
   {
    "id": "navarea-1",
@@ -50,7 +50,7 @@
    "area": "XI",
    "name": "Japan Coast Guard (NAVAREA XI)",
    "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html",
-   "kind": "page"
+   "kind": "jcg"
   },
   {
    "id": "navarea-14",
@@ -130,62 +130,6 @@
    "name": "NGA warnings website (where it gets its data)",
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover"
-  },
-  {
-   "id": "try-nga-current-4",
-   "area": "",
-   "name": "NGA current warnings, NAVAREA IV",
-   "url": "https://msi.nga.mil/api/publications/broadcast-warn/current-warnings?navArea=4",
-   "kind": "raw"
-  },
-  {
-   "id": "try-nga-current-4b",
-   "area": "",
-   "name": "NGA current warnings, NAVAREA IV (json)",
-   "url": "https://msi.nga.mil/api/publications/broadcast-warn/current-warnings?navArea=4&output=json",
-   "kind": "raw"
-  },
-  {
-   "id": "try-nga-latest-4",
-   "area": "",
-   "name": "NGA latest warning, NAVAREA IV",
-   "url": "https://msi.nga.mil/api/publications/broadcast-warn/latest-warning?navArea=4",
-   "kind": "raw"
-  },
-  {
-   "id": "try-fr-1",
-   "area": "",
-   "name": "SHOM api warnings",
-   "url": "https://portail.ping-info-nautique.fr/api/warnings",
-   "kind": "raw"
-  },
-  {
-   "id": "try-fr-2",
-   "area": "",
-   "name": "SHOM api avurnav",
-   "url": "https://portail.ping-info-nautique.fr/api/avurnav-notice",
-   "kind": "raw"
-  },
-  {
-   "id": "try-fr-3",
-   "area": "",
-   "name": "SHOM config",
-   "url": "https://portail.ping-info-nautique.fr/assets/config.json",
-   "kind": "raw"
-  },
-  {
-   "id": "try-jp-html",
-   "area": "",
-   "name": "Japan page source",
-   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html",
-   "kind": "raw"
-  },
-  {
-   "id": "try-es-html",
-   "area": "",
-   "name": "Spain page source",
-   "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
-   "kind": "raw"
   }
  ]
 }
