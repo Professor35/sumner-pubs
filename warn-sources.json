@@ -132,45 +132,59 @@
    "kind": "discover"
   },
   {
-   "id": "navarea-2-code",
+   "id": "try-nga-current-4",
    "area": "",
-   "name": "SHOM site code (where it loads warnings from)",
-   "url": "https://portail.ping-info-nautique.fr/avurnavnotice",
-   "kind": "discover"
+   "name": "NGA current warnings, NAVAREA IV",
+   "url": "https://msi.nga.mil/api/publications/broadcast-warn/current-warnings?navArea=4",
+   "kind": "raw"
   },
   {
-   "id": "navarea-3-code",
+   "id": "try-nga-current-4b",
    "area": "",
-   "name": "Spanish site code (where it loads warnings from)",
+   "name": "NGA current warnings, NAVAREA IV (json)",
+   "url": "https://msi.nga.mil/api/publications/broadcast-warn/current-warnings?navArea=4&output=json",
+   "kind": "raw"
+  },
+  {
+   "id": "try-nga-latest-4",
+   "area": "",
+   "name": "NGA latest warning, NAVAREA IV",
+   "url": "https://msi.nga.mil/api/publications/broadcast-warn/latest-warning?navArea=4",
+   "kind": "raw"
+  },
+  {
+   "id": "try-fr-1",
+   "area": "",
+   "name": "SHOM api warnings",
+   "url": "https://portail.ping-info-nautique.fr/api/warnings",
+   "kind": "raw"
+  },
+  {
+   "id": "try-fr-2",
+   "area": "",
+   "name": "SHOM api avurnav",
+   "url": "https://portail.ping-info-nautique.fr/api/avurnav-notice",
+   "kind": "raw"
+  },
+  {
+   "id": "try-fr-3",
+   "area": "",
+   "name": "SHOM config",
+   "url": "https://portail.ping-info-nautique.fr/assets/config.json",
+   "kind": "raw"
+  },
+  {
+   "id": "try-jp-html",
+   "area": "",
+   "name": "Japan page source",
+   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html",
+   "kind": "raw"
+  },
+  {
+   "id": "try-es-html",
+   "area": "",
+   "name": "Spain page source",
    "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
-   "kind": "discover"
-  },
-  {
-   "id": "navarea-11-js",
-   "area": "",
-   "name": "Japan Coast Guard warnings script",
-   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/warnings.js",
-   "kind": "raw"
-  },
-  {
-   "id": "navarea-11-ajax",
-   "area": "",
-   "name": "Japan Coast Guard data script",
-   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/AjaxLib.js",
-   "kind": "raw"
-  },
-  {
-   "id": "nga-api-docs",
-   "area": "",
-   "name": "NGA API description",
-   "url": "https://msi.nga.mil/api/api-docs",
-   "kind": "raw"
-  },
-  {
-   "id": "nga-swagger",
-   "area": "",
-   "name": "NGA API list",
-   "url": "https://msi.nga.mil/api/swagger-resources",
    "kind": "raw"
   }
  ]
