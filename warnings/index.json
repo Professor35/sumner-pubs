@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T00:24:17.489Z",
+ "built": "2026-10-16T00:30:00.528Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,7 +10,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 75313,
-   "fetched": "2026-10-16T00:24:18.234Z",
+   "fetched": "2026-10-16T00:30:01.238Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-16T00:24:18.975Z",
+   "fetched": "2026-10-16T00:30:02.123Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-16T00:24:19.767Z",
+   "fetched": "2026-10-16T00:30:02.988Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-16T00:24:19.984Z",
+   "fetched": "2026-10-16T00:30:03.197Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-16T00:24:21.070Z",
+   "fetched": "2026-10-16T00:30:04.578Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 19855,
-   "fetched": "2026-10-16T00:24:22.342Z",
+   "fetched": "2026-10-16T00:30:06.139Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,9 +82,9 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-16T00:24:23.916Z",
-   "count": 0,
-   "status": "no warnings read"
+   "fetched": "2026-10-16T00:30:06.999Z",
+   "count": 22,
+   "status": "ok"
   },
   {
    "id": "navarea-14",
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-16T00:24:28.113Z",
+   "fetched": "2026-10-16T00:30:11.130Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-16T00:24:28.442Z",
+   "fetched": "2026-10-16T00:30:11.450Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 62506,
-   "fetched": "2026-10-16T00:24:29.457Z",
+   "fetched": "2026-10-16T00:30:12.539Z",
    "count": 6,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1215529,
-   "fetched": "2026-10-16T00:24:31.626Z",
+   "fetched": "2026-10-16T00:30:15.397Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8910,
-   "fetched": "2026-10-16T00:24:33.278Z",
+   "fetched": "2026-10-16T00:30:17.103Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 35081,
-   "fetched": "2026-10-16T00:24:33.707Z",
+   "fetched": "2026-10-16T00:30:17.534Z",
    "count": 149,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 16071,
-   "fetched": "2026-10-16T00:24:33.776Z",
+   "fetched": "2026-10-16T00:30:17.561Z",
    "count": 44,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 28875,
-   "fetched": "2026-10-16T00:24:33.828Z",
+   "fetched": "2026-10-16T00:30:17.611Z",
    "count": 100,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 43806,
-   "fetched": "2026-10-16T00:24:33.886Z",
+   "fetched": "2026-10-16T00:30:17.702Z",
    "count": 186,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9013,
-   "fetched": "2026-10-16T00:24:33.941Z",
+   "fetched": "2026-10-16T00:30:17.750Z",
    "count": 38,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -219,7 +219,7 @@
    "kind": "discover",
    "http": 200,
    "bytes": 9446,
-   "fetched": "2026-10-16T00:24:34.095Z",
+   "fetched": "2026-10-16T00:30:18.227Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
