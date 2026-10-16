@@ -48,10 +48,14 @@ function readPage(text, wantArea) {
   HEAD.lastIndex = 0;
   while ((h = HEAD.exec(text))) heads.push({ at: h.index, area: h[1], num: Number(h[2]), year: Number(h[3]) < 100 ? 2000 + Number(h[3]) : Number(h[3]), len: h[0].length });
   const best = {};
-  heads.forEach((x, i) => {
-    const end = i + 1 < heads.length ? heads[i + 1].at : Math.min(text.length, x.at + 4000);
-    const body = text.slice(x.at + x.len, Math.min(end, x.at + 4000)).replace(/\s+/g, ' ').trim();
+  // a heading right after "CANCEL", "SEE" or "REF" is a mention of another warning, not the start of one
+  const real = heads.filter(x => !/\b(CANCEL(?:LED|S)?|SEE|REF(?:ERENCE)?|AND|ALSO)\W*$/i.test(text.slice(Math.max(0, x.at - 24), x.at)));
+  real.forEach((x, i) => {
+    const end = i + 1 < real.length ? real[i + 1].at : Math.min(text.length, x.at + 4000);
+    let body = text.slice(x.at + x.len, Math.min(end, x.at + 4000)).replace(/\s+/g, ' ').trim();
+    body = body.split(/\b(?:Privacy and cookies|Crown copyright|Showing results \d|Cookie (?:policy|settings)|Skip to main content)\b|©|&copy;/i)[0].trim();
     if (body.length < 40) return;                      // a number in a list, not a warning text
+    if (body.length < 200 && /\bNAVAREA\b/i.test(body) && !L.warnPts(body).length) return;   // a list label ("Aids to Navigation - NAVAREA XVIII - Arctic")
     if (/^(CANCEL|IN FORCE)/i.test(body) && body.length < 120) return;
     const key = x.area + ' ' + x.num + '/' + x.year;
     if (wantArea && x.area !== wantArea && !(wantArea === 'XVII' && x.area === 'XVIII')) return;
@@ -88,16 +92,28 @@ for (const s of cfg.sources) {
   const res = await get(s.url);
   const isJson = /json/i.test(res.type) || /^\s*[\[{]/.test(res.body);
   const text = isJson ? res.body.replace(/\\n/g, '\n').replace(/\\"/g, '"') : htmlText(res.body);
-  if (RAW) fs.writeFileSync('warnraw/' + s.id + '.txt', ['URL: ' + s.url, 'Final URL: ' + res.url, 'HTTP: ' + res.status + ' ' + (res.err || ''), 'Type: ' + res.type, 'Bytes: ' + res.body.length, '', text.slice(0, 1500000)].join('\n'));
+  if (RAW) {
+    fs.writeFileSync('warnraw/' + s.id + '.txt', ['URL: ' + s.url, 'Final URL: ' + res.url, 'HTTP: ' + res.status + ' ' + (res.err || ''), 'Type: ' + res.type, 'Bytes: ' + res.body.length, '', text.slice(0, 1500000)].join('\n'));
+    // every link, frame and script on the page, so the reader can be pointed at the page that holds the list
+    const links = new Set();
+    const abs = u => { try { return new URL(u.replace(/&amp;/g, '&'), res.url || s.url).href; } catch (e) { return u; } };
+    for (const a of res.body.matchAll(/<a\b[^>]*href=["']([^"'#][^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)) links.add(htmlText(a[2]).replace(/\s+/g, ' ').slice(0, 80) + ' | ' + abs(a[1]));
+    for (const f of res.body.matchAll(/<(iframe|frame|script|form)\b[^>]*(?:src|action)=["']([^"']+)["']/gi)) links.add('[' + f[1].toLowerCase() + '] | ' + abs(f[2]));
+    for (const j of res.body.matchAll(/["'`]((?:https?:\/\/|\/)[^"'`\s]*(?:api|json|ajax|navarea|warning|aviso|radioaviso|keiho|msi)[^"'`\s]*)["'`]/gi)) links.add('[in page code] | ' + abs(j[1]));
+    fs.writeFileSync('warnraw/' + s.id + '.links.txt', [...links].slice(0, 800).join('\n'));
+  }
   const entry = { id: s.id, area: s.area, name: s.name, url: s.url, kind: s.kind, http: res.status, bytes: res.body.length, fetched: new Date().toISOString() };
   if (s.kind === 'page') {
     const ws = res.ok ? readPage(text, s.area) : [];
-    entry.count = ws.length; entry.status = !res.ok ? 'unreachable' : ws.length ? 'ok' : 'no warnings read';
+    entry.count = ws.length; entry.status = !res.ok ? (s.note ? 'blocks robots' : 'unreachable') : ws.length ? 'ok' : 'no warnings read';
     if (ws.length) fs.writeFileSync('warnings/' + s.id + '.json', JSON.stringify({ source: s.name, url: s.url, area: s.area, fetched: entry.fetched, warnings: ws }));
   } else if (s.kind === 'inforce') {
     const inf = res.ok ? readInforce(text) : { asOf: '', inForce: [] };
     entry.count = inf.inForce.length; entry.asOf = inf.asOf; entry.status = !res.ok ? 'unreachable' : inf.inForce.length ? 'ok' : 'no numbers read';
     if (inf.inForce.length) fs.writeFileSync('warnings/' + s.id + '.json', JSON.stringify({ source: s.name, url: s.url, area: s.area, fetched: entry.fetched, asOf: inf.asOf, inForce: inf.inForce }));
+  } else if (s.kind === 'raw') {
+    entry.count = 0; entry.status = res.ok ? 'saved' : 'unreachable';
+    if (res.ok) fs.writeFileSync('warnings/' + s.id + '.txt', res.body.slice(0, 400000));
   } else if (s.kind === 'discover') {
     // which scripts the site loads, and the data addresses inside them, so the reader can be pointed at the right one
     const scripts = [...res.body.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(x => new URL(x[1], res.url || s.url).href).slice(0, 12), paths = new Set();

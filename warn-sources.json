@@ -1,23 +1,148 @@
 {
-  "note": "NAVAREA coordinators' lists of warnings in force. The robot reads each one; 'kind' is 'page' (a web page with full texts), 'inforce' (NGA's daily list of numbers in force) or 'discover' (look for where a site loads its data from).",
-  "sources": [
-    { "id": "navarea-1", "area": "I", "name": "UK Hydrographic Office (NAVAREA I)", "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings", "kind": "page" },
-    { "id": "navarea-2", "area": "II", "name": "SHOM, France (NAVAREA II)", "url": "https://portail.ping-info-nautique.fr/avurnavnotice", "kind": "page" },
-    { "id": "navarea-3", "area": "III", "name": "Instituto Hidrográfico de la Marina, Spain (NAVAREA III)", "url": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaihm1/prefLang-es/02ProductosServicios--02NAVAREAS", "kind": "page" },
-    { "id": "navarea-5", "area": "V", "name": "Brazilian Navy (NAVAREA V)", "url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radionautico-tela", "kind": "page" },
-    { "id": "navarea-7", "area": "VII", "name": "South African Navy Hydrographic Office (NAVAREA VII)", "url": "http://www.sanho.co.za/_navarea7_bulletins/bulletin.htm", "kind": "page" },
-    { "id": "navarea-10", "area": "X", "name": "AMSA, Australia (NAVAREA X)", "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database", "kind": "page" },
-    { "id": "navarea-11", "area": "XI", "name": "Japan Coast Guard (NAVAREA XI)", "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html", "kind": "page" },
-    { "id": "navarea-14", "area": "XIV", "name": "Maritime New Zealand (NAVAREA XIV)", "url": "https://www.maritimenz.govt.nz/navarea", "kind": "page" },
-    { "id": "navarea-15", "area": "XV", "name": "SHOA, Chile (NAVAREA XV)", "url": "https://www.shoa.cl", "kind": "page" },
-    { "id": "navarea-16", "area": "XVI", "name": "Dirección de Hidrografía y Navegación, Peru (NAVAREA XVI)", "url": "https://www.dhn.mil.pe/portal/navarea", "kind": "page" },
-    { "id": "navarea-17-18", "area": "XVII", "name": "Canadian Coast Guard (NAVAREA XVII and XVIII)", "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas", "kind": "page" },
-    { "id": "navarea-19", "area": "XIX", "name": "Norwegian Coastal Administration (NAVAREA XIX)", "url": "http://www.navarea-xix.no/", "kind": "page" },
-    { "id": "nga-4", "area": "IV", "name": "NGA, NAVAREA IV in force", "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemIV.txt", "kind": "inforce" },
-    { "id": "nga-12", "area": "XII", "name": "NGA, NAVAREA XII in force", "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemXII.txt", "kind": "inforce" },
-    { "id": "nga-lan", "area": "HYDROLANT", "name": "NGA, HYDROLANT in force", "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemLAN.txt", "kind": "inforce" },
-    { "id": "nga-pac", "area": "HYDROPAC", "name": "NGA, HYDROPAC in force", "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemPAC.txt", "kind": "inforce" },
-    { "id": "nga-arc", "area": "HYDROARC", "name": "NGA, HYDROARC in force", "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemARC.txt", "kind": "inforce" },
-    { "id": "nga-site", "area": "", "name": "NGA warnings website (where it gets its data)", "url": "https://msi.nga.mil/NavWarnings", "kind": "discover" }
-  ]
+ "note": "NAVAREA coordinators' lists of warnings in force. The robot reads each one; 'kind' is 'page' (a web page with full texts), 'inforce' (NGA's daily list of numbers in force) or 'discover' (look for where a site loads its data from). 'raw' only saves the page for study.",
+ "sources": [
+  {
+   "id": "navarea-1",
+   "area": "I",
+   "name": "UK Hydrographic Office (NAVAREA I)",
+   "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-2",
+   "area": "II",
+   "name": "SHOM, France (NAVAREA II)",
+   "url": "https://portail.ping-info-nautique.fr/avurnavnotice",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-3",
+   "area": "III",
+   "name": "Instituto Hidrográfico de la Marina, Spain (NAVAREA III)",
+   "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-5",
+   "area": "V",
+   "name": "Brazilian Navy (NAVAREA V)",
+   "url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radionautico-tela",
+   "kind": "page",
+   "note": "This site shows a human check to robots, so it cannot be read automatically."
+  },
+  {
+   "id": "navarea-7",
+   "area": "VII",
+   "name": "South African Navy Hydrographic Office (NAVAREA VII)",
+   "url": "https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-10",
+   "area": "X",
+   "name": "AMSA, Australia (NAVAREA X)",
+   "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-11",
+   "area": "XI",
+   "name": "Japan Coast Guard (NAVAREA XI)",
+   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-14",
+   "area": "XIV",
+   "name": "Maritime New Zealand (NAVAREA XIV)",
+   "url": "https://www.maritimenz.govt.nz/navarea",
+   "kind": "page",
+   "note": "This site shows a human check to robots, so it cannot be read automatically."
+  },
+  {
+   "id": "navarea-15",
+   "area": "XV",
+   "name": "SHOA, Chile (NAVAREA XV)",
+   "url": "https://www.shoa.cl",
+   "kind": "page",
+   "note": "This site shows a human check to robots, so it cannot be read automatically."
+  },
+  {
+   "id": "navarea-16",
+   "area": "XVI",
+   "name": "Dirección de Hidrografía y Navegación, Peru (NAVAREA XVI)",
+   "url": "https://www.dhn.mil.pe/portal/navarea",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-17-18",
+   "area": "XVII",
+   "name": "Canadian Coast Guard (NAVAREA XVII and XVIII)",
+   "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas",
+   "kind": "page"
+  },
+  {
+   "id": "navarea-19",
+   "area": "XIX",
+   "name": "Norwegian Coastal Administration (NAVAREA XIX)",
+   "url": "http://www.navarea-xix.no/",
+   "kind": "page"
+  },
+  {
+   "id": "nga-4",
+   "area": "IV",
+   "name": "NGA, NAVAREA IV in force",
+   "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemIV.txt",
+   "kind": "inforce"
+  },
+  {
+   "id": "nga-12",
+   "area": "XII",
+   "name": "NGA, NAVAREA XII in force",
+   "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemXII.txt",
+   "kind": "inforce"
+  },
+  {
+   "id": "nga-lan",
+   "area": "HYDROLANT",
+   "name": "NGA, HYDROLANT in force",
+   "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemLAN.txt",
+   "kind": "inforce"
+  },
+  {
+   "id": "nga-pac",
+   "area": "HYDROPAC",
+   "name": "NGA, HYDROPAC in force",
+   "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemPAC.txt",
+   "kind": "inforce"
+  },
+  {
+   "id": "nga-arc",
+   "area": "HYDROARC",
+   "name": "NGA, HYDROARC in force",
+   "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemARC.txt",
+   "kind": "inforce"
+  },
+  {
+   "id": "nga-site",
+   "area": "",
+   "name": "NGA warnings website (where it gets its data)",
+   "url": "https://msi.nga.mil/NavWarnings",
+   "kind": "discover"
+  },
+  {
+   "id": "nga-api-v3",
+   "area": "",
+   "name": "NGA API description (v3)",
+   "url": "https://msi.nga.mil/api/v3/api-docs",
+   "kind": "raw"
+  },
+  {
+   "id": "nga-api-v2",
+   "area": "",
+   "name": "NGA API description (v2)",
+   "url": "https://msi.nga.mil/api/v2/api-docs",
+   "kind": "raw"
+  }
+ ]
 }
