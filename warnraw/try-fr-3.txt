@@ -1,0 +1,7 @@
+URL: https://portail.ping-info-nautique.fr/assets/config.json
+Final URL: https://portail.ping-info-nautique.fr/assets/config.json
+HTTP: 200 
+Type: text/html
+Bytes: 82543
+
+PING

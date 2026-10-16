@@ -1,0 +1,3 @@
+[script] | https://portail.ping-info-nautique.fr/api/polyfills-EONH2QZO.js
+[script] | https://portail.ping-info-nautique.fr/api/scripts-CRFCFVHD.js
+[script] | https://portail.ping-info-nautique.fr/api/main-2ADKNE5J.js

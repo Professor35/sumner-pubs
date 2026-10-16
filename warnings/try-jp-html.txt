@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 17.0.12.0 for Windows" />
+<title>Navigational&nbsp;Warnings</title>
+<link href="../../css/format_en.css" rel="stylesheet" type="text/css" />
+<link href="../../css/main.css" rel="stylesheet" type="text/css" />
+<link rel="alternate stylesheet" type="text/css" href="../../css/font_l.css" title="large" />
+<link rel="alternate stylesheet" type="text/css" href="../../css/font_s.css" title="short" />
+<link rel="stylesheet" type="text/css" href="../../css/font_m.css" title="medium" />
+<link href="css/jquery.mySlider.css" rel="stylesheet" type="text/css" />
+<link href="css/contents.css" rel="stylesheet" type="text/css" />
+<script src="js/jquery-3.7.1.min.js" type="text/javascript"></script>
+<script src="js/jquery.mySlider-3.7.1.js" type="text/javascript"></script>
+<script src="js/warnings.js" type="text/javascript"></script>
+<script src="js/AjaxLib.js" type="text/javascript"></script>
+<script>
+var showall = false;
+var cgihost = "www1.kaiho.mlit.go.jp";
+var cgidir = "/TUHO/keiho/cgi/";
+
+var type = "NAVAREA11";
+var vtype = "212";
+var visualpage = "/TUHO/vpage/visualpage_en.html";
+
+var lang = "EG";
+
+var visual_label = "visualpage";
+var none_seleced_warnnig = "Information isn't chosen.";
+
+</script>
+</head>
+
+<BODY>
+
+<form name="DISP" action="/TUHO/keiho/cgi//disp_warnings.cgi" method="post" target="_blank">
+<input type="hidden" name="TYPE" />
+<input type="hidden" name="TANA" />
+<input type="hidden" name="LANG" />
+</form>
+
+<DIV id=container>
+<!--ヘッダ開始-->
+<DIV id=header>
+
+<!--最上部リンク開始-->
+<DIV id=txthead class=ClearFix>
+<UL id=headright>
+  <LI>｜<A href="http://www1.kaiho.mlit.go.jp/joint/form_mail/form_mail_e.cgi?section=jhod">Contact to JHOD</A> | </LI>
+  <LI class="eng"><A href="/TUHO/keiho/navarea11.html">Japanese</A></LI>
+  </UL>
+  </DIV>
+<!--最上部リンク終了-->
+  
+  
+<!--ヘッダイメージ開始-->
+<DIV id="subheader"><IMG alt="" src="../../images_e/kaso-header.jpg"> 
+<H1>Hydrographic and Oceanographic Department</H1>
+
+</DIV>
+<!--ヘッダイメージ終了-->
+
+<!--メイン項目リンクボタン開始-->
+
+<!--R6.11.11
+<table border="0" cellpadding="0" cellspacing="0" id="mainlink">
+ <tr>
+	<td><a href="/eng/activity.html">About us</a></td>
+	<td><a href="/KOKAI/ENC/enc_index_e.html">Electronic Charts</a></td>
+	<td><a href="/TUHO/tuho/nm_en.html">Notices to Mariners </a></td>
+	<td><a href="/TUHO/keiho/navarea11_en.html">Navigational Warnings</a></td>
+	<td><a href="/KANKYO/TIDE/real_time_tide/sel/index_e.htm">Realtime Tidal Data</a></td>
+	<td><a href="http://www.jodc.go.jp">Oceanographic Data: JODC</a></td>
+	<td><a href="http://www.eahc.asia/">EAHC</a></td>
+	<td><a href="/eng/kokusai_e.html">International Activities</a></td>
+ </tr>
+</table>
+R6.11.11-->
+<!--メイン項目リンクボタン終了-->
+
+</DIV>
+<!--ヘッダ終了-->
+    
+<!--パンくずメニュー開始-->
+<DIV id="topbread">
+<A href="/jhd-E.html">JHOD TOP</A> &gt; Navigational&nbsp;Warnings </DIV>
+<!--パンくずメニュー終了-->
+
+
+<!--バナー、各ページリンク-->
+<table align="center" border="0">
+<tr>
+<td align="center">
+<a href="/TUHO/vpage/visualpage_en.html"  target="visual"><img src="/TUHO/images/bana_en.gif" /></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+	<a href="/TUHO/tuho/nm_en.html">Notices&nbsp;to&nbsp;Mariners</a>&emsp;&emsp;
+	<a href="/TUHO/keiho/navarea11_en.html">Navigational&nbsp;Warnings</a>&emsp;&emsp;
+	<a href="/TUHO/weekly/weekly_en.html">Weekly&nbsp;Summary</a><br>
+	<a href="../../shoshi/toudai/e_toudai.html">List&nbsp;of&nbsp;Aids&nbsp;to&nbsp;Navigation</a>&emsp;&emsp;
+<!--2020/12/18	<a href="../../shoshi/tsuiho/photograph_en.html">Supplement&nbsp;of&nbsp;Sailing&nbsp;Directions</a>  -->
+</td>
+</tr>
+</table>
+
+<!--バナー、各ページリンク終了-->
+
+<!--メイン記事開始-->
+<DIV id="submain">
+
+<!--標題-->
+<H1><SPAN>NAVAREA&nbspXI</SPAN></H1>
+
+<!--本文開始-->
+<DIV class="inner">
+<p align="center">
+	<a href="/TUHO/keiho/navarea11_en.html">NAVAREA&nbsp;XI</a>&emsp;&emsp;
+	<a href="/TUHO/keiho/navtex_en.html">NAVTEX</a>&emsp;&emsp;
+	<a href="/TUHO/keiho/local_nw_en.html">Local&nbsp;Navigational&nbsp;Warnings</a>&emsp;&emsp;
+</p>
+
+<div class="koumokuList ClearFix subline">
+<!--注意-->
+
+<h3>Caution</h3>
+<ul>
+<li>Please note that provision of Notices to Mariners and Navigational Warnings  by the JCG is solely for the purpose of safety of navigation,<bk>
+    and does not mean that the Government of Japan recognizes the contents of the information, including the laws, regulations, and proclamations<bk>
+    of other countries.</li>
+
+
+
+</ul>
+
+<!--注意終了-->
+</div>
+
+<!--更新欄-->
+<DIV class="koumokuList ClearFix subline">
+
+<!--バックナンバー-->
+<div align="right">
+<a href="backnumber_en.html">Before 2016&thinsp;</a>
+</div>
+
+<!-- 年のタブ -->
+<script>
+
+$(document).ready(function(){
+	$('.mySlider').mySlider();
+	
+	//$("div.myslider_parent")
+});
+</script>
+<div class="mySlider">
+<ul class="slideTab ClearFix">
+<li>2026</li><li>2025</li><li>2024</li><li>2023</li><li>2022</li><li>2021</li><li>2020</li><li>2019</li><li>2018</li><li>2017</li>
+</ul>
+</div>
+<!-- 年のタブ 終わり -->
+
+<div id="yearlylist_2026" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2026" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2026" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2026);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2026">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2026"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2025" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2025" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2025" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2025);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2025">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2025"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2024" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2024" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2024" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2024);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2024">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2024"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2023" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2023" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2023" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2023);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2023">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2023"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2022" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2022" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2022" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2022);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2022">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2022"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2021" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2021" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2021" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2021);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2021">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2021"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2020" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2020" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2020" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2020);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2020">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2020"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2019" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2019" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2019" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2019);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2019">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2019"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2018" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2018" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2018" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2018);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2018">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2018"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div><div id="yearlylist_2017" class="mySliderContents"><form onsubmit="onSubmit(this);return false;"><p><span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="All Display" name="ALLMAP" id="ALLMAP_2017" onclick="showall=true;"></span>　<span style="visibility:hidden" class="redBtn"><input type="SUBMIT" value="Selected Data is displayed" name="CHKDATA" id="CHKDATA_2017" onclick="showall=false;"></span><span class="grayBtn2" style="float:right"><a href="#" onclick="update(2017);"><img src="../images/icon_update.png" width="15" height="15" class="icon" />Update</a></span></p><div style="display:none" id="NOMSG_2017">There is no information.</div><table style="visibility:hidden" class="tb_keiho" id="tb_keiho_2017"><tbody><tr><th></th><th>Number</th><th>Categoly</th><th>Title</th><th>&nbsp;</th></tr></tbody></table></form></div>
+
+<!-- 1年分のリスト 終わり -->
+
+</div>
+<!--更新欄終わり-->
+
+<!--お知らせ、注意事項等-->
+
+<H3>Information</H3>
+<ul>
+	<li> Navigational Warnings and Notices to Mariners may not be provided due to system problem.</li>
+	<li> This site provides information which was broadcasted for vessels.</li>
+	<li> The "Date" on the page which provides the contents of NAVAREA XI Navigational Warnings and NAVTEX Navigational Warnings indicates the time when information is provided on the site. ( rounded down to the hour )<br>
+Please ask for the exact publication time at the following number.<br>
+&emsp;TEL 03-3595-3647(24 hours every day)</li>
+</ul>
+
+<!--お知らせ、注意事項等終了-->
+
+
+</DIV>
+<!--本文終了-->
+
+</DIV>
+<!--メイン記事終了-->
+
+<!--goTOP-->
+<DIV id="gotopArea">
+<DIV id="gotopBox">
+<DIV id="gotop"><a href="#container">↑ Page Top</A>
+</DIV>
+</DIV>
+<DIV class="clear"></DIV>
+</DIV>
+
+<!-- footer -->
+<DIV id="footer">
+<DIV id="footinf" class="ClearFix">
+<DIV class="inquiry">Inquiry: <A href="http://www1.kaiho.mlit.go.jp/joint/form_mail/form_mail_e.cgi?section=jhod">Contact to JHOD</A>
+</DIV>
+<DIV class="address"></DIV>
+
+</DIV>
+<DIV id="copy">Copyright (C) Japan Coast Guard, All Rights Reserved.</DIV>
+
+</DIV>
+</DIV>
+<!-- /footer -->
+<DIV>
+
+</DIV>
+<!-- /container -->
+
+</BODY>
+</HTML>

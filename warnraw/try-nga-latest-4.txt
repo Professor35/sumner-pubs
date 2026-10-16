@@ -1,0 +1,7 @@
+URL: https://msi.nga.mil/api/publications/broadcast-warn/latest-warning?navArea=4
+Final URL: https://msi.nga.mil/api/publications/broadcast-warn/latest-warning?navArea=4
+HTTP: 200 
+Type: application/json
+Bytes: 31
+
+{"date":"2024-05-10T15:42:00Z"}

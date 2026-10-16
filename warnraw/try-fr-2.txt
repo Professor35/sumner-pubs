@@ -1,0 +1,7 @@
+URL: https://portail.ping-info-nautique.fr/api/avurnav-notice
+Final URL: https://portail.ping-info-nautique.fr/api/avurnav-notice
+HTTP: 200 
+Type: text/html
+Bytes: 82543
+
+PING
