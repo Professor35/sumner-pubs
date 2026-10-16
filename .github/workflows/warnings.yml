@@ -1,0 +1,46 @@
+name: Warnings in force
+
+on:
+  workflow_dispatch:
+    inputs:
+      raw:
+        description: 'Also save each page as text in warnraw/, for tuning (yes or no).'
+        required: false
+        default: 'yes'
+      only:
+        description: 'Only these sources, comma separated (all = every source).'
+        required: false
+        default: 'all'
+  schedule:
+    - cron: '23 */6 * * *'   # every 6 hours at minute 23
+
+permissions:
+  contents: write
+
+concurrency:
+  group: save-data
+  cancel-in-progress: false
+
+jobs:
+  warnings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node read-warnings.mjs
+        env:
+          RAW: ${{ inputs.raw == 'yes' && '1' || '' }}
+          ONLY: ${{ inputs.only != 'all' && inputs.only || '' }}
+      - name: Save the data files
+        run: |
+          git config user.name "sumner-robot"
+          git config user.email "sumner-robot@users.noreply.github.com"
+          git add warnings
+          if [ -d warnraw ]; then git add warnraw; fi
+          git diff --cached --quiet && exit 0
+          git commit -m "Warnings $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase
+          git push
