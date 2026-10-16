@@ -1,0 +1,7 @@
+[script] | https://msi.nga.mil/jquery.min.js
+[script] | https://msi.nga.mil/bootstrap.min.js
+[script] | https://www.google.com/recaptcha/api.js
+[script] | https://msi.nga.mil/static/js/main.aed59dd5.js
+[in page code] | https://msi.nga.mil/manifest.json
+[in page code] | https://msi.nga.mil/api/application/classification
+[in page code] | https://www.google.com/recaptcha/api.js

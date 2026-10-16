@@ -1,0 +1,2 @@
+[script] | https://9e72c2d51449.70064874.us-east-1.token.awswaf.com/9e72c2d51449/abd31f12fe35/c95b2d8d7b86/challenge.js
+[script] | https://9e72c2d51449.70064874.us-east-1.captcha.awswaf.com/9e72c2d51449/abd31f12fe35/c95b2d8d7b86/captcha.js

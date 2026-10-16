@@ -1,5 +1,5 @@
-URL: http://www.sanho.co.za/_navarea7_bulletins/bulletin.htm
-Final URL: http://www.sanho.co.za/_navarea7_bulletins/bulletin.htm
+URL: https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm
+Final URL: https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm
 HTTP: 404 
 Type: text/html; charset=iso-8859-1
 Bytes: 355

@@ -1,0 +1,116 @@
+Français fr | https://nis.ccg-gcc.gc.ca/public/rest/messages/fr/search-navareas
+Government of Canada / Gouvernement du Canada | https://www.canada.ca/en.html
+Jobs and the workplace | https://www.canada.ca/en/services/jobs.html
+Immigration and citizenship | https://www.canada.ca/en/services/immigration-citizenship.html
+Travel and tourism | https://travel.gc.ca/
+Business and industry | https://www.canada.ca/en/services/business.html
+Benefits | https://www.canada.ca/en/services/benefits.html
+Health | https://www.canada.ca/en/services/health.html
+Taxes | https://www.canada.ca/en/services/taxes.html
+Environment and natural resources | https://www.canada.ca/en/services/environment.html
+National security and defence | https://www.canada.ca/en/services/defence.html
+Culture, history and sportt | https://www.canada.ca/en/services/culture.html
+Policing, justice and emergencies | https://www.canada.ca/en/services/policing.html
+Transport and infrastructure | https://www.canada.ca/en/services/transport.html
+Canada and the world | https://international.gc.ca/world-monde/index.aspx?lang=eng
+Money and finances | https://www.canada.ca/en/services/finance.html
+Science and innovation | https://www.canada.ca/en/services/science.html
+Canada.ca | https://www.canada.ca/en.html
+Canadian Coast Guard | https://canada.ca/en/canadian-coast-guard.html
+e-Navigation Portal | https://e-navigation.canada.ca/index-en
+Navigational Warnings | https://nis.ccg-gcc.gc.ca/public/rest/menu/en/topics
+ | https://nis.ccg-gcc.gc.ca/public/rest/menu/en/helpMessages#searchTermsInfo
+ | https://nis.ccg-gcc.gc.ca/public/rest/menu/en/helpMessages#areaHelp
+Reset | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas
+ | https://nis.ccg-gcc.gc.ca/public/rest/menu/en/helpMessages#exportFilesInfo
+1 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=20
+2 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=2&maxHits=20
+3 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=3&maxHits=20
+Next | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=2&maxHits=20
+NAVAREA XVIII 136/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186345
+NAVAREA XVIII 135/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186342
+NAVAREA XVIII 133/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186230
+NAVAREA XVII 101/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186143
+NAVAREA XVIII 125/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186142
+NAVAREA XVIII 121/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185769
+NAVAREA XVIII 120/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185768
+NAVAREA XVIII 119/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185754
+NAVAREA XVIII 118/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185753
+NAVAREA XVIII 117/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185752
+NAVAREA XVIII 114/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185736
+NAVAREA XVIII 112/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185701
+NAVAREA XVIII 110/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185699
+NAVAREA XVIII 109/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185658
+NAVAREA XVIII 108/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185657
+NAVAREA XVIII 107/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185606
+NAVAREA XVIII 106/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185602
+NAVAREA XVIII 102/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185456
+NAVAREA XVII 90/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185370
+NAVAREA XVII 89/2026 | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185369
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186345
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186342
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186230
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186143
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/186142
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185769
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185768
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185754
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185753
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185752
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185736
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185701
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185699
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185658
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185657
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185606
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185602
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185456
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185370
+ | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/message/185369
+contact us | https://e-navigation.canada.ca/contact-en
+Contact us | https://www.canada.ca/en/contact.html
+Departments and agencies | https://www.canada.ca/en/government/dept.html
+Public service and military | https://www.canada.ca/en/government/publicservice.html
+News | https://www.canada.ca/en/news.html
+Treaties, laws and regulations | https://www.canada.ca/en/government/system/laws.html
+Government-wide reporting | https://www.canada.ca/en/transparency/reporting.html
+Prime Minister | https://pm.gc.ca/eng
+How government works | https://www.canada.ca/en/government/system.html
+Open government | https://open.canada.ca/en/
+Social media | https://www.canada.ca/en/social.html
+Mobile applications | https://www.canada.ca/en/mobile.html
+About Canada.ca | https://www1.canada.ca/en/newsite.html
+Terms and conditions | https://www.canada.ca/en/transparency/terms.html
+Privacy | https://www.canada.ca/en/transparency/privacy.html
+[script] | https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v5.3.0/build/ol.js
+[script] | https://cdn.jsdelivr.net/npm/jspdf@1.2.61/dist/jspdf.min.js
+[script] | https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js
+[script] | https://www.google.com/recaptcha/api.js?render=explicit&hl=en
+[form] | https://www.canada.ca/en/canadian-coast-guard/search.html
+[form] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/navareafile
+[form] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/gridfile
+[form] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/detailsfile
+[form] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/tablefile
+[form] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/simplefile
+[form] | https://e-navigation.canada.ca/scripts/report_problem_page.php
+[script] | https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.js
+[script] | https://cdn.jsdelivr.net/npm/select2@4.0.3/dist/js/select2.min.js
+[script] | https://nis.ccg-gcc.gc.ca/public/js/select2totree.js
+[script] | https://nis.ccg-gcc.gc.ca/public/gcweb-9-3-0/wet-boew/js/wet-boew.js
+[script] | https://nis.ccg-gcc.gc.ca/public/gcweb-9-3-0/GCWeb/js/theme.js
+[script] | https://nis.ccg-gcc.gc.ca/public/gcweb-9-3-0/wet-boew/js/ie8-wet-boew2.min.js
+[script] | http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+[script] | https://nis.ccg-gcc.gc.ca/public/gcweb-9-3-0/wet-boew/js/ie8-wet-boew.min.js
+[script] | https://nis.ccg-gcc.gc.ca/public/js/openLayer.js
+[script] | https://nis.ccg-gcc.gc.ca/public/js/message-search.js
+[script] | https://cdn.jsdelivr.net/npm/jquery-ui-bundle.1.12.1@1.12.1/jquery-ui.min.js
+[in page code] | https://nis.ccg-gcc.gc.ca/public/css/msinm.css
+[in page code] | https://www.google.com/recaptcha/api.js?render=explicit&hl=en
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/messages/fr/search-navareas
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/menu/en/helpMessages#searchTermsInfo
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/navareafile
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=20
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=2&maxHits=20
+[in page code] | https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=3&maxHits=20
+[in page code] | http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js

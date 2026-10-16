@@ -1,0 +1,19 @@
+ | https://www.admiralty.co.uk/
+Maritime Safety Information | https://msi.admiralty.co.uk/
+Notices to Mariners | https://msi.admiralty.co.uk/NoticesToMariners/Weekly
+Radio Navigation Warnings | https://msi.admiralty.co.uk/RadioNavigationalWarnings
+Sign in | https://msi.admiralty.co.uk/MicrosoftIdentity/Account/SignIn
+Radio Warnings | https://msi.admiralty.co.uk/RadioNavigationalWarnings
+About | https://msi.admiralty.co.uk/RadioNavigationalWarnings/About
+ | https://www.gov.uk/ukho
+Privacy and cookies | https://www.admiralty.co.uk/cookie-policy
+Accessibility | https://msi.admiralty.co.uk/AccessibilityStatement
+[iframe] | https://www.googletagmanager.com/ns.html?id=GTM-KBXZRD
+[form] | https://msi.admiralty.co.uk/RadioNavigationalWarnings/ShowSelection
+[script] | https://msi.admiralty.co.uk/lib/bootstrap/dist/js/bootstrap.bundle.min.js
+[script] | https://msi.admiralty.co.uk/js/site.js?v=5nySYw-c4dFbU0KKqeoew3QMWavdzP1yvtlGSvwaqEI
+[script] | https://msi.admiralty.co.uk/js/Custom/RadioNavigationalWarnings.js
+[in page code] | https://msi.admiralty.co.uk/RadioNavigationalWarnings
+[in page code] | https://msi.admiralty.co.uk/RadioNavigationalWarnings/About
+[in page code] | https://msi.admiralty.co.uk/RadioNavigationalWarnings/ShowSelection
+[in page code] | https://msi.admiralty.co.uk/js/Custom/RadioNavigationalWarnings.js

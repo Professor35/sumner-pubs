@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T00:07:32.956Z",
+ "built": "2026-10-16T00:11:32.899Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,8 +10,8 @@
    "kind": "page",
    "http": 200,
    "bytes": 75293,
-   "fetched": "2026-10-16T00:07:33.589Z",
-   "count": 7,
+   "fetched": "2026-10-16T00:11:33.558Z",
+   "count": 4,
    "status": "ok"
   },
   {
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-16T00:07:34.412Z",
+   "fetched": "2026-10-16T00:11:34.803Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -30,11 +30,11 @@
    "id": "navarea-3",
    "area": "III",
    "name": "Instituto Hidrográfico de la Marina, Spain (NAVAREA III)",
-   "url": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaihm1/prefLang-es/02ProductosServicios--02NAVAREAS",
+   "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
    "kind": "page",
    "http": 200,
-   "bytes": 46846,
-   "fetched": "2026-10-16T00:07:36.334Z",
+   "bytes": 4354,
+   "fetched": "2026-10-16T00:11:35.586Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,19 +46,19 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-16T00:07:36.543Z",
+   "fetched": "2026-10-16T00:11:35.783Z",
    "count": 0,
-   "status": "unreachable"
+   "status": "blocks robots"
   },
   {
    "id": "navarea-7",
    "area": "VII",
    "name": "South African Navy Hydrographic Office (NAVAREA VII)",
-   "url": "http://www.sanho.co.za/_navarea7_bulletins/bulletin.htm",
+   "url": "https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm",
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-16T00:07:37.281Z",
+   "fetched": "2026-10-16T00:11:36.879Z",
    "count": 0,
    "status": "unreachable"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 170152,
-   "fetched": "2026-10-16T00:07:42.811Z",
+   "fetched": "2026-10-16T00:11:38.163Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-16T00:07:43.816Z",
+   "fetched": "2026-10-16T00:11:38.967Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -94,9 +94,9 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-16T00:07:46.084Z",
+   "fetched": "2026-10-16T00:11:39.076Z",
    "count": 0,
-   "status": "unreachable"
+   "status": "blocks robots"
   },
   {
    "id": "navarea-15",
@@ -106,9 +106,9 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-16T00:07:46.373Z",
+   "fetched": "2026-10-16T00:11:39.339Z",
    "count": 0,
-   "status": "unreachable"
+   "status": "blocks robots"
   },
   {
    "id": "navarea-16",
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 41269,
-   "fetched": "2026-10-16T00:07:46.820Z",
+   "fetched": "2026-10-16T00:11:40.314Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -130,8 +130,8 @@
    "kind": "page",
    "http": 200,
    "bytes": 1044757,
-   "fetched": "2026-10-16T00:07:49.265Z",
-   "count": 28,
+   "fetched": "2026-10-16T00:11:42.391Z",
+   "count": 20,
    "status": "ok"
   },
   {
@@ -142,8 +142,8 @@
    "kind": "page",
    "http": 200,
    "bytes": 8910,
-   "fetched": "2026-10-16T00:07:50.355Z",
-   "count": 7,
+   "fetched": "2026-10-16T00:11:43.948Z",
+   "count": 3,
    "status": "ok"
   },
   {
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 35081,
-   "fetched": "2026-10-16T00:07:51.163Z",
+   "fetched": "2026-10-16T00:11:45.347Z",
    "count": 149,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 16071,
-   "fetched": "2026-10-16T00:07:51.356Z",
+   "fetched": "2026-10-16T00:11:45.574Z",
    "count": 44,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 28875,
-   "fetched": "2026-10-16T00:07:51.522Z",
+   "fetched": "2026-10-16T00:11:45.801Z",
    "count": 100,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 43806,
-   "fetched": "2026-10-16T00:07:51.970Z",
+   "fetched": "2026-10-16T00:11:46.422Z",
    "count": 186,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9013,
-   "fetched": "2026-10-16T00:07:52.346Z",
+   "fetched": "2026-10-16T00:11:46.677Z",
    "count": 38,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -218,11 +218,35 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 200,
-   "bytes": 9447,
-   "fetched": "2026-10-16T00:07:52.563Z",
+   "bytes": 9445,
+   "fetched": "2026-10-16T00:11:46.929Z",
    "count": 46,
    "status": "ok",
    "scripts": 4
+  },
+  {
+   "id": "nga-api-v3",
+   "area": "",
+   "name": "NGA API description (v3)",
+   "url": "https://msi.nga.mil/api/v3/api-docs",
+   "kind": "raw",
+   "http": 404,
+   "bytes": 275,
+   "fetched": "2026-10-16T00:11:47.458Z",
+   "count": 0,
+   "status": "unreachable"
+  },
+  {
+   "id": "nga-api-v2",
+   "area": "",
+   "name": "NGA API description (v2)",
+   "url": "https://msi.nga.mil/api/v2/api-docs",
+   "kind": "raw",
+   "http": 404,
+   "bytes": 275,
+   "fetched": "2026-10-16T00:11:47.740Z",
+   "count": 0,
+   "status": "unreachable"
   }
  ]
 }

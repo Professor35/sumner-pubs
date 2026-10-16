@@ -1,0 +1,30 @@
+Contact to JHOD | http://www1.kaiho.mlit.go.jp/joint/form_mail/form_mail_e.cgi?section=jhod
+Japanese | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11.html
+About us | https://www1.kaiho.mlit.go.jp/eng/activity.html
+Electronic Charts | https://www1.kaiho.mlit.go.jp/KOKAI/ENC/enc_index_e.html
+Notices to Mariners | https://www1.kaiho.mlit.go.jp/TUHO/tuho/nm_en.html
+Navigational Warnings | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html
+Realtime Tidal Data | https://www1.kaiho.mlit.go.jp/KANKYO/TIDE/real_time_tide/sel/index_e.htm
+Oceanographic Data: JODC | http://www.jodc.go.jp/
+EAHC | http://www.eahc.asia/
+International Activities | https://www1.kaiho.mlit.go.jp/eng/kokusai_e.html
+JHOD TOP | https://www1.kaiho.mlit.go.jp/jhd-E.html
+ | https://www1.kaiho.mlit.go.jp/TUHO/vpage/visualpage_en.html
+Weekly Summary | https://www1.kaiho.mlit.go.jp/TUHO/weekly/weekly_en.html
+List of Aids to Navigation | https://www1.kaiho.mlit.go.jp/shoshi/toudai/e_toudai.html
+Supplement of Sailing Directions | https://www1.kaiho.mlit.go.jp/shoshi/tsuiho/photograph_en.html
+NAVAREA XI | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html
+NAVTEX | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navtex_en.html
+Local Navigational Warnings | https://www1.kaiho.mlit.go.jp/TUHO/keiho/local_nw_en.html
+Before 2016&thinsp; | https://www1.kaiho.mlit.go.jp/TUHO/keiho/backnumber_en.html
+[script] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/jquery-3.7.1.min.js
+[script] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/jquery.mySlider-3.7.1.js
+[script] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/warnings.js
+[script] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/AjaxLib.js
+[form] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi//disp_warnings.cgi
+[in page code] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/
+[in page code] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi//disp_warnings.cgi
+[in page code] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11.html
+[in page code] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html
+[in page code] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/navtex_en.html
+[in page code] | https://www1.kaiho.mlit.go.jp/TUHO/keiho/local_nw_en.html
