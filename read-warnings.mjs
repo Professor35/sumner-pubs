@@ -23,6 +23,7 @@ const L = new Function(m[1] + '\nreturn { warnPts, warnShape, warnCategory };')(
 
 const ROMAN = 'XXI|XX|XIX|XVIII|XVII|XVI|XV|XIV|XIII|XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I';
 const HEAD = new RegExp('NAVAREA\\s+(' + ROMAN + ')\\s*(?:No\\.?\\s*)?(\\d{1,4})\\s*/\\s*(\\d{2,4})', 'g');
+const HEAD2 = new RegExp('NAVAREA\\s+(' + ROMAN + ')\\s+NO\\.?\\s*(\\d{2})-(\\d{1,4})', 'g');
 const MON = { JAN: 0, FEB: 1, MAR: 2, APR: 3, MAY: 4, JUN: 5, JUL: 6, AUG: 7, SEP: 8, OCT: 9, NOV: 10, DEC: 11 };
 
 function htmlText(h) {
@@ -47,6 +48,10 @@ function readPage(text, wantArea) {
   const heads = []; let h;
   HEAD.lastIndex = 0;
   while ((h = HEAD.exec(text))) heads.push({ at: h.index, area: h[1], num: Number(h[2]), year: Number(h[3]) < 100 ? 2000 + Number(h[3]) : Number(h[3]), len: h[0].length });
+  // Japan writes "NAVAREA XI NO.26-0465"
+  HEAD2.lastIndex = 0;
+  while ((h = HEAD2.exec(text))) heads.push({ at: h.index, area: h[1], num: Number(h[3]), year: 2000 + Number(h[2]), len: h[0].length });
+  heads.sort((a, b) => a.at - b.at);
   const best = {};
   // a heading right after "CANCEL", "SEE" or "REF" is a mention of another warning, not the start of one
   const real = heads.filter(x => !/\b(CANCEL(?:LED|S)?|SEE|REF(?:ERENCE)?|AND|ALSO)\W*$/i.test(text.slice(Math.max(0, x.at - 24), x.at)));
@@ -62,7 +67,8 @@ function readPage(text, wantArea) {
     if (!best[key] || best[key].text.length < body.length) best[key] = { id: key, title: 'NAVAREA ' + key, text: body.slice(0, 3000) };
   });
   return Object.values(best).map(w => {
-    const pts = L.warnPts(w.text), since = dtg(w.text), cx = /CANCEL THIS (?:MSG|MESSAGE)\s+(.{6,40})/i.exec(w.text), until = cx ? dtg(cx[1]) : null;
+    const ymd = /Date:\s*(\d{4})\/(\d{2})\/(\d{2})\s+(\d{2})/.exec(w.text);
+    const pts = L.warnPts(w.text), since = dtg(w.text) || (ymd ? Date.UTC(+ymd[1], +ymd[2] - 1, +ymd[3], +ymd[4]) : null), cx = /CANCEL THIS (?:MSG|MESSAGE)\s+(.{6,40})/i.exec(w.text), until = cx ? dtg(cx[1]) : null;
     return { id: w.id, title: w.title, text: w.text, issued: since ? new Date(since).toISOString() : '', until: until ? new Date(until).toISOString() : '', pts: pts.map(p => [Math.round(p[0] * 1e4) / 1e4, Math.round(p[1] * 1e4) / 1e4]), shape: L.warnShape(w.text, pts), cat: L.warnCategory({ title: w.title, text: w.text }) };
   });
 }
