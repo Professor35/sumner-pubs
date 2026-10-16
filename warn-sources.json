@@ -35,13 +35,14 @@
    "area": "VII",
    "name": "South African Navy Hydrographic Office (NAVAREA VII)",
    "url": "https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm",
-   "kind": "page"
+   "kind": "page",
+   "note": "The old bulletin page is gone; looking for the new address."
   },
   {
    "id": "navarea-10",
    "area": "X",
    "name": "AMSA, Australia (NAVAREA X)",
-   "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database",
+   "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page"
   },
   {
@@ -71,14 +72,14 @@
    "id": "navarea-16",
    "area": "XVI",
    "name": "Dirección de Hidrografía y Navegación, Peru (NAVAREA XVI)",
-   "url": "https://www.dhn.mil.pe/portal/navarea",
+   "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page"
   },
   {
    "id": "navarea-17-18",
    "area": "XVII",
    "name": "Canadian Coast Guard (NAVAREA XVII and XVIII)",
-   "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas",
+   "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100",
    "kind": "page"
   },
   {
@@ -131,17 +132,45 @@
    "kind": "discover"
   },
   {
-   "id": "nga-api-v3",
+   "id": "navarea-2-code",
    "area": "",
-   "name": "NGA API description (v3)",
-   "url": "https://msi.nga.mil/api/v3/api-docs",
+   "name": "SHOM site code (where it loads warnings from)",
+   "url": "https://portail.ping-info-nautique.fr/avurnavnotice",
+   "kind": "discover"
+  },
+  {
+   "id": "navarea-3-code",
+   "area": "",
+   "name": "Spanish site code (where it loads warnings from)",
+   "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
+   "kind": "discover"
+  },
+  {
+   "id": "navarea-11-js",
+   "area": "",
+   "name": "Japan Coast Guard warnings script",
+   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/warnings.js",
    "kind": "raw"
   },
   {
-   "id": "nga-api-v2",
+   "id": "navarea-11-ajax",
    "area": "",
-   "name": "NGA API description (v2)",
-   "url": "https://msi.nga.mil/api/v2/api-docs",
+   "name": "Japan Coast Guard data script",
+   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/AjaxLib.js",
+   "kind": "raw"
+  },
+  {
+   "id": "nga-api-docs",
+   "area": "",
+   "name": "NGA API description",
+   "url": "https://msi.nga.mil/api/api-docs",
+   "kind": "raw"
+  },
+  {
+   "id": "nga-swagger",
+   "area": "",
+   "name": "NGA API list",
+   "url": "https://msi.nga.mil/api/swagger-resources",
    "kind": "raw"
   }
  ]

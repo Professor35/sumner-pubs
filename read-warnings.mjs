@@ -116,8 +116,9 @@ for (const s of cfg.sources) {
     if (res.ok) fs.writeFileSync('warnings/' + s.id + '.txt', res.body.slice(0, 400000));
   } else if (s.kind === 'discover') {
     // which scripts the site loads, and the data addresses inside them, so the reader can be pointed at the right one
-    const scripts = [...res.body.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(x => new URL(x[1], res.url || s.url).href).slice(0, 12), paths = new Set();
-    for (const src of scripts) { const js = await get(src); for (const p of js.body.matchAll(/["'`](\/?api\/[A-Za-z0-9_\-\/.?=&{}$]+)["'`]/g)) paths.add(p[1]); }
+    const scripts = [...res.body.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(x => new URL(x[1], res.url || s.url).href).slice(0, 20), paths = new Set();
+    for (const src of scripts) { const js = await get(src); for (const p of js.body.matchAll(/["'`]([A-Za-z0-9_\-\/.:?=&{}$]*(?:api|json|ajax|cgi|aviso|navarea|avurnav|radioaviso|warning|\.txt|\.xml)[A-Za-z0-9_\-\/.:?=&{}$]*)["'`]/gi)) if (p[1].length > 3 && p[1].length < 200) paths.add(p[1]); }
+    for (const p of res.body.matchAll(/["'`]([A-Za-z0-9_\-\/.:?=&{}$]*(?:api|json|ajax|cgi|aviso|navarea|avurnav|radioaviso|warning|\.txt|\.xml)[A-Za-z0-9_\-\/.:?=&{}$]*)["'`]/gi)) if (p[1].length > 3 && p[1].length < 200) paths.add(p[1]);
     entry.count = paths.size; entry.status = paths.size ? 'ok' : 'nothing found'; entry.scripts = scripts.length;
     fs.writeFileSync('warnings/' + s.id + '-paths.json', JSON.stringify({ scripts, paths: [...paths].sort() }, null, 1));
   }
