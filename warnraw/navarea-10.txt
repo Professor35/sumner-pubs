@@ -1,0 +1,596 @@
+URL: https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database
+Final URL: https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database
+HTTP: 200 
+Type: text/html; charset=UTF-8
+Bytes: 170152
+
+Maritime safety information database | Australian Maritime Safety Authority 
+ Skip to main content
+ Utility Menu
+ Search and rescue 
+ myAMSA 
+ Find a form 
+ Media Centre 
+ Contact us 
+ Home
+ Qualifications & training
+ Toggle submenu 
+ Domestic qualifications
+ General Purpose Hand
+ Coxswain
+ Master
+ Engineer
+ Sailing Master
+ Training for domestic qualifications
+ Completing your domestic application
+ Endorsements
+ Manage your domestic certificate
+ Near coastal sea service and task books
+ STCW (international) certificates
+ About STCW
+ Training and careers
+ CoST, sea service and medical fitness
+ Get a new STCW certificate
+ Use an overseas certificate in Australia
+ Revalidate an STCW certificate
+ Add an STCW endorsement
+ Equivalent qualifications and skill recognition
+ Equivalent qualifications for domestic certificates
+ New Zealand domestic equivalence
+ Royal Australian Navy international equivalence
+ Oral exams
+ Book an oral exam
+ Prepare for your oral exam
+ Online learning
+ Online learning
+ Our courses
+ Safety and navigation training
+ Cargoes and dangerous goods training
+ Requirements for registered training organisations
+ Domestic certification training
+ International certification training
+ Seafarer certification guidance documents
+ Quick-reference guidance documents
+ National Plan training
+ Training for responders
+ AMSA as a registered training organisation
+ Coastal pilotage
+ Become a coastal pilot
+ Apply for a license or renew
+ Training
+ Vessels & operators
+ Toggle submenu 
+ Incident reporting and investigations
+ Reporting an incident
+ About marine incident reporting
+ Marine incident reports
+ Investigations and compliance
+ Ship registration
+ Register, transfer, update or close a registration
+ Submit a notice of intention to register a vessel
+ Information about vessel registrations
+ Find out about a vessel
+ Pleasure craft and fishing boats
+ Brokers and agents
+ Seafarer Welfare
+ Maritime Labour Convention guidance
+ Seafarer welfare guidance
+ Seafarer safety
+ Safety publications and guidance
+ Coronavirus (COVID-19)
+ Maritime Labour Convention Annual Reports
+ Cargoes and dangerous goods
+ Regulations and standards for cargoes and dangerous goods
+ Transporting livestock
+ Container and cargo safety
+ National Standard for Commercial Vessels (NSCV)
+ About the NSCV
+ Design and construction
+ Equipment
+ Special vessels
+ Novel vessels
+ Non-survey vessels
+ Other information
+ Domestic commercial vessels
+ What is a domestic commercial vessel?
+ Operations
+ Operational safety
+ Surveys
+ Inspections
+ Marine surveyors manual
+ National system state transitions
+ Flag State administration
+ Flag state administration in Australia
+ Regulated Australian vessels
+ Port State control
+ About Port State control in Australia
+ Port State control inspections
+ Common port State control deficiencies
+ Port State control annual reports
+ Ship detentions
+ Port State control
+ Safety & navigation
+ Toggle submenu 
+ Distress beacons
+ Changes to EPIRB laws for domestic commercial vessels
+ Register your beacon and find out more
+ Maritime mobile service identity information
+ Navigating coastal waters
+ Coastal pilots
+ Pilot advisory notes
+ Vessel traffic services
+ Local port services
+ Particularly sensitive sea areas
+ Commercial fishing
+ Offshore activities
+ Report a concern with a pilotage operation
+ Search and rescue
+ Preparing for a trip
+ Search and rescue in Australia
+ Our search and rescue equipment
+ International and regional search and rescue
+ Past search and rescue incidents
+ Spatial data
+ Maps and geographic data
+ Maritime digitalisation
+ Navigation systems
+ Aids to navigation
+ Lighthouses
+ Systems for maritime safety and distress
+ Electronic chart navigation
+ Ship tracking and reporting systems
+ Automatic identification system
+ Safety equipment
+ Lifejackets
+ Rescue boats
+ Safety equipment
+ Marine environment
+ Toggle submenu 
+ National Plan for Maritime Environmental Emergencies
+ About the National Plan
+ National Plan supporting documents
+ National Plan annual reports
+ National Plan for Maritime Environmental Emergencies
+ Marine pollution
+ Garbage placards
+ Ship garbage recycling
+ The polluting effect of containers
+ Pollution reporting
+ MARPOL discharges
+ Vessel waste management
+ Regulations and standards
+ Fishing gear marking and reporting
+ Maritime casualty response
+ Maritime casualty management
+ Complex maritime emergencies
+ Pollution response
+ Pollution investigation
+ Response resources
+ Response tools and capabilities
+ Pollution science technical references
+ Pollution response
+ Incidents and exercises
+ Incidents
+ Exercises
+ Historical pollution and casualty incidents
+ Air pollution
+ Nitrogen Oxide (NOx) Emissions
+ Greenhouse gas emissions
+ Sydney Harbour cruise ship emissions
+ Low sulphur fuel regulations
+ Fuel oil suppliers
+ News & community
+ Toggle submenu 
+ News and updates
+ Social media
+ AMSA on social media
+ Campaigns
+ Marine Order 504 changes
+ Women in maritime
+ Tender safety
+ People in maritime
+ Lifejacket safety
+ Newsletters
+ AMSA update
+ Marine notices
+ Safety alerts
+ Maritime Safety Awareness Bulletins
+ Survey Matters
+ Webinars
+ Upcoming webinars
+ Past webinars
+ Consultations
+ Open consultations
+ Closed consultations 
+ Safety lessons
+ About
+ Toggle submenu 
+ Who we are
+ Our priorities
+ Organisation structure
+ Our Board
+ Legislation
+ Office locations
+ Fees, levies, and payments
+ Overview
+ Domestic commercial vessel safety fees
+ Marine levies
+ Cost recovery implementation statements
+ Reporting and accountability
+ Body worn cameras
+ Requesting information from us
+ File lists and mandatory reporting
+ Confidential reporting
+ Procurement
+ Reconciliation
+ Who we work with
+ Australian forums
+ International engagement
+ Building capacity in the maritime industry
+ Memoranda of understanding
+ Interagency agreements
+ Intergovernmental agreements
+ Careers
+ Regulations and standards
+ The national law and regulations
+ Marine orders
+ National law exemptions
+ Standards and generic equivalent solutions
+ Index of marine notices
+ What are marine orders
+ Regulations and standards
+ myAMSA
+ Set up a myAMSA account
+ myAMSA Terms of Use
+ myAMSA help and feedback
+ Contact us
+ Make an enquiry
+ Feedback and complaints
+ Report or verify a scam
+ Guidance for deceased estates
+ Corporate publications
+ Annual reports
+ Annual regulatory plans
+ Environmental and social responsibility
+ Publication order forms
+ Strategic documents
+ Regulator performance framework reports
+ Superseded compliance documents
+ Workforce publications
+ Utility Menu
+ Toggle submenu 
+ Test link
+ I am a...
+ Surveyor of domestic vessels 
+ Vessel owner and operator 
+ Commercial fisher 
+ Domestic seafarer or crew 
+ International crew 
+ First Nations crew or vessel operator 
+ Not you? See more ... 
+ Utility Menu
+ Search and rescue 
+ myAMSA 
+ Find a form 
+ Media Centre 
+ Contact us 
+ Search 
+ Print or save 
+ Breadcrumb
+ Home 
+ Safety & navigation 
+ Navigation systems 
+ Systems for maritime safety and distress 
+ Maritime safety information database
+ Maritime safety information database
+ Navigational maritime safety information (MSI) for NAVAREA X and Australian coastal areas is issued by the Rescue Coordination Centre – Australia (RCC). 
+Navigational warnings are current for the time indicated and can be updated by refreshing the webpage.
+ You can search our maritime safety information by:
+ selecting the search filter boxes below
+ clicking on the search button to display the results.
+ You can then email your search results by:
+ entering your email address in the field below
+ clicking on the 'Send results to my email address' button.
+ The date-time format used in the below information is 'ddhhmmZ mon yy' where 'Z' indicates UTC.
+ Search the database
+ </ifram>Information on coastal areas is available in the Australian Seafarers handbook (AHP20)&amp;nbsp;or the <a href="/node/1277">Australian GMDSS handbook</a>.</p></body> 
+ Information on coastal areas is available in the Australian Seafarers handbook (AHP20) or the Australian GMDSS handbook .
+ Print 
+ Print 
+ Last updated: 20 August 2026
+ Main Menu Sidebar
+ Home 
+ Qualifications & training 
+ Domestic qualifications 
+ General Purpose Hand 
+ Coxswain 
+ Master 
+ Engineer 
+ Sailing Master 
+ Training for domestic qualifications 
+ Completing your domestic application 
+ Endorsements 
+ Manage your domestic certificate 
+ Near coastal sea service and task books 
+ STCW (international) certificates 
+ About STCW 
+ Training and careers 
+ CoST, sea service and medical fitness 
+ Get a new STCW certificate 
+ Use an overseas certificate in Australia 
+ Revalidate an STCW certificate 
+ Add an STCW endorsement 
+ Equivalent qualifications and skill recognition 
+ Equivalent qualifications for domestic certificates 
+ New Zealand domestic equivalence 
+ Royal Australian Navy international equivalence 
+ Oral exams 
+ Book an oral exam 
+ Prepare for your oral exam 
+ Online learning 
+ Online learning 
+ Our courses 
+ Safety and navigation training 
+ Cargoes and dangerous goods training 
+ Requirements for registered training organisations 
+ Domestic certification training 
+ International certification training 
+ Seafarer certification guidance documents 
+ Quick-reference guidance documents 
+ National Plan training 
+ Training for responders 
+ AMSA as a registered training organisation 
+ Coastal pilotage 
+ Become a coastal pilot 
+ Apply for a license or renew 
+ Training 
+ Vessels & operators 
+ Incident reporting and investigations 
+ Reporting an incident 
+ About marine incident reporting 
+ Marine incident reports 
+ Investigations and compliance 
+ Ship registration 
+ Register, transfer, update or close a registration 
+ Submit a notice of intention to register a vessel 
+ Information about vessel registrations 
+ Find out about a vessel 
+ Pleasure craft and fishing boats 
+ Brokers and agents 
+ Seafarer Welfare 
+ Maritime Labour Convention guidance 
+ Seafarer welfare guidance 
+ Seafarer safety 
+ Safety publications and guidance 
+ Coronavirus (COVID-19) 
+ Maritime Labour Convention Annual Reports 
+ Cargoes and dangerous goods 
+ Regulations and standards for cargoes and dangerous goods 
+ Transporting livestock 
+ Container and cargo safety 
+ National Standard for Commercial Vessels (NSCV) 
+ About the NSCV 
+ Design and construction 
+ Equipment 
+ Special vessels 
+ Novel vessels 
+ Non-survey vessels 
+ Other information 
+ Domestic commercial vessels 
+ What is a domestic commercial vessel? 
+ Operations 
+ Operational safety 
+ Surveys 
+ Inspections 
+ Marine surveyors manual 
+ National system state transitions 
+ Flag State administration 
+ Flag state administration in Australia 
+ Regulated Australian vessels 
+ Port State control 
+ About Port State control in Australia 
+ Port State control inspections 
+ Common port State control deficiencies 
+ Port State control annual reports 
+ Ship detentions 
+ Port State control 
+ Safety & navigation 
+ Distress beacons 
+ Changes to EPIRB laws for domestic commercial vessels 
+ Register your beacon and find out more 
+ Maritime mobile service identity information 
+ Navigating coastal waters 
+ Coastal pilots 
+ Pilot advisory notes 
+ Vessel traffic services 
+ Local port services 
+ Particularly sensitive sea areas 
+ Commercial fishing 
+ Offshore activities 
+ Report a concern with a pilotage operation 
+ Search and rescue 
+ Preparing for a trip 
+ Search and rescue in Australia 
+ Our search and rescue equipment 
+ International and regional search and rescue 
+ Past search and rescue incidents 
+ Spatial data 
+ Maps and geographic data 
+ Maritime digitalisation 
+ Navigation systems 
+ Aids to navigation 
+ Lighthouses 
+ Systems for maritime safety and distress 
+ Electronic chart navigation 
+ Ship tracking and reporting systems 
+ Automatic identification system 
+ Safety equipment 
+ Lifejackets 
+ Rescue boats 
+ Safety equipment 
+ Marine environment 
+ National Plan for Maritime Environmental Emergencies 
+ About the National Plan 
+ National Plan supporting documents 
+ National Plan annual reports 
+ National Plan for Maritime Environmental Emergencies 
+ Marine pollution 
+ Garbage placards 
+ Ship garbage recycling 
+ The polluting effect of containers 
+ Pollution reporting 
+ MARPOL discharges 
+ Vessel waste management 
+ Regulations and standards 
+ Fishing gear marking and reporting 
+ Maritime casualty response 
+ Maritime casualty management 
+ Complex maritime emergencies 
+ Pollution response 
+ Pollution investigation 
+ Response resources 
+ Response tools and capabilities 
+ Pollution science technical references 
+ Pollution response 
+ Incidents and exercises 
+ Incidents 
+ Exercises 
+ Historical pollution and casualty incidents 
+ Air pollution 
+ Nitrogen Oxide (NOx) Emissions 
+ Greenhouse gas emissions 
+ Sydney Harbour cruise ship emissions 
+ Low sulphur fuel regulations 
+ Fuel oil suppliers 
+ News & community 
+ News and updates 
+ Social media 
+ AMSA on social media 
+ Campaigns 
+ Marine Order 504 changes 
+ Women in maritime 
+ Tender safety 
+ People in maritime 
+ Lifejacket safety 
+ Newsletters 
+ AMSA update 
+ Marine notices 
+ Safety alerts 
+ Maritime Safety Awareness Bulletins 
+ Survey Matters 
+ Webinars 
+ Upcoming webinars 
+ Past webinars 
+ Consultations 
+ Open consultations 
+ Closed consultations 
+ Safety lessons 
+ About 
+ Who we are 
+ Our priorities 
+ Organisation structure 
+ Our Board 
+ Legislation 
+ Office locations 
+ Fees, levies, and payments 
+ Overview 
+ Domestic commercial vessel safety fees 
+ Marine levies 
+ Cost recovery implementation statements 
+ Reporting and accountability 
+ Body worn cameras 
+ Requesting information from us 
+ File lists and mandatory reporting 
+ Confidential reporting 
+ Procurement 
+ Reconciliation 
+ Who we work with 
+ Australian forums 
+ International engagement 
+ Building capacity in the maritime industry 
+ Memoranda of understanding 
+ Interagency agreements 
+ Intergovernmental agreements 
+ Careers 
+ Regulations and standards 
+ The national law and regulations 
+ Marine orders 
+ National law exemptions 
+ Standards and generic equivalent solutions 
+ Index of marine notices 
+ What are marine orders 
+ Regulations and standards 
+ myAMSA 
+ Set up a myAMSA account 
+ myAMSA Terms of Use 
+ myAMSA help and feedback 
+ Contact us 
+ Make an enquiry 
+ Feedback and complaints 
+ Report or verify a scam 
+ Guidance for deceased estates 
+ Corporate publications 
+ Annual reports 
+ Annual regulatory plans 
+ Environmental and social responsibility 
+ Publication order forms 
+ Strategic documents 
+ Regulator performance framework reports 
+ Superseded compliance documents 
+ Workforce publications 
+ Utility Menu 
+ Test link 
+ I am a...
+ Surveyor of domestic vessels 
+ Vessel owner and operator 
+ Commercial fisher 
+ Domestic seafarer or crew 
+ International crew 
+ First Nations crew or vessel operator 
+ Not you? See more ... 
+ Acknowledgement of Country
+ The Australian Maritime Safety Authority acknowledges the Traditional Custodians of Country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present as well as the continuation of cultural, spiritual and educational practices of all Aboriginal and Torres Strait Islander peoples.
+ Contact
+ General contact
+ 1800 627 484 
+Monday to Friday 
+8 am to 5 pm AEDT
+ Make an enquiry 
+ Outside of Australia 
+ +61 2 6279 5000 
+ Beacons enquiries
+ 1800 406 406 
+Monday to Friday 
+9 am to 5 pm AEDT
+ Address
+ 18 Marcus Clarke Street
+Canberra ACT 2601 
+Australia
+ Emergencies
+ If you have an emergency 
+in Australia 
+dial 000 or 112 (satellite phone)
+ For search and rescue 
+services call our 24-hour contact numbers:
+ Maritime 
+ +61 2 6230 6811 
+ Aviation 
+ +61 2 6230 6899 
+ More contact details 
+ About
+ Vision, mission, and values 
+ Provide feedback about AMSA 
+ Service charter 
+ Copyright 
+ Privacy 
+ Accessibility 
+ Freedom of information 
+ Site map 
+ Media Centre 
+ Confidential reporting 
+ Contact 
+ Subscribe 
+ Interpreter service
+ Stay connected
+ Safe and clean seas, saving lives
+ © Australian Government

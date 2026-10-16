@@ -1,0 +1,7 @@
+URL: https://www.maritimenz.govt.nz/navarea
+Final URL: https://www.maritimenz.govt.nz/navarea
+HTTP: 403 
+Type: text/html; charset=UTF-8
+Bytes: 5679
+
+Just a moment...

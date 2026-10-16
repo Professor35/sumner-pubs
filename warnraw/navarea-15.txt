@@ -1,0 +1,7 @@
+URL: https://www.shoa.cl
+Final URL: https://www.shoa.cl/
+HTTP: 405 
+Type: text/html; charset=UTF-8
+Bytes: 2235
+
+Human Verification
