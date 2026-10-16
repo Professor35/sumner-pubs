@@ -2,7 +2,7 @@ URL: https://msi.admiralty.co.uk/RadioNavigationalWarnings
 Final URL: https://msi.admiralty.co.uk/RadioNavigationalWarnings
 HTTP: 200 
 Type: text/html; charset=utf-8
-Bytes: 75293
+Bytes: 75313
 
 Radio Navigation Warnings 
  Skip to content 

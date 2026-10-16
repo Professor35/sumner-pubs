@@ -1,0 +1,143 @@
+<opt>
+  <Member>
+    <categoly>Submerged facilities</categoly>
+    <number>0466</number>
+    <tana>260466</tana>
+    <title>TAIWAN STRAIT. SUBMARINE CABLE REPAIRING WORKS BY </title>
+    <visual>0</visual>
+  </Member>
+  <Member>
+    <categoly>Other</categoly>
+    <number>0465</number>
+    <tana>260465</tana>
+    <title>NORTH PACIFIC WESTERN PART. ROCKET H3 LAUNCHING. ELEMENTS FALL </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Other</categoly>
+    <number>0464</number>
+    <tana>260464</tana>
+    <title>NORTH PACIFIC EAST CAROLINES. SUBMARINE CABLE RECOVERY WORKS BY </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Exercises</categoly>
+    <number>0463</number>
+    <tana>260463</tana>
+    <title>NORTH PACIFIC MARIANAS. HAZARDOUS OPERATIONS.  </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Aids to navigation</categoly>
+    <number>0457</number>
+    <tana>260457</tana>
+    <title>SINGAPORE STRAIT. PAWAI BUOY 01-11.50N 103-40.44E </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Exercises</categoly>
+    <number>0456</number>
+    <tana>260456</tana>
+    <title>NORTH PACIFIC NANPO SHOTO. GUNNERY. 160400Z TO 161500Z OCT </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Other</categoly>
+    <number>0455</number>
+    <tana>260455</tana>
+    <title>NAVAREA XI WARNING MESSAGES IN FORCE 101200Z OCT. ONLY THOSE MESSAGES ISSUED </title>
+    <visual>0</visual>
+  </Member>
+  <Member>
+    <categoly>Exercises</categoly>
+    <number>0430</number>
+    <tana>260430</tana>
+    <title>NORTH PACIFIC NANPO SHOTO. GUNNERY. 2300Z TO 0900Z COMMENCING DAILY </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Submerged facilities</categoly>
+    <number>0428</number>
+    <tana>260428</tana>
+    <title>SINGAPORE STRAIT. SUBMARINE CABLE REPAIRING WORKS BY </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Depth</categoly>
+    <number>0408</number>
+    <tana>260408</tana>
+    <title>JAVA SEA. SUNKEN WRECK EXISTS IN 04-32-31.8S </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Natural Phenomenon</categoly>
+    <number>0401</number>
+    <tana>260401</tana>
+    <title>080200UTC ISSUED AT 080200UTC SEP 2026 VOLCANIC WARNING </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Other</categoly>
+    <number>0400</number>
+    <tana>260400</tana>
+    <title>NORTH PACIFIC MARIANAS. GUAM HF NAVTEX STATION V </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Aids to navigation</categoly>
+    <number>0398</number>
+    <tana>260398</tana>
+    <title>NORTH PACIFIC NANPO SHOTO. CHICHI SHIMA FUTAMI KO NR.3 LIGHT BUOY </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Aids to navigation</categoly>
+    <number>0387</number>
+    <tana>260387</tana>
+    <title>PHILIPPINES. APO ISLAND LIGHT 09-04.98N 123-16.22E  </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Depth</categoly>
+    <number>0386</number>
+    <tana>260386</tana>
+    <title>JAVA SEA. SUNKEN WRECK EXISTS IN 04-14-42S </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Research</categoly>
+    <number>0356</number>
+    <tana>260356</tana>
+    <title>GULF OF THAILAND AND SOUTH CHINA SEA SOUTHERN PART. </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Aids to navigation</categoly>
+    <number>0328</number>
+    <tana>260328</tana>
+    <title>NORTH PACIFIC WEST CAROLINES. MALAKAL HARBOR NR.1 LIGHTED BOUY </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Natural Phenomenon</categoly>
+    <number>0322</number>
+    <tana>260322</tana>
+    <title>NORTH PACIFIC MARIANAS. DISCOLOURED WATER REPORTED IN VICINITY </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Aids to navigation</categoly>
+    <number>0273</number>
+    <tana>260273</tana>
+    <title>SINGAPORE STRAIT. BATU BERHANTI ISOLATED DANGER MARKS  </title>
+    <visual>1</visual>
+  </Member>
+  <Member>
+    <categoly>Research</categoly>
+    <number>0034</number>
+    <tana>260034</tana>
+    <title>SELAT MAKASAR. SEISMIC SURVEY WORKS BY S/V RAMFORM </title>
+    <visual>1</visual>
+  </Member>
+</opt>
+

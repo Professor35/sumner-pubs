@@ -1,6 +1,5082 @@
 URL: https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100
 Final URL: https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100
-HTTP: 0 fetch failed
-Type: 
-Bytes: 0
+HTTP: 200 
+Type: text/html;charset=UTF-8
+Bytes: 1215529
 
+Search for NAVAREAs 
+ Skip to main content 
+ Skip to "About this site" 
+ Language selection
+ Français 
+ fr 
+ Government of Canada / Gouvernement du Canada 
+ Search
+ Search CCG 
+ Search 
+ Menu
+ Main Menu 
+ Jobs and the workplace 
+ Immigration and citizenship 
+ Travel and tourism 
+ Business and industry 
+ Benefits 
+ Health 
+ Taxes 
+ Environment and natural resources 
+ National security and defence 
+ Culture, history and sportt 
+ Policing, justice and emergencies 
+ Transport and infrastructure 
+ Canada and the world 
+ Money and finances 
+ Science and innovation 
+ You are here:
+ Canada.ca 
+ Canadian Coast Guard 
+ e-Navigation Portal 
+ Navigational Warnings 
+ Search for NAVAREAs
+ Search Criteria
+ Search Terms
+ Status 
+ Published 
+ Start Date 
+ End Date 
+ Navareas 
+ NAVAREA XVIII NAVAREA XVII 
+ Areas (Series) 
+ Canada Pacific Coast (P) Pacific North Coast Southern Alaska Dixon Entrance East Prince Rupert Harbour Dixon Entrance West Douglas Channel & Gardner Canal North Coast Hecate Strait Central Coast from McInnes Island to Pine Island Rivers Inlet Smith Sound - Smith Inlet Burke & Dean Channels Portland Canal Queen Charlotte Sound West Coast Haida Gwaii Bowie Pacific South Coast Queen Charlotte Strait Johnstone Strait Strait of Georgia Vancouver Harbour Fraser River Fraser River - North Arm Howe Sound Boundary Bay Haro Strait Juan de Fuca Strait Victoria Harbour Esquimalt Harbour Washington State - San Juan Islands West Coast Vancouver Island North West Coast Vancouver Island South Explorer Mainland South Coast Inlets Sechelt Inlet - Jervis Inlet BC Inland Waterways and Lakes (P) Great Lakes (C) Georgian Bay Kingston to Cornwall Lake Erie Lake Huron Lake Nipigon Lake Nipissing Lake of Bays Lake Ontario Lake Simcoe Lake St. Clair Lake Superior North Channel Whitefish Bay Detroit River Muskoka Lakes Niagara River St. Clair River St. Marys River Trent-Severn Waterway Welland Canal Cornwall to Montréal - west St. Lawrence (legacy Q) Anticosti Chaleur - Miscou - north Gulf - Magdalen - north Magdalen Islands Gulf - Port au Port - north Northeast Gulf - north Cornwall to Montréal - east Lake Saint-Louis - west Lake of Two Mountains - east Ottawa River 2 Riviere des Prairies - west Donnacona to Beauport Port of Quebec L'Isle-aux-Coudres to Tadoussac Ile aux Coudres - east Montréal to Trois-Rivières Port of Montreal Port of Sorel-Tracy SLS - South Shore Channel Lachine Canal Lake Saint-Louis - east Riviere des Prairies - east Pointe à Michel to Pointe-des-Monts Pointe-des-Monts to Anticosti - north Pointe-des-Monts to Anticosti - south Tadoussac to Pointe à Michel Trois-Rivières to Donnacona Port of Trois-Rivieres Beauport to L'Isle-aux-Coudres Ile aux Coudres - west Lake Memphremagog Richelieu River and Northern Lake Champlain Saguenay River Saguenay to Tadoussac Saguenay Port Lake Saint-Jean Maritimes (M) Bras d'Or Lakes Browns Bank Cabot Strait - south Chaleur - Miscou - south East Scotian Slope Eastern Shore Fourchu Fundy Georges Bank Grand Manan Gulf - Magdalen - south Halifax Harbour and Approaches LaHave Bank Lurcher Northumberland Strait Sable Southwestern Shore West Scotian Slope Newfoundland (N) Banquereau Belle Isle Bank Cabot Strait - north East Coast Funk Island Bank Gulf - Port au Port - south Laurentian Fan Northeast Coast Northeast Gulf - south Northern Grand Banks South Coast Southwest Coast Southeastern Grand Banks Southwestern Grand Banks Strait of Belle Isle Labrador (N) East Labrador Sea Lake Melville Mid Labrador Coast North Labrador Coast Northwest Labrador Sea South Labrador Coast South Labrador Sea Arctic (A) Shipping Safety Control Zone 1 Shipping Safety Control Zone 2 Shipping Safety Control Zone 3 Shipping Safety Control Zone 4 Shipping Safety Control Zone 5 Shipping Safety Control Zone 6 Shipping Safety Control Zone 7 Shipping Safety Control Zone 8 Shipping Safety Control Zone 9 Shipping Safety Control Zone 10 Shipping Safety Control Zone 11 Shipping Safety Control Zone 12 Shipping Safety Control Zone 13 Shipping Safety Control Zone 14 Shipping Safety Control Zone 15 Shipping Safety Control Zone 16 Belcher Central Churchill James Bay Puvirnituq South Central Hudson South Hudson Ungava York Beaufort Sea Amundsen Gulf Baffin Island Parry Channel Queen Maud Gulf Dease Strait Dolphin And Union Strait Queen Elizabeth Islands Baffin Bay Davis Strait Gulf of Boothia Bathurst Inlet Coronation Gulf King William Island Larsen Sound Fury and Hecla Strait Foxe Basin M'Clintock Channel Peel Sound Victoria Island Prince Regent Inlet Mackenzie (legacy H) Axe Point mile 91 to Camsell Bend mile 290 Camsell Bend mile 290 to Tulita mile 512 Fort Good Hope mile 684 to Point Separation mile 913 Great Slave Lake Lake Athabasca Point Separation mile 913 to Kittigazuit Bay mile 1081 Tulita mile 512 to Fort Good Hope mile 684 Wrigley Harbour mile 0 to Axe Point mile 91 Prairies - Manitoba Lakes (C) Lake Manitoba Lake of the Woods Lake Winnipeg - South Basin Lake Winnipeg - North Basin Lake Winnipegosis Rainy Lake Red River Winnipeg River Ottawa River and Rideau Canal (C & legacy Q) Ottawa River Ottawa River 1 Rideau Canal Lake of Two Mountains - west Chukchi Sea Alaska Bering Strait Arctic Ocean 
+ Exclude NAVWARNs of regional scope 
+ Map of selected areas 
+ Charts 
+ 1201 (Saint-Fulgence à/to Saguenay)
+ 1201 (Saguenay)
+ 1202 (Baie des Ha! Ha!)
+ 1202 (Terminal maritime de Grande Anse)
+ 1202 (Cap à l'Est à St-Fulgence - Continuation A)
+ 1202 (Cap Éternité à Cap à l'Est)
+ 1203 (Tadoussac)
+ 1203 (Tadoussac à/to Cap Éternité)
+ 1203 (Continuation A - Tadoussac à/to Cap Éternité)
+ 1220 (Sept-Îles)
+ 1220 (Pointe-Noire)
+ 1220 (Baie des Sept-Îles)
+ 1221 (Pointe de Moisie à/to Île du Grand Caoui)
+ 1223 (Chenal du Bic et les approches/and approaches)
+ 1226 (Port-Cartier)
+ 1226 (Baie-Comeau)
+ 1226 (Quai public/Public Wharf)
+ 1226 (Quais/Wharves Cargill et Alcoa)
+ 1226 (Île aux Oeufs Mouillages/Anchorages)
+ 1226 (Baie des Homards Mouillages/Anchorages)
+ 1226 (Mouillages et Installations Portuaires/Anchorages and Harbour Installations - Haute Côte-Nord)
+ 1230 (Les Méchins)
+ 1230 (Cap-Chat)
+ 1230 (Grande-Vallée)
+ 1230 (Rivière-au-Renard)
+ 1230 (Sainte-Anne-des-Monts)
+ 1230 (Plans - Péninsule de la Gaspésie)
+ 1230 (Mont-Louis)
+ 1233 (Saint-Joseph-de-la-Rive)
+ 1233 (L'Isle-aux-Coudres)
+ 1233 (Saint-Jean-Port-Joli)
+ 1233 (Cap aux Oies à/to Sault-au-Cochon)
+ 1234 (Cap-à-l'Aigle)
+ 1234 (Port de Pointe-au-Pic)
+ 1234 (Saint-Siméon)
+ 1234 (Pointe de la Rivière du Loup)
+ 1234 (Cap de la Tête au Chien au/to Cap aux Oies)
+ 1236 (Matane)
+ 1236 (Godbout)
+ 1236 (Rimouski)
+ 1236 (Forestville)
+ 1236 (Port de Rimouski)
+ 1236 (Pointe des Monts aux/to Escoumins)
+ 1310 (Section B-C - Port de Montréal)
+ 1310 (Jetée Alexandra)
+ 1310 (Section A-B - Port de Montréal)
+ 1311 (Terminal de Contrecoeur)
+ 1311 (Terminal pétrolier / Oil terminal)
+ 1311 (Sorel-Tracy à/to Varennes)
+ 1312 (Port de Sorel-Tracy)
+ 1312 (Lac Saint-Pierre)
+ 1313 (Port de Bécancour)
+ 1313 (Port de Trois-Rivières)
+ 1313 (Batiscan au/to Lac Saint-Pierre)
+ 1314 (Portneuf)
+ 1314 (Donnacona à/to Batiscan)
+ 1315 (Mouillage Saint-Nicolas)
+ 1315 (Québec à/to Donnacona)
+ 1316 (Continuation A - Port de Québec)
+ 1316 (Port de Québec)
+ 1317 (Sault-au-Cochon à/to Québec)
+ 1317 (Continuation A - Sault-au-Cochon à/to Québec)
+ 1320 (Les Escoumins)
+ 1320 (Port de Gros-Cacouna)
+ 1320 (Île du Bic au/to Cap de la Tête au Chien)
+ 1350 (Sorel-Tracy à/to Ruisseau Lahaise - Sheet/Feuille 1)
+ 1350 (Sorel-Tracy - Sheet/Feuille 1)
+ 1350 (Ruisseau Lahaise à/to Saint-Antoine-sur-Richelieu - Sheet/Feuille 2)
+ 1350 (Canal de Saint-Ours/Saint-Ours Canal - Sheet/Feuille 2)
+ 1350 (Île aux Cerfs à/to Otterburn-Park - Sheet/Feuille 4)
+ 1350 (Pont Beloeil - Sheet/Feuille 4)
+ 1350 (Saint-Antoine-sur-Richelieu à/to Île aux Cerfs - Sheet/Feuille 3)
+ 1350 (Sorel à/to Otterburn-Park - Sheet 2 of 4/Feuille 2 de 4)
+ 1351 (Bassin de Chambly à/to Île Sainte-Thérèse - Sheet/Feuille 1)
+ 1351 (Chambly Écluses/Locks 1,2,3 - Sheet/Feuille 1)
+ 1351 (Chambly Écluses/Locks 7,8 - Sheet/Feuille 1)
+ 1351 (Saint-Jean-sur-Richelieu Écluse/Lock 9 - Sheet/Feuille 2)
+ 1351 (Pointe à la Meule à/to Pointe Naylor - Sheet/Feuille 3)
+ 1351 (Pointe Naylor au Lac/to Lake Champlain - Sheet/Feuille 4)
+ 1351 (Chambly Écluses/Locks 4,5,6 - Sheet/Feuille 1)
+ 1351 (Île Sainte-Thérèse à/to Pointe à la Meule - Sheet/Feuille 2)
+ 1351 (Bassin de Chambly au lac/to Lake Champlain - Sheet 2 of 4/Feuille 2 de 4)
+ 1351 (Quai des Douanes/Customs Wharf - Sheet/Feuille 4)
+ 1360 (Magog)
+ 1360 (Compartiment A-B - Lac Memphrémagog)
+ 1360 (Compartiment B-C - Lac Memphrémagog)
+ 1400 (Rockport to/à Lake/Lac Ontario)
+ 1400 (Montréal to/à Cornwall)
+ 1400 (Cornwall to/à Rockport)
+ 1429 (Canal de la Rive Sud)
+ 1430 (Entrée du canal Lachine)
+ 1430 (Rapides de Vaudreuil)
+ 1430 (Sainte-Anne-de-Bellevue)
+ 1430 (Lac Saint-Louis)
+ 1431 (Baie Saint-François)
+ 1431 (Port de Valleyfield)
+ 1431 (Canal de Beauharnois)
+ 1432 (Lac Saint-François/Lake St. Francis B-C)
+ 1432 (Lac Saint-François/Lake St. Francis A-B)
+ 1433 (Cornwall)
+ 1433 (Île St-Régis to/à Croil Islands A-B)
+ 1433 (Île St-Régis to/à Croil Islands B-C)
+ 1434 (B à/to C - Croil Islands to/à Cardinal)
+ 1434 (A à/to B - Croil Islands to/à Cardinal)
+ 1435 (Prescott/Ogdensburg)
+ 1435 (Brockville Narrows)
+ 1435 (Cardinal to/à Whaleback Shoal A-B)
+ 1435 (Cardinal to/à Whaleback Shoal B-C)
+ 1436 (Whaleback Shoal to/au Summerland Group)
+ 1437 (Summerland Group to/à Grindstone Island)
+ 1438 (Gananoque)
+ 1438 (Grindstone Island to/à Carleton Island)
+ 1439 (Carleton Island to/au Charity Shoal)
+ 14800 (Lake Ontario)
+ 14802 (Clayton to False Ducks ls.)
+ 14803 (LITTLE SODUS BAY INSET)
+ 14803 (NORTH POND)
+ 14803 (SIX MILES SOUTH OF STONY POINT TO PORT BAY)
+ 14804 (PORT BAY HARBOR NEW YORK INSET)
+ 14804 (IRONDEQUOIT BAY NEW YORK INSET)
+ 14804 (PORT BAY TO LONG POND NEW YORK)
+ 14805 (POINT BREEZE HARBOR INSET)
+ 14805 (LONG POND TO THIRTYMILE POINT NEW YORK)
+ 14806 (OLCOTT NEW YORK INSET)
+ 14806 (WILSON HARBOR NEW YORK INSET)
+ 14806 (THIRTY MILE PT NEW YORK TO PORT DALHOUSIE ONTARIO)
+ 14810 (OLCOTT NEW YORK)
+ 14810 (WILSON HARBOR NEW YORK)
+ 14810 (OLCOTT NY TO TORONTO ONT)
+ 14811 (SACKETS HARBOR NEW YORK INSET)
+ 14811 (HENDERSON HARBOR NEW YORK INSET)
+ 14811 (CHAUMONT HARBOR NEW YORK INSET)
+ 14811 (CHAUMONT HENDERSON AND BLACK RIVER BAYS NEW YORK)
+ 14813 (Oswego Harbor)
+ 14814 (Sodus Bay)
+ 14815 (ROCHESTER HARBOR GENESEE RIVER TO HEAD OF NAVIGATION)
+ 14815 (ROCHESTER HBR GENESEE RIV TO HEAD OF NAVIGATION LAKE ONTARIO NY 1)
+ 14816 (Lower Niagara River)
+ 14820 (Lake Erie)
+ 14822 (Approaches to Niagara River and Welland Canal)
+ 14823 (BARCELONA HARBOR NEW YORK INSET)
+ 14823 (DUNKIRK HARBOR NEW YORK INSET)
+ 14823 (STURGEON POINT TO TWENTY MILE CREEK NEW YORK)
+ 14824 (CONNEAUT HARBOR OHIO)
+ 14824 (SIXTEENMILE CREEK TO CONNEAUT)
+ 14825 (MENTOR HARBOR OHIO INSET)
+ 14825 (CHAGRIN RIVER HARBOR OHIO INSET)
+ 14825 (ASHTABULA TO CHAGRIN RIVER OHIO)
+ 14826 (BEAVER CREEK OHIO INSET)
+ 14826 (ROCKY RIVER OHIO INSET)
+ 14826 (VERMILION OHIO INSET)
+ 14826 (MOSS POINT TO VERMILION OHIO)
+ 14828 (Erie to Geneva)
+ 14829 (BEAVER CREEK OHIO)
+ 14829 (ROCKY RIVER OHIO)
+ 14829 (MENTOR HARBOR OHIO)
+ 14829 (CHAGRIN RIVER HARBOR OHIO)
+ 14829 (GENEVA TO LORAIN)
+ 14830 (PORT CLINTON OHIO INSET)
+ 14830 (MONROE HARBOR MICHIGAN INSET)
+ 14830 (WEST END OF LAKE ERIE)
+ 14832 (Niagara Falls to Buffalo)
+ 14833 (Buffalo Harbor)
+ 14835 (Erie Harbor)
+ 14836 (Ashtabula Harbor)
+ 14837 (Fairport Harbor)
+ 14838 (BARCELONA HARBOR NEW YORK INSET MERCATOR)
+ 14838 (DUNKIRK HARBOR NEW YORK INSET MERCATOR)
+ 14838 (BUFFALO TO ERIE)
+ 14839 (Cleveland Harbor, including lower Cuyahoga River)
+ 14841 (Lorain Harbor)
+ 14844 (PUT-IN-BAY OHIO)
+ 14844 (ISLANDS IN LAKE ERIE INCLUDING SANDUSKY BAY OHIO)
+ 14845 (Sandusky Harbor)
+ 14847 (TOLEDO HARBOR OHIO)
+ 14847 (TOLEDO HARBOR ENTRANCE CHANNEL)
+ 14848 (DETROIT RIVER MICHIGAN EXTENSION)
+ 14848 (DETROIT RIVER MICHIGAN)
+ 14850 (Lake St. Clair)
+ 14852 (HEAD OF ST CLAIR RIVER MICHIGAN INSET)
+ 14852 (ST CLAIR RIVER MICHIGAN EXTENSION)
+ 14852 (SAINT CLAIR RIVER MICHIGAN)
+ 14853 (St. Clair River)
+ 14853 (Lake St. Clair)
+ 14853 (Detroit River)
+ 14854 (RIVER ROUGE DETROIT RIVER TO FORD MOTOR COMPANY)
+ 14854 (DETROIT RIVER TRENTON CHANNEL AND RIVER ROUGE)
+ 14860 (Lake Huron)
+ 14862 (PORT SANILAC HARBOR MICHIGAN INSET)
+ 14862 (HARBOR BEACH MICHIGAN INSET)
+ 14862 (PORT HURON TO POINT AUX BARQUES MICHIGAN)
+ 14863 (CASEVILLE HARBOR MICHIGAN INSET)
+ 14863 (PORT AUSTIN MICHIGAN INSET)
+ 14863 (ENTRANCE TO AU SABLE RIVER MICHIGAN INSET)
+ 14863 (SEBEWAING HARBOR MICHIGAN INSET)
+ 14863 (TAWAS HARBOR MICHIGAN INSET)
+ 14863 (SAGINAW BAY MICHIGAN)
+ 14864 (HARRISVILLE HARBOR MICHIGAN INSET)
+ 14864 (ROGERS CITY AND CALCITE HARBOR MICHIGAN)
+ 14864 (ALPENA HARBOR MICHIGAN INSET)
+ 14864 (LK HURON HARRISVILLE-FORTY MILE POINT)
+ 14865 (South End of Lake Huron)
+ 14867 (SAGINAW RIVER ENTRANCE CHANNEL EXTENSION NORTH)
+ 14867 (THE SOUTHERN EXT OF THE SAGINAW RVR MICHIGAN)
+ 14867 (SAGINAW RIVER MICHIGAN)
+ 14869 (STONEPORT HARBOR MICHIGAN INSET)
+ 14869 (PRESQUE ISLE HARBOR MICHIGAN INSET)
+ 14869 (PRESQUE ISLE AND STONEPORT HARBORS MICHIGAN)
+ 14880 (Straits of Mackinac)
+ 14881 (MACKINAC ISLAND MICHIGAN)
+ 14881 (HAMMOND BAY HARBOR MICHIGAN)
+ 14881 (MACKINAW CITY MICHIGAN)
+ 14881 (ST IGNACE MICHIGAN)
+ 14881 (CHEBOYGAN HARBOR MICHIGAN)
+ 14881 (LAKE HURON STRAITS OF MACKINAC DE TOUR PASS TO WAUGOSHANCE PT)
+ 14882 (DE TOUR PASSAGE MICHIGAN)
+ 14882 (ST MARYS RIVER DETOUR PASSAGE TO MUNUSCONG LAKE)
+ 14883 (St. Marys River - Munuscong Lake to Sault Ste. Marie)
+ 14884 (SAULT STE MARIE)
+ 14884 (ST MARYS RIVER HEAD OF LAKE NICOLET TO WHITEFISH BAY)
+ 14885 (Les Cheneaux Islands)
+ 14961 (Lake Superior (Mercator Projection))
+ 14962 (WHITEFISH POINT HARBOR MICHIGAN)
+ 14962 (LITTLE LAKE HARBOR MICHIGAN)
+ 14962 (GRAND MARAIS MICHIGAN)
+ 14962 (LAKE SUPERIOR ST MARYS RIVER TO AU SABLE POINT)
+ 14963 (BIG BAY HARBOR MICHIGAN)
+ 14963 (GRAND MARAIS TO BIG BAY POINT)
+ 14964 (GRAND TRAVERSE BAY HARBOR MICHIGAN)
+ 14964 (EAGLE HARBOR MICHIGAN)
+ 14964 (COPPER HARBOR MICHIGAN)
+ 14964 (LK SUPERIOR BIG BAY POINT TO REDRIDGE MICH)
+ 14964 (LAC LA BELLE HARBOR MICHIGAN)
+ 14965 (SAXON HARBOR WISCONSIN)
+ 14965 (BLACK RIVER HARBOR MICHIGAN)
+ 14965 (ONTONAGON HARBOR MICHIGAN)
+ 14965 (LAKE SUPERIOR REDRIDGE MICH TO SAXON HARBOR WIS)
+ 14966 (PORT WING WISCONSIN)
+ 14966 (CORNUCOPIA WISCONSIN)
+ 14966 (KNIFE RIVER MINNESOTA)
+ 14966 (TWO HARBORS MINNESOTA)
+ 14966 (LAKE SUPERIOR - LITTLE GIRLS POINT TO SILVER BAY)
+ 14967 (GRAND MARAIS MINNESOTA)
+ 14967 (TACONITE HARBOR MINNESOTA)
+ 14967 (SILVER BAY MINNESOTA)
+ 14967 (LAKE SUPERIOR BEAVER BAY TO PIGEON POINT MINN)
+ 14968 (Grand Portage Bay, Minn. to Shesbeeb Point, Ont.)
+ 14969 (MUNISING HARBOR MICHIGAN)
+ 14969 (MUNISING HBR AND APPROACHES INCLUDING GRAND ISL)
+ 14970 (Marquette and Presque Isle Harbors)
+ 14971 (LAKE SUPERIOR KEWEENAW BAY BARAGA MICHIGAN)
+ 14971 (LAKE SUPERIOR KEWEENAW BAY L ANSE MICHIGAN)
+ 14971 (KEWEENAW BAY LAKE SUPERIOR)
+ 14972 (KEWEENAW WATERWAY HANCOCK AND HOUGHTON MICHIGAN)
+ 14972 (KEWEENAW WATERWAY MICHIGAN INCLUDING TORCH LAKE)
+ 14973 (PIKES BAY WISCONSIN)
+ 14973 ("LA POINTE HARBOR WISCONSIN)
+ 14973 (BAYFIELD WISCONSIN)
+ 14973 (APOSTLE ISL INCL CHEQUAMEGON BAY)
+ 14974 (Ashland and Washburn harbors)
+ 14975 (UPPER ST LOUIS RIVER)
+ 14975 (DULUTH-SUPERIOR HARBOR)
+ 14976 (ISLE ROYALE MICHIGAN LAKE SUPERIOR)
+ 14976 (ISLE ROYALE MICHIGAN LAKE SUPERIOR BOTTOM)
+ 1509 (Île Bizard à/to Pont-Viau A-B - Sheet/Feuille 1)
+ 1509 (Rapides du Cheval Blanc - Sheet/Feuille 1)
+ 1509 (Île Bizard à/to Pont-Viau B-C - Sheet/Feuille 1)
+ 1509 (Rapides Lalemant - Sheet/Feuille 1)
+ 1509 (Île Haynes - Sheet/Feuille 2)
+ 1509 (Pont-Viau à/to Île Bourdon C-D - Sheet/Feuille 2)
+ 1509 (Pont-Viau à/to Île Bourdon E-F - Sheet/Feuille 2)
+ 1509 (Pont-Viau à/to Île Bourdon D-E - Sheet/Feuille 2)
+ 1509 (Rapides de la Rivière des Prairies - Sheet/Feuille 2)
+ 1510 (Oka - Sheet/Feuille 2)
+ 1510 (Hudson - Sheet/Feuille 2)
+ 1510 (Carillon - Sheet/Feuille 2)
+ 1510 (Pointe aux Anglais - Sheet/Feuille 2)
+ 1510 (Saint-Placide - Sheet/Feuille 2)
+ 1510 (Lac Saint-Louis à/to Carillon - B-C - Sheet/Feuille 2)
+ 1510 (Laval à/to Baie de Vaudreuil - A-B - Sheet/Feuille 1)
+ 1512 (Black Rapids Lock / Écluse 13 - Sheet/Feuille 1)
+ 1512 (Hogs Back Locks / Écluses 11,12 - Sheet/Feuille 1)
+ 1512 (Ottawa Locks/Écluses 1-8 - Sheet/Feuille 1)
+ 1512 (Long Island Locks/Écluses 14-16 - Sheet/Feuille 1)
+ 1512 (Ottawa to/à Long Island - Sheet/Feuille 1)
+ 1512 (Hartwell Locks/Écluses 9,10 - Sheet/Feuille 1)
+ 1512 (Continuation A - Sheet/Feuille 2)
+ 1512 (Long Island Locks/Écluses 14-16 - Sheet/Feuille 2)
+ 1512 (Kars - Sheet/Feuille 2)
+ 1512 (Burritts Rapids Lock / Écluse 17 - Sheet/Feuille 3)
+ 1512 (Kilmarnock Island Lock / Écluse 24 - Sheet/Feuille 3)
+ 1512 (Becketts Landing to/à Burritts Rapids - Sheet/Feuille 3)
+ 1512 (Old Slys Locks/Écluses 26,27 - Sheet/Feuille 3)
+ 1512 (Edmunds Lock / Écluse 25 - Sheet/Feuille 3)
+ 1512 (Smiths Falls Locks / Écluses 29 A, 31 - Sheet/Feuille 3)
+ 1512 (Burritts Rapids to/à Edmunds Lock - Sheet/Feuille 3)
+ 1512 (Edmunds Lock to/à Smiths Falls - Sheet/Feuille 3)
+ 1512 (Merrickville Locks / Écluses 21-23 - Sheet/Feuille 3)
+ 1512 (Long Island to/à Becketts Landing - Sheet/Feuille 2)
+ 1512 (Dows Lake - Sheet/Feuille 1)
+ 1512 (Andrewsville Locks / Écluses 18-20 - Sheet/Feuille 3)
+ 1513 (Continuation a Tay River to/à Perth - Sheet/Feuille 1 - Smith Falls to/à Kingston including/y compris Tay River to/à Perth)
+ 1513 (Smith Falls to/à Rocky Narrows - Sheet/Feuille 1)
+ 1513 (Beveridge Locks, Locks/Écluses 33,34 - Sheet/Feuille 1)
+ 1513 (Rideau Ferry - Sheet/Feuille 1)
+ 1513 (Approaches to/à Approches à Adams Lake - Sheet/Feuille 1)
+ 1513 (Poonamalie Locks, Lock/Écluse 32 - Sheet/Feuille 1)
+ 1513 (Smith Falls Locks 29A, 31 - Sheet/Feuille 1)
+ 1513 (Newboro Lock/Écluse 36 - Sheet/Feuille 2)
+ 1513 (Narrows Lock to/à Newboro - Sheet/Feuille 2)
+ 1513 (Narrows Lock, Lock/Écluse 35 - Sheet/Feuille 2)
+ 1513 (Rocky Narrows to/à Narrows Lock - Sheet/Feuille 2)
+ 1513 (Newboro to/à Chaffeys Locks - Sheet/Feuille 3)
+ 1513 (Newboro Lock/Écluse 36 - Sheet/Feuille 3)
+ 1513 (Chaffeys Locks, Lock/Écluse 37 - Sheet/Feuille 3)
+ 1513 (Jones Falls, Locks/Écluses 39-42 - Sheet/Feuille 3)
+ 1513 (Jones Falls to/à River Styx - Sheet/Feuille 4)
+ 1513 (Seeleys Bay - Sheet/Feuille 4)
+ 1513 (Jones Falls, Locks/Écluses 39-42 - Sheet/Feuille 4)
+ 1513 (Lower Brewers Lock/Écluse 45 - Sheet/Feuille 4)
+ 1513 (River Styx to/ à Kingston - Sheet/Feuille 5)
+ 1513 (Kingston Mills, Locks/Écluses 46-49 - Sheet/Feuille 5)
+ 1513 (Portland - Sheet/Feuille 2)
+ 1513 (Perth - Sheet/Feuille 1)
+ 1513 (Westport - Sheet/Feuille 2)
+ 1513 (Chaffeys Locks to/à Jones Falls - Sheet/Feuille 3)
+ 1513 (Davis Lock, Lock/Écluse 38 - Sheet/Feuille 3)
+ 1513 (Upper Brewers, Locks/Écluses 43,44 - Sheet/Feuille 4)
+ 1514 (L'Orignal à/to Papineauville - Sheet/Feuille 2)
+ 1514 (Carillon à/to L'Orignal - Sheet/Feuille 1)
+ 1515 (Becketts Creek à/to Ottawa - Sheet/Feuille 2)
+ 1515 (Papineauville à/to Becketts Creek - Sheet/Feuille 1)
+ 1515 (Hull - Ottawa CONTINUATION A - Sheet/Feuille 2)
+ 1515 (Lac Leamy Lake - CONTINUATION B - Sheet/Feuille 2)
+ 1550 (Britannia Bay - Sheet/Feuille 1)
+ 1550 (Pinhey Point Mouillage / Anchorage - Sheet/Feuille 1)
+ 1550 (Britannia Yacht Club - Sheet/Feuille 1)
+ 1550 (L'Ile Mohr Mouillage / Anchorage - Sheet/Feuille 2)
+ 1550 (Britannia Bay à/to Breckenridge - Sheet/Feuille 1)
+ 1550 (Maclarens Landing à/to Chats Falls - Sheet/Feuille 2)
+ 1550 (Breckenridge à/to Maclarens Landing - Sheet/Feuille 2)
+ 1551 (Arnprior - Sheet/Feuille 1)
+ 1551 (Baie Norway Quai/Wharf - Sheet/Feuille 1)
+ 1551 (Sand Point Quai/Wharf - Sheet/Feuille 1)
+ 1551 (Arnprior Quai/Wharf - Sheet/Feuille 1)
+ 1551 (Madawaska Marina - Sheet/Feuille 1)
+ 1551 (Continuation A - Sheet/Feuille 1)
+ 1551 (Chats Falls à/to Chenaux - Sheet/Feuille 1)
+ 1552 (La Passe - Sheet/Feuille 2)
+ 1552 (Davidson - Sheet/Feuille 2)
+ 1552 (Chapeau - Sheet/Feuille 3)
+ 1552 (Upper Ottawa Improvement Co. - Sheet/Feuille 3)
+ 1552 (Chute du Grand Calumet au/to Lac Coulonge - Sheet/Feuille 2)
+ 1552 (Lac Coulonge à/to Île Marcotte including/y compris Le chenal de la Culbute - Sheet/Feuille 3)
+ 1552 (Portage-du-Fort to/à Chute du Grand Calumet including/y compris le chenal du Rocher Fendu - Sheet/Feuille 1)
+ 1553 (Pembroke Centenary Park - Sheet/Feuille 1)
+ 1553 (Westmeath - Sheet/Feuille 1)
+ 1553 (Petawawa Point - Sheet/Feuille 2)
+ 1553 (Petawawa Yacht Club - Sheet/Feuille 2)
+ 1553 (Deep River - Sheet/Feuille 3)
+ 1553 (Rapides-des-Joachims - Sheet/Feuille 3)
+ 1553 (Desjardinsville - Sheet/Feuille 1)
+ 1553 (Fort-William - Sheet/Feuille 2)
+ 1553 (Île Marcotte à/to Île D'Arcy - Sheet/Feuille 1)
+ 1553 (Continuation A - Sheet/Feuille 1)
+ 1553 (Île D'Arcy à/to Balmer Bay - Sheet/Feuille 2)
+ 1553 (Balmer Bay à/to Rapides-des-Joachims - Sheet/Feuille 3)
+ 1554 (Mattawa - Sheet/Feuille 3)
+ 1554 (Rapides-des-Joachims au/to Maraboo Lake - Sheet/Feuille 1)
+ 1554 (Maraboo Lake à/to Bald Rock - Sheet/Feuille 2)
+ 1554 (Bald Rock au/to Lac la Cave - Sheet/Feuille 3)
+ 1555 (Lac La Cave - Sheet/Feuille 1)
+ 1555 (Continuation A - Sheet/Feuille 1)
+ 1556 (Ville-Marie - Sheet/Feuille 1)
+ 1556 (Haileybury - Sheet/Feuille 1)
+ 1556 (New Liskeard - Sheet/Feuille 1)
+ 1556 (Notre-Dame-Du-Nord - Sheet/Feuille 1)
+ 1556 (Temiscaming - Sheet/Feuille 2)
+ 1556 (Chenal Opimica - Sheet/Feuille 2)
+ 1556 (Lac Témiscamingue/ Lake Timiskaming - Sheet/Feuille 1)
+ 1556 (Continuation C - D - Sheet/Feuille 2)
+ 1556 (Continuation B - C - Sheet/Feuille 2)
+ 1556 (Continuation A - B - Sheet/Feuille 2)
+ 16003 (Arctic Coast)
+ 16005 (Cape Prince of Wales to Pt. Barrow)
+ 16006 (BERING SEA EASTERN PART)
+ 16006 (NASH HARBOR NUNIVAK ISLAND)
+ 16006 (CAPE ETOLIN ANCHORAGE NUNIVAK ISLAND)
+ 16006 (ST MATTHEW ISLAND BERING SEA)
+ 16041 (Demarcation Bay and approaches)
+ 16042 (Griffin Pt. and approaches)
+ 16043 (BERNARD HARBOR BARTER IS INSET)
+ 16043 (BARTER ISLAND AND APPROACHES)
+ 16044 (Camden Bay and Approaches)
+ 16045 (Bullen Pt. to Brownlow Pt.)
+ 16046 (McClure and Stockton Islands and vicinity)
+ 16061 (Prudhoe Bay and vicinity)
+ 16062 (Jones Islands and approaches)
+ 16063 (Harrison Bay-eastern part)
+ 16064 (Harrison Bay-western part)
+ 16065 (Cape Halkett and vicinity)
+ 16066 (Pitt Pt. and vicinity)
+ 16067 (Approaches to Smith Bay)
+ 16081 (Scott Pt. to Tangent Pt.)
+ 16082 (Pt. Barrow and vicinity)
+ 16083 (Skull Cliff and vicinity)
+ 16084 (Peard Bay and approaches)
+ 16085 (Wainwright Inlet to Atanik)
+ 16086 (Nakotlek Pt. to Wainwright Inlet)
+ 16087 (Icy Cape to Nokotlek Pt.)
+ 16088 (Utukok Pass to Blossom Shoals)
+ 16101 (Pt. Lay and approaches)
+ 16102 (Kuchiak Creek to Kukpowruk Pass)
+ 16103 (Cape Beaufort)
+ 16104 (Cape Sabine)
+ 16121 (East of Cape Lisburne)
+ 16122 (Cape Dyer to Cape Lisburne)
+ 16123 (Point Hope to Cape Dyer)
+ 16124 (Cape Thompson to Point Hope)
+ 16200 (NORTON SOUND TO BERING STRAIT)
+ 16200 (GOLOVNIN BAY INSET)
+ 16206 (NORTON SOUND NOME INSET)
+ 16206 (NORTON SOUND NOME HARBOR AND APPROACHES)
+ 16240 (ST. MICHAEL BAY)
+ 16240 (APPROACHES TO CAPE ROMANZOF)
+ 16240 (CAPE ROMANZOF TO ST. MICHAEL)
+ 16380 (Pribilof Islands)
+ 16381 (ST GEORGE HARBOR)
+ 16381 (ST GEORGE ISLAND)
+ 16382 (VILLAGE COVE)
+ 16382 (ST PAUL ISLAND)
+ 2000 (Lake Ontario/Lac Ontario)
+ 2006 (Esroc Canada Inc)
+ 2006 (Port Hallowell Docks)
+ 2006 (Picton Harbour)
+ 2006 (Upper Gap to/à Telegraph Narrows)
+ 2007 (Belleville to/à Telegraph Narrows)
+ 2011 (Belleville Harbour - Sheet/Feuille 1)
+ 2016 (Charity Shoal to/à Gull Bar including / y compris Long Point)
+ 2017 (Kingston Harbour and Approaches/et les approches)
+ 2018 (Prinyer Cove)
+ 2018 (Lower Gap to/à Adolphus Reach)
+ 2019 (Adolphus Reach to /à Big Bay)
+ 2019 (Continuation A Hay Bay)
+ 2019 (Picton Bay Ports)
+ 2019 (Picton Harbour)
+ 2019 (Telegraph Narrows)
+ 2020 (Belleville to/à Presqu'île Bay)
+ 2020 (Trenton)
+ 2021 (Trenton - Sheet/Feuille 1)
+ 2021 (Trenton to/à Glen Ross - Sheet/Feuille 2)
+ 2021 (Batawa Lock / Écluse 4 - Sheet/Feuille 2)
+ 2021 (Glen Miller Lock/Écluse 3 - Sheet/Feuille 2)
+ 2021 (Glen Ross Lock/Écluse 7 - Sheet/Feuille 2)
+ 2021 (Frankford Lock/Écluse 6 - Sheet/Feuille 2)
+ 2021 (Trent Lock/Écluse 5 - Sheet/Feuille 2)
+ 2021 (Trenton Lock/Écluse 1 - Sheet/Feuille 2)
+ 2021 (Sydney Lock/Écluse 2 - Sheet/Feuille 2)
+ 2021 (Glen Ross to Hagues Reach Lock/Glen Ross à l'écluse de Hagues Reach - Sheet/Feuille 3)
+ 2021 (Meyers Lock / Écluse 9 - Sheet/Feuille 3)
+ 2021 (Hagues Reach Lock/Écluse 10 - Sheet/Feuille 3)
+ 2021 (Percy Reach Lock / Écluse 8 - Sheet/Feuille 3)
+ 2021 (Hagues Reach Lock to Healey Falls Locks/Écluse de Hagues Reach aux Écluses de Healey Falls - Sheet/Feuille 4)
+ 2021 (Hagues Reach Lock/Écluse 10 - Sheet/Feuille 4)
+ 2021 (Crowe Bay Lock/Écluse 14 - Sheet/Feuille 4)
+ 2021 (Ranney Falls Lock / Écluse 11,12 - Sheet/Feuille 4)
+ 2021 (Healey Falls Locks/Écluses 15,16,17 - Sheet/Feuille 4)
+ 2021 (Cambellford Lock/Écluse 13 - Sheet/Feuille 4)
+ 2021 (Murray Canal Presqu'Ile Bay to/à Trenton - Sheet/Feuille 1)
+ 2021 (Glen Ross Lock/Écluse 7 - Sheet/Feuille 3)
+ 2022 (Rice Lake - Sheet/Feuille 2)
+ 2022 (Rice Lake to/à Bensfort Bridge - Sheet/Feuille 3)
+ 2022 (Scott's Mills Lock / Écluse 19 - Sheet/Feuille 3)
+ 2022 (Peterborough Lift Lock/Écluse Hydraulique Locks/Écluses 20,21 - Sheet/Feuille 3)
+ 2022 (Bensfort Bridge to/à Peterborough - Sheet/Feuille 3)
+ 2022 (Healey Falls Locks to Rice Lake / Écluses de Healey Falls au Rice Lake - Sheet/Feuille 1)
+ 2022 (Hastings Lock/Écluse 18 - Sheet/Feuille 1)
+ 2022 (Healey Falls Locks/Écluses 15,16,17 - Sheet/Feuille 1)
+ 2023 (Lakefield to/à Burleigh Falls - Sheet/Feuille 2)
+ 2023 (Stony Lake - Sheet/Feuille 3)
+ 2023 (Burleigh Falls Lock / Écluse 28 - Sheet/Feuille 3)
+ 2023 (Peterborough to/à Lakefield - Sheet/Feuille 1)
+ 2023 (Sawer Creek Lock / Écluse 25 - Sheet/Feuille 1)
+ 2023 (Otonabee Lock / Écluse 23 - Sheet/Feuille 1)
+ 2023 (Peterborough Lift Lock/Écluse Hydraulique Locks/Écluses 20,21 - Sheet/Feuille 1)
+ 2023 (Nassau Mills Lock / Écluse 22 - Sheet/Feuille 1)
+ 2023 (Douro Lock / Écluse 24 - Sheet/Feuille 1)
+ 2023 (Lakefield Lock / Écluse 26 - Sheet/Feuille 1)
+ 2023 (Burleigh Falls to/à Buckhorn - Sheet/Feuille 2)
+ 2023 (Youngs Point Lock / Écluse 27 - Sheet/Feuille 2)
+ 2023 (Hells Gate - Sheet/Feuille 2)
+ 2023 (Lovesick Lock / Écluse 30 - Sheet/Feuille 2)
+ 2023 (Lakefield Lock / Écluse 26 - Sheet/Feuille 2)
+ 2023 (Burleigh Falls Lock / Écluse 28 - Sheet/Feuille 2)
+ 2023 (Buckhorn Lock / Écluse 31 - Sheet/Feuille 2)
+ 2023 (Peterborough to/à Buckhorn including/y compris Stony Lake - Sheet/Feuille 1)
+ 2024 (Buckhorn to/à Gannon Narrows and/et Harrington Narrows - Sheet/Feuille 1)
+ 2024 (Buckhorn Lock / Écluse 31 - Sheet/Feuille 1)
+ 2024 (Gannon Narrows to/à Bobcaygeon - Sheet/Feuille 2)
+ 2024 (Bobcaygeon Lock/Écluse 32 - Sheet/Feuille 2)
+ 2024 (Chemong Lake - Sheet/Feuille 3)
+ 2024 (Pigeon Lake (Southern Portion/Partie Sud) - Sheet/Feuille 4)
+ 2024 (Pigeon Lake (North Portion/Partie Nord) - Sheet/Feuille 5)
+ 2024 (Bobcaygeon Lock/Écluse 32 - Sheet/Feuille 5)
+ 2025 (Sturgeon Lake - Sheet/Feuille 1)
+ 2025 (Rosedale Lock/Écluse 35 - Sheet/Feuille 1)
+ 2025 (Fenelon Falls Lock/Écluse 34 - Sheet/Feuille 1)
+ 2025 (Bobcaygeon Lock/Écluse 32 - Sheet/Feuille 1)
+ 2025 (Cameron Lake - Sheet/Feuille 1)
+ 2025 (Bolsover (Lock/Écluse) to/au Lake Simcoe - Sheet/Feuille 3)
+ 2025 (Balsam Lake to/à Bolsover (Lock/Écluse) - Sheet/Feuille 3)
+ 2025 (Talbot Lock/Écluse 38 - Sheet/Feuille 3)
+ 2025 (Kirkfield Lift Lock / Écluse 36 - Sheet/Feuille 3)
+ 2025 (Portage Lock/Écluse 39 - Sheet/Feuille 3)
+ 2025 (Gamebridge Lock/Écluse 41 - Sheet/Feuille 3)
+ 2025 (Entrance to/entrée au Trent Canal - Sheet/Feuille 3)
+ 2025 (Bolsover Lock/Écluse 37 - Sheet/Feuille 3)
+ 2025 (Thorah Lock/Écluse 40 - Sheet/Feuille 3)
+ 2025 (Balsam Lake - Sheet/Feuille 2)
+ 2026 (Scugog River - Sheet/Feuille 1)
+ 2026 (Lindsay Mile/Mille 155.2 to/au Mile/Mille 159 - Sheet/Feuille 1)
+ 2026 (Lindsay Lock/Écluse 33 - Sheet/Feuille 1)
+ 2026 (Lake Scugog - Sheet/Feuille 2)
+ 2028 (Couchiching Lock/Écluse 42 - Sheet/Feuille 2)
+ 2028 (The Narrows - Sheet/Feuille 2)
+ 2028 (Cook's Bay and/et Holland River - Sheet/Feuille 3)
+ 2028 (Lefroy Harbour - Sheet/Feuille 3)
+ 2028 (Maskinonge River Entrance/Entrée de la Maskinonge River - Sheet/Feuille 3)
+ 2028 (Beaverton Harbour - Sheet/Feuille 1)
+ 2028 (Lake Couchiching Lake Simcoe to Couchiching Lock/Lake Simcoe à L'Écluse de Couchiching - Sheet/Feuille 2)
+ 2028 (Barrie - Sheet/Feuille 1)
+ 2028 (Jacksons Point - Sheet/Feuille 1)
+ 2028 (Lake Simcoe - Sheet/Feuille 1)
+ 2028 (Continuation A - Sheet/Feuille 1)
+ 2029 (Couchiching Lock to Big Chute / Écluse de Couchiching a Big Chute - Sheet/Feuille 1)
+ 2029 (Couchiching Lock/Écluse 42 - Sheet/Feuille 1)
+ 2029 (Big Chute Marine Railways/Ber Roulant - Sheet/Feuille 1)
+ 2029 (Big Chute Marine Railways/Ber Roulant - Sheet/Feuille 2)
+ 2029 (Port Severn Lock/Écluse 45 - Sheet/Feuille 2)
+ 2029 (Continuation A - Sheet/Feuille 2)
+ 2029 (Big Chute to/à Port Severn - Sheet/Feuille 2)
+ 2029 (Swift Rapids/Lock/Écluse 43 - Sheet/Feuille 1)
+ 2042 (D à/to E - Welland Canal St.Catharines to/à Port Colborne)
+ 2042 (C à/to D - Welland Canal St.Catharines to/à Port Colborne)
+ 2042 (A à/to B - Welland Canal St.Catharines to/à Port Colborne)
+ 2042 (B à/to C - Welland Canal St.Catharines to/à Port Colborne)
+ 2043 (Lower Niagara River and Approaches)
+ 2044 (Port Dalhousie - Sheet/Feuille 1)
+ 2047 (Clarkson Harbour)
+ 2048 (Port Credit - Sheet/Feuille 1)
+ 2049 (Whitby Harbour)
+ 2050 (Oshawa Harbour)
+ 2053 (Port Hope Harbour)
+ 2054 (Cobourg Harbour)
+ 2055 (Frenchman's Bay - Sheet/Feuille 1)
+ 2058 (Cobourg to/à Oshawa)
+ 2059 (Scotch Bonnet Island to/à Cobourg)
+ 2060 (Main Duck Island to/à Scotch Bonnet Island)
+ 2064 (Kingston to/à False Duck Islands)
+ 2067 (Hamilton Yacht Clubs/Clubs nautiques de Hamilton)
+ 2067 (Hamilton Harbour)
+ 2069 (Trenton)
+ 2069 (Telegraph Narrows)
+ 2069 (Picton to/à Presqu'île Bay)
+ 2070 (Port Dalhousie)
+ 2070 (Bronte Harbour)
+ 2070 (Oakville Harbour)
+ 2070 (Clarkson)
+ 2070 (Port Credit)
+ 2070 (Whitby Harbour)
+ 2070 (Oshawa Harbour)
+ 2070 (Port Hope)
+ 2070 (Cobourg Harbour)
+ 2077 (Lake Ontario/Lac Ontario (Western Portion/Partie Ouest))
+ 2085 (Toronto Harbour)
+ 2085 (Toronto Islands)
+ 2086 (Toronto to/à Hamilton - Sheet/Feuille 1)
+ 2100 (Lake Erie / Lac Érié)
+ 2110 (Nanticoke Harbour)
+ 2110 (Long Point Bay)
+ 2120 (Port Dover)
+ 2120 (Niagara River to/à Long Point)
+ 2121 (Port Burwell)
+ 2121 (Long Point to/à Port Glasgow)
+ 2122 (Pointe aux Pins to/à Point Pelee)
+ 2123 (Pelee Passage to/à la Detroit River)
+ 2140 (Continuation A - Sheet/Feuille 1)
+ 2140 (Port Maitland to/à Dunnville - Sheet/Feuille 1)
+ 2181 (Port Stanley)
+ 2181 (Kingsville)
+ 2181 (Leamington)
+ 2181 (Port Burwell)
+ 2181 (Scudder)
+ 2181 (Erieau Entrance to/à entrée Rondeau Harbour)
+ 2181 (Wheatley Harbour)
+ 2181 (West Dock)
+ 2200 (Lake Huron/Lac Huron)
+ 2201 (Thornbury)
+ 2201 (Georgian Bay / Baie Georgienne)
+ 2202 (Port Severn to/à Tomahawk Island - Sheet/Feuille 1)
+ 2202 (Lock/Écluse 45 - Sheet/Feuille 1)
+ 2202 (Potato Island Channel - Sheet/Feuille 1)
+ 2202 (Continuation C - Sheet/Feuille 2)
+ 2202 (Tomahawk Island to/à Twelve Mile Bay - Sheet/Feuille 2)
+ 2202 (Twelve Mile Bay to/à Rose Island - Sheet/Feuille 3)
+ 2202 (South Channel - Amanda Island to/à Parry Sound - Sheet/Feuille 4)
+ 2202 (Moon Island and surrounding areas/et les régions avoisinantes - Sheet/Feuille 5)
+ 2202 (Continuation B - Sheet/Feuille 2)
+ 2202 (Continuation D - Sheet/Feuille 2)
+ 2202 (Port Severn to/à Penetang Harbour - Sheet/Feuille 1)
+ 2202 (Continuation A - Sheet/Feuille 1)
+ 2203 (Byng Inlet - Sheet/Feuille 3)
+ 2203 (Carling Rock to/à Twin Sisters Island - Sheet/Feuille 1)
+ 2203 (Loon Island to/à Galna Island - Sheet/Feuille 1)
+ 2203 (Snug Harbour - Sheet/Feuille 1)
+ 2203 (Canoe Channel - Sheet/Feuille 1)
+ 2203 (Twin Sisters Island to/à Raspberry Island and/et Tonches Island - Sheet/Feuille 2)
+ 2203 (Pointe au Baril - Sheet/Feuille 2)
+ 2203 (Raspberry Island to/à Isle of Pines - Sheet/Feuille 2)
+ 2203 (Tonches Island to/à Pointe au Baril Station - Sheet/Feuille 2)
+ 2203 (Continuation F/G - Sheet/Feuille 3 - Carling Rock to/à Byng Inlet)
+ 2203 (Britt - Sheet/Feuille 3)
+ 2203 (Mile/Mille 55 - Sheet/Feuille 3)
+ 2203 (Bayfield Inlet - Sheet/Feuille 3)
+ 2203 (Byng Inlet Clark Island to/à Magnetawan River - Sheet/Feuille 3)
+ 2203 (Isle of Pines to/à Byng Inlet - Sheet/Feuille 3)
+ 2203 (Continuation A - Sheet/Feuille 3)
+ 2203 (Pointe au Baril Station - Sheet/Feuille 2)
+ 2203 (Shoal Narrows - Sheet/Feuille 2)
+ 2204 (Continuation A - Sheet/Feuille 1)
+ 2204 (Cunninghams Channel - Sheet/Feuille 1)
+ 2204 (Rogers Gut - Sheet/Feuille 1)
+ 2204 (Continuation B - Sheet/Feuille 1)
+ 2204 (Continuation D - Sheet/Feuille 2)
+ 2204 (Obstacle Island to/à Gateway Islands - Sheet/Feuille 2)
+ 2204 (B to C - Sheet/Feuille 2)
+ 2204 (Dorés Run - Sheet/Feuille 2)
+ 2204 (French River to/à Beaverstone Bay - Sheet/Feuille 3)
+ 2204 (Beaverstone Bay to/à Killarney - Sheet/Feuille 4)
+ 2204 (Killarney Harbour - Sheet/Feuille 4)
+ 2204 (Eastern Entrance/Entrée Orientale Collins Inlet - Sheet/Feuille 4)
+ 2204 (Continuation B - Sheet/Feuille 2)
+ 2204 (Continuation A - Sheet/Feuille 2)
+ 2204 (A to B - Sheet/Feuille 1)
+ 2204 (Continuation C - Sheet/Feuille 2)
+ 2204 (Byng Inlet to/à Killarney - Sheet/Feuille 1)
+ 2205 (Killarney to/à Little Current - Sheet/Feuille 1)
+ 2206 (Sheet/Feuille 4 - McGregor Bay)
+ 2206 (Sheet/Feuille 2 - McGregor Bay)
+ 2206 (Sheet/Feuille 1 - McGregor Bay)
+ 2206 (Sheet/Feuille 3 - McGregor Bay)
+ 2206 (Inset/Cartouche B - Sheet/Feuille 1)
+ 2206 (Inset/Cartouche C - Sheet/Feuille 2)
+ 2206 (Inset/Cartouche D - Sheet/Feuille 2)
+ 2206 (Inset/Cartouche E - Sheet/Feuille 2)
+ 2206 (Inset/Cartouche F - Sheet/Feuille 2)
+ 2206 (Inset/Cartouche G - Sheet/Feuille 2)
+ 2206 (Inset/Cartouche A - Sheet/Feuille 1)
+ 2207 (Little Current (2207-4) - Sheet/Feuille 2)
+ 2207 (Bay of Islands (2207-3) - Sheet/Feuille 2)
+ 2207 (Little Current to/à Clapperton Island (2207-2) - Sheet/Feuille 1)
+ 2207 (Bay of Islands to/à Benjamin Islands (2207-1) - Sheet/Feuille 1)
+ 2218 (Penetang Harbour)
+ 2221 (Midland Harbour)
+ 2222 (Tiffin Harbour)
+ 2223 (Port McNicoll and/et Victoria Harbour)
+ 2224 (Rose Island to/à Parry Sound)
+ 2224 (Parry Sound Harbour)
+ 2224 (Rose Island Channel)
+ 2225 (Approaches to/Approches à Parry Sound)
+ 2228 (Goderich Harbour)
+ 2228 (Lake Huron/Lac Huron (Southern Portion/Partie sud))
+ 2235 (Rattlesnake Harbour)
+ 2235 (Cape Hurd to/à Lonely Island)
+ 2241 (Waubaushene)
+ 2241 (Port Severn to/à Christian Island)
+ 2242 (Giants Tomb Island to/à Franklin Island)
+ 2243 (Bateau Island to/à Byng Inlet)
+ 2244 (Alexander Passage to/à Beaverstone Bay)
+ 2245 (Club Harbour)
+ 2245 (Beaverstone Bay to/à Lonely Island and/et McGregor Bay)
+ 2245 (Manitowaning Bay)
+ 2250 (Richards Landing)
+ 2250 (Bruce Mines)
+ 2250 (Twyning Island Bridge)
+ 2250 (Hilton Beach)
+ 2250 (Bruce Mines to/à Sugar Island)
+ 2251 (Thessalon Harbour)
+ 2251 (Meldrum Bay to/à St.Joseph Island)
+ 2257 (Gore Bay)
+ 2257 (Clapperton Island to/à John Island)
+ 2258 (Bayfield Sound and Approaches/et les approches)
+ 2259 (John Island to/à Blind River)
+ 2260 (Sarnia to/à Bayfield - Sheet/Feuille 1)
+ 2261 (Bayfield to/à Douglas Point - Sheet/Feuille 1)
+ 2266 (Michael's Bay to/à Great Duck Island - Sheet/Feuille 1)
+ 2267 (Great Duck Island to/à False Detour Passage - Sheet/Feuille 1)
+ 2268 (Little Detroit)
+ 2268 (Whalesback Channel)
+ 2268 (Blind River)
+ 2268 (Boyd Island to/à Spanish River)
+ 2268 (Serpent Harbour)
+ 2268 (Aird Bay)
+ 2273 (South Baymouth Harbour and Approaches)
+ 2274 (Cape Hurd to/à Tobermory and/et Cove Island)
+ 2274 (Little Tub Harbour)
+ 2274 (Big Tub Harbour)
+ 2282 (Wingfield Basin)
+ 2282 (Lion's Head Harbour)
+ 2282 (MacGregor Harbour)
+ 2282 (Owen Sound to/à Cabot Head)
+ 2283 (Thornbury)
+ 2283 (Wiarton Harbour)
+ 2283 (Owen Sound Harbour)
+ 2283 (Meaford)
+ 2283 (Collingwood)
+ 2283 (Owen Sound to/à Giant's Tomb Island)
+ 2283 (Continuation A - Owen Sound to/à Giant's Tomb Island)
+ 2291 (Port Elgin)
+ 2291 (Kincardine)
+ 2291 (Point Clark to/à Southampton)
+ 2292 (Southampton Harbour)
+ 2292 (Chantry Island to Cove Island)
+ 2292 (Southampton Harbour)
+ 2292 (Chantry Island to Cove Island)
+ 2293 (Continuation A - Byng Inlet and Approaches / et les approches)
+ 2293 (Byng Inlet and Approaches / et les approches)
+ 2297 (Duck Islands to DeTour Passage)
+ 2298 (Cove Island to Duck Islands)
+ 2299 (Clapperton Island to/à Meldrum Bay)
+ 2300 (Superior Shoal)
+ 2300 (Lake Superior/Lac Supérieur)
+ 2301 (Passage Island to/à Thunder Bay)
+ 2302 (St. Ignace Island to/à Passage Island)
+ 2303 (Jackfish Bay to St. Ignace Island)
+ 2303 (Jackfish Bay to St. Ignace Island)
+ 2304 (Oiseau Bay to/à Jackfish Bay)
+ 2305 (Jackfish Bay)
+ 2306 (Peninsula Harbour and/et Port Munro)
+ 2307 (Coppermine Point to/à Cape Gargantua)
+ 2308 (Michipicoten Island to/à Oiseau Bay)
+ 2309 (Cape Gargantua to/à Otter Head)
+ 2310 (Caribou Island to Michipicoten Island)
+ 2311 (Thunder Cape to/à Pigeon River)
+ 2312 (Red Rock)
+ 2312 (Nipigon)
+ 2312 (Nipigon Bay and Approaches/et les approches)
+ 2313 (Black Bay)
+ 2314 (North Harbour Facilities / Installations Portuaires)
+ 2314 (Intercity Grain Terminals/ Terminaux à Grain de L' Inter-Cité)
+ 2314 (Mission River Entrance Grain Terminals/ Terminaux à Grain à L' Entrée de Mission River)
+ 2314 (Westfort Turning Basin / Bassin d'Evitage)
+ 2314 (Port of Thunder Bay)
+ 2315 (Goulais Mission)
+ 2315 (Michipicoten Harbour)
+ 2315 (Quebec Harbour)
+ 2315 (Gargantua Harbour)
+ 2315 (Michipicoten River)
+ 2315 (Mamainse Harbour)
+ 2315 (Sinclair Cove)
+ 2318 (Heron Bay)
+ 2326 (Middlebrun Bay to/à Washington Island)
+ 2400 (Great Lakes/Grands Lacs)
+ 2400 (Continuation A - Great Lakes/Grands Lacs)
+ 3000 (Juan de Fuca Strait to/à Dixon Entrance)
+ 3001 (Vancouver Island / Île de Vancouver, Juan de Fuca Strait to/à Queen Charlotte Sound)
+ 3002 (Queen Charlotte Sound to/à Dixon Entrance)
+ 3010 (Pacific Coast of Canada / Côte Pacifique du Canada)
+ 3011 (Vancouver Island - Juan de Fuca Strait to / à Queen Charlotte Strait)
+ 3012 (Queen Charlotte Sound to / à Dixon Entrance)
+ 3050 (Kootenay River, Mile 0 to Mile 8.7 - Sheet/Feuille 1)
+ 3050 (Kootenay River, Mile 8.3 to Mile 16.5 - Sheet/Feuille 2)
+ 3050 (Kootenay River, Mile 15.8 to Mile 24.9 - Sheet/Feuille 3)
+ 3050 (Kootenay River, Mile 24.2 to Mile 29 - Sheet/Feuille 4)
+ 3050 (West Arm Kootenay Lake, Procter Light to Harrop Narrows - Sheet/Feuille 9)
+ 3050 (West Arm Kootenay Lake, Harrop Narrows to Nine Mile Narrows - Sheet/Feuille 10)
+ 3050 (West Arm Kootenay Lake, Nine Mile Narrows to Five Mile Point - Sheet/Feuille 11)
+ 3050 (West Arm Kootenay Lake, Five Mile Point to Nelson - Sheet/Feuille 12)
+ 3050 (West Arm Kootenay Lake, Nelson to Taghum - Sheet/Feuille 13)
+ 3050 (West Arm Kootenay Lake, Taghum to Corra Linn Dam - Sheet/Feuille 14)
+ 3050 (Kootenay Lake, Kuskonook to Boswell - Sheet/Feuille 5)
+ 3050 (Kootenay Lake, Rhinoceros Point to Riondel - Sheet/Feuille 6)
+ 3050 (Kootenay Lake, Riondel to Kaslo - Sheet/Feuille 7)
+ 3050 (Kootenay Lake, Kaslo to Lardeau - Sheet/Feuille 8)
+ 3050 (Kootenay Lake and River - Sheet/Feuille 1)
+ 3052 (Penticton Marina - Sheet/Feuille 1)
+ 3052 (Kelowna Yacht Club - Sheet/Feuille 2)
+ 3052 (Penticton to/à Kelowna - Sheet/Feuille 1)
+ 3052 (Continuation A - Sheet/Feuille 1)
+ 3052 (Kelowna to/à Vernon - Sheet/Feuille 2)
+ 3053 (Little River - Sheet/Feuille 1)
+ 3053 (Sicamous Narrows - Sheet/Feuille 2)
+ 3053 (Cinnemousun Narrows - Sheet/Feuille 2)
+ 3053 (Continuation A - Sheet/Feuille 2)
+ 3053 (Chase to/à Anglemont - Sheet/Feuille 1)
+ 3053 (Salmon Arm to/à Seymour Arm - Sheet/Feuille 2)
+ 3055 (Waneta to/à Birchbank (A-B) - Sheet/Feuille 1)
+ 3055 (Birchbank to/à Hugh Keenleyside Dam (B-C) - Sheet/Feuille 2)
+ 3055 (C-D - Sheet/Feuille 2)
+ 3056 (Hugh Keenleyside Dam to/à Gladstone Creek (A-B) - Sheet/Feuille 1)
+ 3056 (Gladstone Creek to/à Burton (B-C) - Sheet/Feuille 2)
+ 3057 (Burton to/à Shoreholme (A) - Sheet/Feuille 1)
+ 3057 (Shoreholme to/à Arrowhead (B-C) - Sheet/Feuille 2)
+ 3057 (Continuation A - Sheet/Feuille 2)
+ 3058 (Arrowhead to/à Blanket Creek - Sheet/Feuille 1)
+ 3058 (Blanket Creek To/à Revelstoke - Sheet/Feuille 2)
+ 3061 (Harrison Hot Springs to/à Long Island - Sheet/Feuille 1)
+ 3061 (Harrison Bay to/à Harrison Hot Springs - Sheet/Feuille 1)
+ 3061 (Long Island to/à Little Harrison Lake - Sheet/Feuille 2)
+ 3062 (Pitt River - Sheet/Feuille 1)
+ 3062 (Pitt Lake - Sheet/Feuille 1)
+ 3080 (Stuart Lake - Sheet/Feuille 1)
+ 3311 (Pender Harbour - Sheet/Feuille 4)
+ 3311 (Cortes Bay - Sheet/Feuille 5)
+ 3311 (Westview - Sheet/Feuille 5)
+ 3311 (Fishermans Cove - Sheet/Feuille 1)
+ 3311 (Coal Harbour - Sheet/Feuille 1)
+ 3311 (Deep Cove - Sheet/Feuille 1)
+ 3311 (False Creek - Sheet/Feuille 1)
+ 3311 (Horseshoe Bay - Sheet/Feuille 2)
+ 3311 (Mannion Bay - Sheet/Feuille 2)
+ 3311 (Squamish Harbour - Sheet/Feuille 2)
+ 3311 (Secret Cove - Sheet/Feuille 3)
+ 3311 (Smuggler Cove - Sheet/Feuille 3)
+ 3311 (Gibsons - Sheet/Feuille 3)
+ 3311 (Grief Point to/à Desolation Sound - Sheet/Feuille 5)
+ 3311 (Pender Harbour to/à Grief Point - Sheet/Feuille 4)
+ 3311 (Continuation A - Sheet/Feuille 1)
+ 3311 (Continuation A - Sheet/Feuille 4)
+ 3311 (Port Moody to/à Howe Sound - Sheet/Feuille 1)
+ 3311 (Howe Sound - Sheet/Feuille 2)
+ 3311 (Howe Sound Thornbrough Channel - Sheet/Feuille 2)
+ 3311 (Howe Sound to/à Pender Harbour - Sheet/Feuille 3)
+ 3311 (Sunshine Coast, Vancouver Harbour to/à Desolation Sound - Sheet/Feuille 0)
+ 3312 (Scottie Bay - Sheet/Feuille 1)
+ 3312 (False Bay - Sheet/Feuille 1)
+ 3312 (Squitty Bay - Sheet/Feuille 1)
+ 3312 (Sechelt Rapids - Sheet/Feuille 4)
+ 3312 (Secret Bay - Sheet/Feuille 4)
+ 3312 (Malibu Rapids - Sheet/Feuille 7)
+ 3312 (Cortes Bay - Sheet/Feuille 8)
+ 3312 (Roscoe Bay - Sheet/Feuille 9)
+ 3312 (Refuge Cove - Sheet/Feuille 10)
+ 3312 (Prideaux Haven - Sheet/Feuille 11)
+ 3312 (Galley Bay - Malaspina Inlet - Sheet/Feuille 12)
+ 3312 (Malaspina Inlet - Okeover Inlet - Lancelot Inlet - Sheet/Feuille 13)
+ 3312 (13 Continuation A)
+ 3312 (Okeover Inlet - Sheet/Feuille 14)
+ 3312 (Uganda Passage - Sheet/Feuille 19)
+ 3312 (Whiterock Passage - Sheet/Feuille 20)
+ 3312 (Surge Narrows / Okisollo Channel - Sheet/Feuille 20)
+ 3312 (Okisollo Channel - Hole in the Wall - Sheet/Feuille 21)
+ 3312 (Greene Point Rapids - Sheet/Feuille 24)
+ 3312 (Okisollo Channel - West Part/Partie Ouest - Sheet/Feuille 22)
+ 3312 (Cordero Channel - East/Est - Sheet/Feuille 26)
+ 3312 (Squirrel Cove - Sheet/Feuille 10)
+ 3312 (14 Continuation A)
+ 3312 (Redonda Bay - Sheet/Feuille 10)
+ 3312 (Lancelot and/et Theodosia Inlets - Sheet/Feuille 15)
+ 3312 (Hoskyn Channel - Sutil Channel - Sheet/Feuille 19)
+ 3312 (Agamemnon Channel - Sheet/Feuille 2)
+ 3312 (2 Continuation A)
+ 3312 (Hotham Sound - Prince of Wales Reach - Sheet/Feuille 3)
+ 3312 (3 Continuation A)
+ 3312 (5 Continuation A)
+ 3312 (Sechelt Inlet - Sheet/Feuille 5)
+ 3312 (Queens Reach - Princess Louisa Inlet - Sheet/Feuille 7)
+ 3312 (7 Continuation A)
+ 3312 (Homfray Channel - Sheet/Feuille 9)
+ 3312 (Sutil Channel - Discovery Passage - Sheet/Feuille 18)
+ 3312 (Johnstone Strait - Mayne Passage - Cordero Channel - Sheet/Feuille 24)
+ 3312 (Nodales Channel - Cordero Channel - Sheet/Feuille 25)
+ 3312 (25 Continuation A)
+ 3312 (Bute Inlet - South/Sud - Sheet/Feuille 27)
+ 3312 (29 Continuation A)
+ 3312 (Pendrell Sound - Waddington - Homfray - Pryce Channels - Sheet/Feuille 16)
+ 3312 (Discovery Passage - Sheet/Feuille 23)
+ 3312 (4 Continuation A)
+ 3312 (Toba Inlet - Sheet/Feuille 29)
+ 3312 (Lasqueti Island - Sheet/Feuille 1)
+ 3312 (Prince of Wales Reach - Princess Royal Reach - Sheet/Feuille 6)
+ 3312 (Desolation Sound - Sheet/Feuille 8)
+ 3312 (Calm Channel - Deer Passage - Raza Passage - Sheet/Feuille 17)
+ 3312 (Skookumchuck Narrows - Sheet/Feuille 4)
+ 3312 (Strait of Georgia, Central Portion/Partie Centrale - Sheet/Feuille A)
+ 3312 (Desolation Sound - Sheet/Feuille B)
+ 3312 (Bute Inlet - Sheet/Feuille 28)
+ 3312 (Jervis Inlet & Desolation Sound and Adjacent Waterways/et les voies navigables adjacentes - Sheet/Feuille 1)
+ 3313 (Victoria Harbour - Sheet/Feuille 3)
+ 3313 (Oak Bay - Sheet/Feuille 3)
+ 3313 (Roche Harbor - Sheet/Feuille 6B)
+ 3313 (Sidney and/et Tsehum Harbour - Sheet/Feuille 7)
+ 3313 (Fulford Harbour - Sheet/Feuille 8)
+ 3313 (Active Pass - Sheet/Feuille 9)
+ 3313 (Montague Harbour - Sheet/Feuille 9)
+ 3313 (Portland Island - Sheet/Feuille 9)
+ 3313 (Captain Passage - Sheet/Feuille 10)
+ 3313 (Georgeson Passage - Sheet/Feuille 12)
+ 3313 (Pender Canal - Sheet/Feuille 12)
+ 3313 (Brentwood Bay and/et Tod Inlet - Sheet/Feuille 13)
+ 3313 (Birds Eye Cove - Sheet/Feuille 14)
+ 3313 (Genoa Bay - Sheet/Feuille 14)
+ 3313 (Ladysmith Harbour - Sheet/Feuille 15)
+ 3313 (Porlier Pass - Sheet/Feuille 16)
+ 3313 (Ruxton Passage - Sheet/Feuille 18)
+ 3313 (Gabriola Passage - Sheet/Feuille 19)
+ 3313 (False Narrows - Sheet/Feuille 20)
+ 3313 (Dodd Narrows - Sheet/Feuille 20)
+ 3313 (Nanaimo Harbour and/et Departure Bay - Sheet/Feuille 21)
+ 3313 (Fisherman Bay - Sheet/Feuille 22)
+ 3313 (Friday Harbor - Sheet/Feuille 23)
+ 3313 (The Cut, Telegraph Harbour and/et Preedy Harbour - Sheet/Feuille 16)
+ 3313 (Lopez Island - Sheet/Feuille 22B)
+ 3313 (Newcastle Island Passage southern portion/Partie sud - Sheet/Feuille 21)
+ 3313 (Swanson Channel - Sheet/Feuille 8)
+ 3313 (Approaches to/Approches à Victoria - Sheet/Feuille 4)
+ 3313 (Plumper Sound - Sheet/Feuille 11)
+ 3313 (Saanich Inlet - Sheet/Feuille 13)
+ 3313 (Continuation A - Sheet/Feuille 13)
+ 3313 (Sansum Narrows - Sheet/Feuille 14)
+ 3313 (Stuart Channel South/Sud - Sheet/Feuille 15)
+ 3313 (Trincomali Channel - Sheet/Feuille 17)
+ 3313 (Approaches to/Approches à Nanaimo - Sheet/Feuille 20)
+ 3313 (Haro Strait South/Sud - Sheet/Feuille 22)
+ 3313 (San Juan Channel - Sheet/Feuille 23)
+ 3313 (Boundary Pass - Sheet/Feuille 24)
+ 3313 (Haro Strait Central/Centrale - Sheet/Feuille 5)
+ 3313 (Haro Strait North/Nord - Sheet/Feuille 6)
+ 3313 (Stuart Channel North/Nord - Sheet/Feuille 18)
+ 3313 (Juan de Fuca Strait - Sheet/Feuille 1)
+ 3313 (Strait of Georgia - Sheet/Feuille 2)
+ 3410 (Pedder Bay)
+ 3410 (Sooke Inlet to/à Parry Bay)
+ 3411 (Sooke)
+ 3412 (Victoria Harbour)
+ 3412 (Portage Inlet)
+ 3419 (Esquimalt Harbour)
+ 3424 (Approaches to/Approches à Oak Bay)
+ 3440 (Race Rocks to/à D'Arcy Island)
+ 3441 (Haro Strait, Boundary Pass and/et Satellite Channel)
+ 3441 (Continuation A - Haro Strait, Boundary Pass and/et Satellite Channel)
+ 3442 (North Pender Island to/à Thetis Island)
+ 3443 (Thetis Island to/à Nanaimo)
+ 3447 (Nanaimo Harbour and/et Departure Bay)
+ 3447 (Newcastle Island Passage)
+ 3456 (Halibut Bank to/à Ballenas Channel)
+ 3458 (Approaches to/Approches à Nanaimo Harbour)
+ 3459 (Approaches to/Approches à Nanoose Harbour)
+ 3461 (Juan de Fuca Strait, Eastern Portion/Partie Est)
+ 3462 (Juan de Fuca Strait to/à Strait of Georgia)
+ 3463 (Strait of Georgia, Southern Portion/Partie Sud)
+ 3473 (Montague Harbour)
+ 3473 (Active Pass)
+ 3473 (Porlier Pass)
+ 3475 (Dodd Narrows)
+ 3475 (Chemainus Bay)
+ 3475 (Ladysmith Harbour)
+ 3475 (Dodd Narrows to/à Flat Top Islands)
+ 3475 (Osborn Bay)
+ 3477 (Bedwell Harbour to/à Georgeson Passage)
+ 3477 (Pender Canal)
+ 3477 (Telegraph Harbour and/et Preedy Harbour)
+ 3478 (Genoa Bay)
+ 3478 (Fulford Harbour)
+ 3478 (Birds Eye Cove)
+ 3478 (Ganges Harbour and/et Long Harbour)
+ 3478 (Sansum Narrows)
+ 3479 (Iroquois Passage and/et John Passage)
+ 3479 (Sidney)
+ 3479 (Approaches to/Approches à Sidney)
+ 3479 (Tsehum Harbour)
+ 3481 (Approaches to/Approches à Vancouver Harbour)
+ 3486 (Fraser River - Whonnock to / a Strawberry Island)
+ 3487 (Douglas Island to / a Whonnock)
+ 3488 (Crescent Island to/à Strawberry Island - Sheet/Feuille 1)
+ 3488 (Strawberry Island to/à Harrison Mills - Sheet/Feuille 2)
+ 3489 (Pattullo Bridge to/à Barnston Island - Sheet/Feuille 1)
+ 3489 (Barnston Island to/à Crescent Island - Sheet/Feuille 2)
+ 3490 (Fraser River/Fleuve Fraser, Sand Heads to/à Douglas Island, Compartment A-B)
+ 3490 (Fraser River/Fleuve Fraser, Sand Heads to/à Douglas Island, Compartment B-C)
+ 3491 (Compartment B-C - Fraser River/Fleuve Fraser, North Arm)
+ 3491 (Compartment A-B - Fraser River/Fleuve Fraser, North Arm)
+ 3492 (Roberts Bank)
+ 3493 (Vancouver Harbour Western Portion/Partie Ouest)
+ 3494 (Second Narrows)
+ 3494 (Vancouver Harbour Central Portion/Partie Centrale)
+ 3495 (Vancouver Harbour Eastern Portion/Partie Est)
+ 3495 (Indian Arm - Continuation A)
+ 3496 (Approaches to/Approches à Vancouver Harbour)
+ 3496 (Approaches to/Approches à Vancouver Harbour)
+ 3497 (Vancouver Harbour Central Portion/Partie Centrale)
+ 3512 (Strait of Georgia, Central Portion/Partie Centrale)
+ 3513 (Strait of Georgia, Northern Portion/Partie Nord)
+ 3514 (Malibu Rapids)
+ 3514 (Sechelt Rapids)
+ 3514 (Jervis Inlet)
+ 3515 (Simoom Sound)
+ 3515 (Knight Inlet)
+ 3526 (Howe Sound)
+ 3527 (Comox Harbour)
+ 3527 (Baynes Sound)
+ 3533 (False Bay)
+ 3533 (Powell River and/et Westview)
+ 3533 (Sturt Bay and/et Van Anda Cove)
+ 3533 (Lasqueti Island)
+ 3534 (Squamish Harbour)
+ 3534 (Mannion Bay and/et Snug Cove)
+ 3534 (Shoal Channel)
+ 3534 (Horseshoe Bay)
+ 3534 (Fishermans Cove)
+ 3535 (Secret Cove and/et Smuggler Cove)
+ 3535 (Pender Harbour)
+ 3535 (Welcome Passage)
+ 3536 (Sturt Bay and/et Vananda Cove)
+ 3536 (Powell River and/et Westview)
+ 3536 (False Bay)
+ 3537 (Okisollo Channel)
+ 3537 (Whiterock Passage)
+ 3538 (Desolation Sound and/et Sutil Channel)
+ 3539 (Seymour Narrows)
+ 3539 (Discovery Passage)
+ 3540 (Continuation A, Duncan Bay - Approaches to/Approches à Campbell River)
+ 3540 (Approaches to/Approches à Campbell River)
+ 3541 (Approaches to/Approches à Toba Inlet)
+ 3541 (Continuation A - Approaches to/Approches à Toba Inlet)
+ 3542 (Bute Inlet, Continuation A/B)
+ 3542 (Bute Inlet, Continuation B/C)
+ 3543 (Dent and/et Yuculta Rapids)
+ 3543 (Greene Point Rapids)
+ 3543 (Cordero Channel)
+ 3543 (Continuation A - Cordero Channel)
+ 3544 (Johnstone Strait, Race Passage and/et Current Passage)
+ 3544 (Continuation A - Johnstone Strait, Race Passage and/et Current Passage)
+ 3545 (Johnstone Strait, Port Neville to/à Robson Bight)
+ 3545 (Continuation A - Johnstone Strait, Port Neville to/à Robson Bight)
+ 3546 (Alert Bay)
+ 3546 (Port McNeill)
+ 3546 (Broughton Strait)
+ 3547 (Stuart Narrows)
+ 3547 (Kenneth Passage)
+ 3547 (Queen Charlotte Strait Eastern Portion/Partie Est)
+ 3547 (Continuation A - Queen Charlotte Strait, Eastern Portion/Partie Est)
+ 3547 (Continuation B - Queen Charlotte Strait, Eastern Portion/Partie Est)
+ 3548 (Port Hardy)
+ 3548 (Blunden Harbour)
+ 3548 (Queen Charlotte Strait, Central Portion/Partie Centrale)
+ 3549 (Bull Harbour)
+ 3549 (Queen Charlotte Strait Western Portion/Partie Ouest)
+ 3550 (Approaches to/Approches à Seymour Inlet and/et Belize Inlet)
+ 3552 (Continuation A - Seymour Inlet and/et Belize Inlet)
+ 3552 (Continuation B - Seymour Inlet and/et Belize Inlet)
+ 3552 (Continuation C - Seymour Inlet and/et Belize Inlet)
+ 3552 (Seymour Inlet and/et Belize Inlet)
+ 3554 (Lund)
+ 3554 (Squirrel Cove)
+ 3554 (Cortes Bay)
+ 3554 (Tenedos Bay)
+ 3554 (Prideaux Haven)
+ 3554 (Walsh Cove)
+ 3554 (Roscoe Bay)
+ 3554 (Refuge Cove)
+ 3555 (Prideaux Haven)
+ 3555 (Redonda Bay)
+ 3555 (Refuge Cove)
+ 3555 (Squirrel Cove)
+ 3555 (Beaver Inlet)
+ 3559 (Malaspina Inlet, Okeover Inlet and/et Lancelot Inlet)
+ 3559 (Continuation A - Malaspina Inlet, Okeover Inlet and/et Lancelot Inlet)
+ 3564 (Havannah Channel and/et Chatham Channel)
+ 3564 (Port Neville)
+ 3564 (Chatham Channel)
+ 3598 (Cape Scott to Cape Calvert)
+ 3601 (Juan de Fuca Strait to/à Vancouver Harbour)
+ 3602 (Approaches to/Approches à Juan de Fuca Strait)
+ 3603 (Ucluelet Inlet to/à Nootka Sound)
+ 3604 (Nootka Sound to/à Quatsino Sound)
+ 3605 (Scott Channel)
+ 3605 (Quatsino Sound to/à Queen Charlotte Strait)
+ 3606 (Juan de Fuca Strait)
+ 3623 (Kyuquot Sound to/à Cape Cook)
+ 3624 (Sea Otter Cove)
+ 3624 (Cape Cook to Cape Scott)
+ 3625 (Scott Islands)
+ 3646 (Bamfield Inlet)
+ 3646 (Fatty Basin - Cancelled by 3656)
+ 3646 (Ucluelet Inlet - Cancelled by 3653)
+ 3646 (Uchucklesit Inlet)
+ 3647 (Port San Juan)
+ 3647 (Nitinat Narrows)
+ 3647 (Nitinat Narrows)
+ 3651 (Scouler Entrance)
+ 3653 (Ucluelet Inlet)
+ 3654 (Bamfield Inlet)
+ 3656 (Useless Inlet and Fatty Basin)
+ 3668 (Port Alberni)
+ 3668 (Robbers Passage)
+ 3668 (Entrance to/Entrée à Useless Inlet - Cancelled by 3656)
+ 3668 (Alberni Inlet)
+ 3670 (Continuation A - Broken Group)
+ 3670 (Broken Group)
+ 3671 (Barkley Sound)
+ 3673 (Continuation A - Clayoquot Sound, Tofino Inlet to/à Millar Channel)
+ 3673 (Clayoquot Sound, Tofino Inlet to/à Millar Channel)
+ 3674 (Hot Springs Cove)
+ 3674 (Marktosis)
+ 3674 (Hayden Passage)
+ 3674 (Millar Channel to/à Estevan Point)
+ 3674 (Continuation A - Clayoquot Sound, Millar Channel to/à Estevan Point)
+ 3675 (Gold River)
+ 3675 (Princesa Channel)
+ 3675 (Nootka Sound)
+ 3675 (Continuation B - Nootka Sound)
+ 3675 (Continuation A - Nootka Sound)
+ 3676 (Tahsis)
+ 3676 (Esperanza Inlet)
+ 3677 (Kyuquot)
+ 3677 (Entrance to/Entrée à Fair Harbour)
+ 3677 (Kyuquot Sound)
+ 3679 (Quatsino Sound)
+ 3680 (Brooks Bay)
+ 3681 (Coal Harbour)
+ 3681 (Quatsino Narrows)
+ 3681 (Neroutsos Inlet)
+ 3681 (Port Alice)
+ 3683 (Checleset Bay)
+ 3685 (Tofino)
+ 3686 (Approaches to/Approches à Winter Harbour)
+ 3686 (Continuation A - Approaches to/Approches à Winter Harbour)
+ 3721 (Port Stephens and/et Monckton Inlet)
+ 3721 (Mink Trap Bay and/et Adjacent Inlets/Goulets Adjacent)
+ 3721 (Buchan Inlet)
+ 3724 (Caamaño Sound and Approaches/et les approches)
+ 3726 (Laredo Sound and Approaches)
+ 3727 (Cape Calvert to Goose Island including Fitz Hugh Sound)
+ 3728 (Milbanke Sound and Approaches/et les approches)
+ 3733 (Catala Passage)
+ 3737 (Laredo Channel including/y compris Laredo Inlet and/et Surf Inlet)
+ 3741 (Otter Passage to Bonilla Island)
+ 3742 (Otter Passage to/à McKay Reach)
+ 3744 (Queen Charlotte Sound)
+ 3794 (Stewart)
+ 3795 (Langley Passage, Estevan Group)
+ 3800 (Dixon Entrance)
+ 3807 (Atli Inlet to/à Selwyn Inlet)
+ 3808 (Juan Perez Sound)
+ 3809 (Carpenter Bay to/à Burnaby Island)
+ 3811 (Rockfish Harbour)
+ 3811 (Pacofi Bay)
+ 3811 (Thurston Harbour)
+ 3811 (Port Louis and/et Otard Bay)
+ 3813 (Port Louis and Otard Bay)
+ 3815 (Shields Bay)
+ 3816 (Parry Passage)
+ 3825 (Cape St. James to/à Houston Stewart Channel)
+ 3827 (Tasu Sound)
+ 3853 (Cape St. James to/à Cumshewa Inlet and/et Tasu Sound)
+ 3854 (Tasu Sound to/à Port Louis)
+ 3855 (Houston Stewart Channel)
+ 3855 (Houston Stewart Channel)
+ 3857 (Louscoone Inlet)
+ 3858 (Flamingo Inlet)
+ 3859 (Tasu Sound)
+ 3860 (Shields Bay)
+ 3860 (Kano Inlet (Cancelled by 3874))
+ 3860 (Hippa Island)
+ 3860 (Seal Inlet and/et Tartu Inlet (Cancelled by 3874))
+ 3863 (Port Chanal)
+ 3864 (Gowgaia Bay)
+ 3865 (Englefield Bay and Vicinity)
+ 3865 (Security Cove)
+ 3865 (Vicinity of Englefield Bay)
+ 3868 (Port Louis to/à Langara Island)
+ 3869 (Skidegate Channel to/à Tian Rock)
+ 3869 (Continuation A - Skidegate Channel to/à Tian Rock)
+ 3872 (Approaches to/à Tasu Sound)
+ 3874 (Rennell Sound)
+ 3886 (Carpenter Bay to/à Burnaby Island)
+ 3887 (Juan Perez Sound)
+ 3887 (Passage b/w Faraday I and Murchinson I)
+ 3890 (Alliford Bay)
+ 3890 (Queen Charlotte)
+ 3890 (Approaches to/Approches à Skidegate Inlet)
+ 3891 (East Narrows and/et West Narrows)
+ 3891 (Skidegate Channel)
+ 3892 (Wiah Point)
+ 3892 (Masset Harbour and/et Naden Harbour)
+ 3893 (Juskatla Narrows)
+ 3893 (Masset Inlet)
+ 3893 (Continuation A - Masset Inlet)
+ 3894 (Selwyn Inlet to/à Lawn Point)
+ 3895 (Masset Harbour and Approaches/et les Approches)
+ 3895 (Parry Passage)
+ 3895 (Alexandra Narrows)
+ 3902 (Hecate Strait)
+ 3908 (Kitimat Harbour)
+ 3908 (Kitimat)
+ 3909 (Refuge Bay)
+ 3909 (Qlawdzeet Anchorage)
+ 3909 (Brundige Inlet)
+ 3909 (Welcome Harbour)
+ 3909 (Hunt Inlet)
+ 3910 (Higgins Passage)
+ 3910 (Weeteeam Bay)
+ 3910 (Entrance to/Entrée à Mathieson Channel)
+ 3910 (Clifford Bay)
+ 3910 (Borrowman Bay)
+ 3911 (Kent Inlet)
+ 3911 (Inlets in/Entrée en Laredo Channel)
+ 3911 (Chapple Inlet)
+ 3911 (Gillen Harbour)
+ 3911 (Klemtu Passage to/à Tolmie Channel)
+ 3911 (Barnard Harbour)
+ 3912 (Inlets in/Entrée en Campania Island)
+ 3912 (Kingkown Inlet)
+ 3912 (Port Canaveral)
+ 3920 (Alice Arm)
+ 3920 (Nass Bay)
+ 3921 (Allison Harbour)
+ 3921 (Fish Egg Inlet)
+ 3927 (Bonilla Island to/à Edye Passage)
+ 3931 (Draney Narrows)
+ 3931 (Smith Inlet, Boswell Inlet and/et Draney Inlet)
+ 3932 (Nelson Narrows)
+ 3932 (Rivers Inlet)
+ 3933 (Portland Canal and/et Observatory Inlet)
+ 3933 (Continuation A - Portland Canal and/et Observatory Inlet)
+ 3934 (Darby Channel)
+ 3934 (Approaches to/Approches à Smith Sound and/et Rivers Inlet)
+ 3935 (Hakai Passage and Vicinity/et Environs)
+ 3936 (Namu Harbour)
+ 3936 (Fitz Hugh Sound to/à Lama Passage)
+ 3936 (Burke Channel (Continuation A))
+ 3937 (Queens Sound)
+ 3938 (Bella Bella)
+ 3938 (Queens Sound to/à Seaforth Channel)
+ 3938 (St. John Harbour)
+ 3939 (Troup Narrows)
+ 3939 (Ocean Falls)
+ 3939 (Gunboat Passage)
+ 3939 (Shearwater)
+ 3939 (Fisher Channel to/à Seaforth Channel and/et Dean Channel)
+ 3939 (Continuation A (Cousins Inlet))
+ 3940 (Continuation A - Spiller Channel and/et Roscoe Inlet)
+ 3940 (Spiller Channel and/et Roscoe Inlet)
+ 3941 (Jackson Narrows)
+ 3941 (Nowish Cove)
+ 3941 (Channels/Chenaux Vicinity of/Proximité de Milbanke Sound)
+ 3942 (Continuation B - Mathieson Channel Northern Portion/Partie Nord)
+ 3942 (Mathieson Channel Northern Portion/Partie Nord)
+ 3942 (Continuation A - Mathieson Channel Northern Portion/Partie Nord)
+ 3943 (Meyers Narrows)
+ 3943 (Hiekish Narrows)
+ 3943 (Finlayson Channel and/et Tolmie Channel)
+ 3944 (Butedale)
+ 3944 (Compartment A-B - Princess Royal Channel)
+ 3944 (Compartment B-C - Princess Royal Channel)
+ 3945 (Coghlan Anchorage)
+ 3945 (Continuation A - Approaches to/Approches à Douglas Channel)
+ 3945 (Approaches to/Approches à Douglas Channel)
+ 3945 (Tuwartz Narrows)
+ 3946 (Union Passage)
+ 3946 (Baker Inlet)
+ 3946 (Grenville Channel Compartment A-B)
+ 3946 (Grenville Channel Compartment B-C)
+ 3947 (Grenville Channel to/à Chatham Sound)
+ 3948 (Kemano Bay)
+ 3948 (Gardner Canal)
+ 3948 (Continuation A - Gardner Canal)
+ 3955 (Venn Passage)
+ 3955 (Porpoise Harbour, Ridley Island and Approaches/et les Approches)
+ 3955 (Morse Basin and/et Denise Inlet)
+ 3956 (Malacca Passage to/à Bell Passage)
+ 3957 (Approaches to/Approches à Prince Rupert Harbour)
+ 3958 (Prince Rupert Harbour)
+ 3958 (Butze Rapids)
+ 3959 (Hudson Bay Passage)
+ 3960 (Approaches to/Approches à Portland Inlet)
+ 3963 (Lax Kw'alaams)
+ 3963 (Quottoon Narrows)
+ 3963 (Work Channel A-B)
+ 3963 (Work Channel B-C)
+ 3964 (Tuck Inlet)
+ 3964 (Tuck Narrows)
+ 3974 (Bella Coola)
+ 3974 (Continuation C - Dean Channel, Burke Channel and/et Bentinck Arms)
+ 3974 (Dean Channel, Burke Channel and/et Bentinck Arms)
+ 3974 (Continuation B - Dean Channel, Burke Channel and/et Bentinck Arms)
+ 3974 (Continuation A - Dean Channel, Burke Channel and/et Bentinck Arms)
+ 3975 (Caamaño Sound and Approaches/et les approches)
+ 3976 (Principe Channel to/à Douglas Channel)
+ 3977 (Douglas Channel-Northern Portion)
+ 3977 (Douglas Channel)
+ 3977 (Continuation A - Douglas Channel)
+ 3978 (Bonilla Island to/à Edye Passage)
+ 3980 (Laredo Sound)
+ 3981 (Kent Inlet)
+ 3981 (Helmcken Inlet)
+ 3981 (Laredo Channel and/et Laredo Inlet)
+ 3981 (Continuation A Surf Inlet)
+ 3981 (Continuation B Laredo Inlet)
+ 3982 (Caamaño Sound to/à Whale Channel)
+ 3983 (Caamaño Sound to/à Principe Channel)
+ 3984 (Principe Channel Southern Portion/Partie Sud)
+ 3984 (Continuation A - Principe Channel Southern Portion/Partie Sud)
+ 3985 (Newcombe Harbour)
+ 3985 (Principe Channel Central Portion/Partie Centrale and/et Petrel Channel)
+ 3985 (Continuation A - Principe Channel Central Portion/Partie Centrale and/et Petrel Channel)
+ 3985 (Hevenor Inlet)
+ 3986 (Griffith Harbour)
+ 3986 (Browning Entrance)
+ 3987 (Captain Cove)
+ 3987 (Kitkatla Channel and/et Porcher Inlet)
+ 3994 (Khutzeymateen Inlet)
+ 3994 (Portland Inlet, Khutzeymateen Inlet and Pearse Canal)
+ 4000 (Gulf of Maine to/à Baffin Bay / Baie de Baffin)
+ 4001 (Gulf of Maine to Strait of Belle Isle / au Detroit de Belle Isle)
+ 4002 (Golfe du Saint-Laurent / Gulf of St. Lawrence)
+ 4003 (Cape Breton to / à Cape Cod)
+ 4006 (Newfoundland and Labrador/Terre-Neuve-et-Labrador to Bermuda / aux Bermudes)
+ 4010 (Continuation B - Bay of Fundy / Baie de Fundy: Inner portion / partie intérieure)
+ 4010 (Continuation A - Bay of Fundy / Baie de Fundy: Inner portion / partie intérieure)
+ 4010 (Bay of Fundy / Baie de Fundy: Inner portion / partie intérieure)
+ 4011 (Approaches to / Approches à Bay of Fundy / Baie de Fundy)
+ 4012 (Yarmouth to / à Halifax)
+ 4013 (Halifax to / à Sydney)
+ 4015 (Sydney to / à Saint-Pierre)
+ 4016 (Saint-Pierre to / à St. John's)
+ 4017 (Cape Race to / à Cape Freels)
+ 4020 (Strait of Belle Isle / Détroit de Belle Isle)
+ 4021 (Lower Cove)
+ 4021 (Pointe Amour à / to Cape Whittle et / and Cape George)
+ 4022 (Cabot Strait and approaches / Détroit de Cabot et les approches)
+ 4023 (Northumberland Strait / Détroit de Northumberland)
+ 4024 (Baie des Chaleurs/Chaleur Bay aux/to Îles de la Madeleine)
+ 4025 (Cap Whittle à/to Havre-Saint-Pierre et/and Île d'Anticosti)
+ 4026 (Havre Saint-Pierre et/and Cap des Rosiers à/to Pointe des Monts)
+ 4045 (Sable Island Bank / Banc de I'Île de Sable to / au St. Pierre Bank / Banc de Saint-Pierre)
+ 4047 (St. Pierre Bank / Banc de Saint-Pierre to / au Whale Bank / Banc de la Baleine)
+ 4049 (Grand Bank, Northern Portion / Grand Banc, Partie Nord to / à Flemish Pass / Passe Flamande)
+ 4098 (Sable Island / Île de Sable)
+ 4099 (Sable Island / Île de Sable: Western Portion / Partie Ouest)
+ 4114 (Campobello Island)
+ 4114 (Eastport Harbor)
+ 4115 (Beaver Harbour)
+ 4115 (Saint Andrews)
+ 4115 (Todds Point)
+ 4115 (Passamaquoddy Bay and / et St. Croix River)
+ 4116 (Dipper Harbour)
+ 4116 (Musquash Harbour)
+ 4116 (Approaches to / Approches à Saint John)
+ 4117 (Saint John Harbour and Approaches / et les approches)
+ 4118 (East Sandy Cove)
+ 4118 (Meteghan)
+ 4118 (Weymouth)
+ 4118 (Saulnierville)
+ 4118 (Petit Passage)
+ 4118 (Grand Passage)
+ 4118 (St. Marys Bay)
+ 4118 (Continuation A - St. Marys Bay)
+ 4124 (Letete Passage, Letang Harbour and / et Blacks Harbour)
+ 4124 (Seal Cove and Approaches / et les approches)
+ 4130 (Dorchester Cape)
+ 4130 (Continuation A - Petitcodiac River and / et Cumberland Basin)
+ 4130 (Petitcodiac River and / et Cumberland Basin)
+ 4140 (Hantsport Wharves / Quais)
+ 4140 (Avon River and Approaches / et les approches)
+ 4141 (Continuation B - Belleisle Bay - Sheet / Feuille B-C)
+ 4141 (Saint John to / à Grand Bay including / y compris Kennebecasis River - Sheet / Feuille A-B)
+ 4141 (Continuation A - Sheet / Feuille A-B)
+ 4141 (Grand Bay to / à Evandale including / y compris Belleisle Bay - Sheet / Feuille B-C)
+ 4142 (Oromocto Shoals - Sheet/Feuille 2)
+ 4142 (Douglas Harbour - Sheet/Feuille 4)
+ 4142 (Chipman - Sheet/Feuille 4)
+ 4142 (Evandale to / à Ram Island - Sheet/Feuille 1)
+ 4142 (Ram Island to / à Ross Island - Sheet/Feuille 2)
+ 4142 (Ram Island to Ross Island - Continuation A - Sheet/Feuille 2)
+ 4142 (Washademoak Lake - Sheet/Feuille 3)
+ 4142 (Grand Lake - Sheet/Feuille 4)
+ 4145 (Mactaquac Marina - Sheet/Feuille A)
+ 4145 (Mactaquac to / à Ritchie - Sheet/Feuille A)
+ 4145 (Continuation A-1 - Sheet/Feuille A - Mactaquac Lake - Saint John River / Rivière Saint-Jean)
+ 4145 (Ritchie to / à Newburg Junction - Sheet/Feuille B)
+ 4145 (Continuation A-2 - Sheet/Feuille A - Mactaquac Lake - Saint John River / Rivière Saint-Jean)
+ 4145 (Continuation B-1 - Sheet/Feuille B - Mactaquac Lake - Saint John River / Rivière Saint-Jean)
+ 4145 (Continuation B-2 - Sheet/Feuille B - Mactaquac Lake - Saint John River / Rivière Saint-Jean)
+ 4145 (Mactaquac Lake - Saint John River / Rivière Saint-Jean - Sheet/Feuille 1)
+ 4170 (Glace Bay Harbour)
+ 4201 (Halifax Harbour: Bedford Basin)
+ 4202 (Ocean Terminals)
+ 4202 (Halifax Harbour: Point Pleasant to / à Bedford Basin)
+ 4203 (Halifax Harbour: Black Point to / à Point Pleasant)
+ 4209 (Shelburne Harbour)
+ 4209 (Lockeport Harbour)
+ 4209 (Lockeport)
+ 4209 (Shelburne)
+ 4210 (Cape Sable to / à Pubnico Harbour)
+ 4210 (Continuation A - Cape Sable to / à Pubnico Harbour)
+ 4211 (Cape Lahave to / à Liverpool Bay)
+ 4227 (Country Harbour to / au Ship Harbour)
+ 4230 (Little Hope Island to / à Cape St Marys)
+ 4233 (Tor Bay)
+ 4233 (Whitehead Harbour)
+ 4233 (Cape Canso to / à Country Island)
+ 4234 (Port Bickerton)
+ 4234 (Country Harbour)
+ 4234 (St Marys River)
+ 4234 (Country Island to / à Barren Island)
+ 4235 (Ecum Secum)
+ 4235 (Sheet Harbour)
+ 4235 (Barren Island to / à Taylors Head)
+ 4236 (Ship Harbour and Approaches / et les approches)
+ 4236 (Continuation A - Taylors Head to / à Shut-in Island)
+ 4236 (Taylors Head to / à Shut-in Island)
+ 4237 (Sambro Harbour)
+ 4237 (Approaches to / Approches de Halifax Harbour)
+ 4240 (Port Mouton)
+ 4240 (Liverpool Harbour to / à Lockeport Harbour)
+ 4241 (Lockeport to / à Cape Sable)
+ 4242 (Cape Sable Island to / aux Tusket Islands)
+ 4243 (Cape St Marys)
+ 4243 (Tusket Islands to / à Cape St Marys)
+ 4244 (Wedgeport and Vicinity / et les abords)
+ 4245 (Yarmouth Wharves / Quais)
+ 4245 (Yarmouth Harbour and Approaches / et les approches)
+ 4255 (Georges Bank / Banc de Georges: Eastern Portion / Partie Est)
+ 4266 (Sydney River)
+ 4266 (North Sydney)
+ 4266 (Sydney Harbour)
+ 4266 (International Piers)
+ 4266 (Sydport)
+ 4266 (Sydney Wharves / Quais)
+ 4275 (St. Peters Canal)
+ 4275 (St. Peters Bay)
+ 4276 (Little Bras D'Or Continuation B-C)
+ 4276 (Little Bras D'Or A-B)
+ 4277 (Entrance to/Entrée à Great Bras D'Or)
+ 4277 (Entrance to/Entrée à St. Ann's Harbour)
+ 4277 (Otter Harbour)
+ 4277 (Great Bras D'Or, St. Andrews Channel and/et St. Anns Bay)
+ 4278 (Iona and/et Grand Narrows)
+ 4278 (MacIvers Pt. to/à Little Narrows)
+ 4278 (Great Bras D'Or and/et St. Patricks Channel)
+ 4278 (Iona and / et Grand Narrows)
+ 4278 (MacIvers Pt to / à Little Narrows)
+ 4278 (Baddeck Harbour)
+ 4278 (Great Bras D'Or and / et St Patricks Channel)
+ 4279 (Lennox Passage)
+ 4279 (Continuation A - Bras D'Or Lake)
+ 4279 (Bras D'Or Lake)
+ 4281 (Canso Harbour and Approaches / et les Approches)
+ 4301 (Petit-de-Grat Inlet)
+ 4301 (Petit-de-Grat Inlet)
+ 4301 (Guysborough Harbour)
+ 4301 (Guysborough Harbour)
+ 4301 (Canso Harbour to Strait of Canso)
+ 4301 (Canso Harbour to Strait of Canso)
+ 4302 (Canso Lock and Causeway / Écluse et Chaussée Surélevée de Canso)
+ 4302 (Point Tupper to / à Ship Point)
+ 4302 (Strait of Canso)
+ 4307 (Canso Harbour to / au Strait of Canso)
+ 4308 (Petit-de-Grat Inlet)
+ 4308 (St. Peters Bay to / à Strait of Canso)
+ 4320 (Egg Island to / à West Ironbound Island)
+ 4321 (Cape Canso to / à Liscomb Island)
+ 4328 (Lunenburg Harbour)
+ 4328 (Lunenburg Bay)
+ 4335 (Guysborough Harbour (cancelled by 4301))
+ 4335 (Strait of Canso and Approaches / et les approches)
+ 4337 (Alma (Inset Cancelled - 2025))
+ 4337 (Alma (and Approaches / et les Approaches))
+ 4340 (Grand Manan)
+ 4342 (Long Island Bay)
+ 4342 (North Head (Wharves / Quais))
+ 4342 (Grand Harbour)
+ 4363 (Cape Smoky to/à St. Paul Island)
+ 4363 (Cape Smoky to / à St Paul Island)
+ 4365 (Ingonish Harbour and Approaches / et les Approches)
+ 4365 (Dingwall Harbour)
+ 4367 (Flint Island to / à Cape Smokey)
+ 4374 (Red Point to / à Guyon Island)
+ 4375 (Guyon Island to / à Flint Island)
+ 4376 (Louisbourg Harbour)
+ 4377 (Main-à-Dieu Passage)
+ 4379 (Liverpool Harbour)
+ 4381 (Mahone Harbour)
+ 4381 (Chester Harbour)
+ 4381 (Mahone Bay)
+ 4381 (Chester Harbour)
+ 4381 (Mahone Harbour)
+ 4381 (Martin's Point)
+ 4381 (Mahone Bay)
+ 4381 (Deep Cove)
+ 4384 (Pearl Island to / à Cape La Have)
+ 4385 (Chebucto Head to / à Betty Island)
+ 4386 (Head Harbour)
+ 4386 (Hubbards Cove)
+ 4386 (St. Margaret's Bay)
+ 4386 (St. Margaret's Bay)
+ 4391 (LaHave River: Conquerall Bank to / à Bridgewater)
+ 4391 (Bridgewater Public Wharf / Quai Public)
+ 4394 (LaHave River: West Ironbound Island to / à Riverport)
+ 4395 (LaHave River: Riverport to / à Conquerall Bank)
+ 4395 (Kraut Point)
+ 4395 (LaHave)
+ 4395 (Riverport)
+ 4396 (Digby Ferry Terminal / terminal du traversier de Digby)
+ 4396 (Digby)
+ 4396 (Annapolis Basin)
+ 4399 (Parrsboro Harbour and Approaches / et les approches)
+ 4399 (Parrsboro Harbour)
+ 4402 (Wallace Harbour)
+ 4403 (East Point to / à Cape Bear)
+ 4404 (Ballantynes Cove Wharf / Quai)
+ 4404 (Cribbons Point Wharf / Quai)
+ 4404 (Lismore Wharf / Quai)
+ 4404 (Arisaig Wharf / Quai)
+ 4404 (Cape George to / à Pictou)
+ 4405 (Victoria Wharf / Quai)
+ 4405 (Victoria Harbour)
+ 4405 (Pictou Island to / aux Tryon Shoals)
+ 4406 (Tryon Shoals to / à Cape Egmont)
+ 4416 (Havre de Gaspé)
+ 4416 (Quai Public/Public Wharf)
+ 4416 (Marina de Gaspé)
+ 4419 (Souris Harbour)
+ 4419 (Souris Harbour and Approaches / et les approches)
+ 4420 (Murray Harbour)
+ 4420 (Murray Harbour)
+ 4420 (Murray River)
+ 4420 (Greek River and / et Mink Rivers)
+ 4421 (Boughton River)
+ 4421 (Continuation A)
+ 4422 (Quai Georgetown Wharf)
+ 4422 (Montague Wharves / Quais)
+ 4422 (Cardigan Bay)
+ 4425 (Savage Harbour)
+ 4425 (Entrance to / Entrée à St.Peters Bay (Inset Cancelled - 2025))
+ 4425 (Covehead Bay)
+ 4425 (St. Peters Bay)
+ 4425 (Tracadie Bay)
+ 4425 (Harbours on the North Shore / Hâvres sur la Côte Nord)
+ 4426 (Dalhousie Harbour)
+ 4426 (Rivière Ristigouche / Restigouche River)
+ 4428 (Havre de Natashquan et les approches/and Approaches)
+ 4429 (Havre Saint-Pierre)
+ 4429 (Havre Saint-Pierre et les approches/and Approaches)
+ 4430 (Pointe Sud-Ouest)
+ 4430 (Pointe Ouest)
+ 4430 (Baie du Renard)
+ 4430 (Port-Menier)
+ 4430 (Pointe Carleton)
+ 4430 (Pointe de l'Est)
+ 4430 (Baie Natiscotec)
+ 4430 (Plans - Île D'Anticosti)
+ 4430 (Quai/Wharf Port-Menier - Île d'Anticosti)
+ 4432 (Havre de Mingan)
+ 4432 (Archipel de Mingan)
+ 4437 (Pictou)
+ 4437 (Pictou Harbour)
+ 4440 (Îles Sainte-Marie à/to Île à la Brume)
+ 4443 (East River of Pictou: Indian Cross Point to / à Trenton and/et New Glasgow)
+ 4443 (New Glasgow)
+ 4443 (Trenton)
+ 4445 (Merigomish Harbour)
+ 4446 (Antigonish Harbour)
+ 4447 (Pomquet and Tracadie Harbours / Havres de Pomquet et Tracadie)
+ 4448 (Port Hood)
+ 4448 (Havre Boucher Annulé/Cancelled by 6306824)
+ 4448 (Mabou Harbour)
+ 4449 (Chéticamp Harbour)
+ 4449 (Grand Etang Harbour)
+ 4449 (Margaree Harbour)
+ 4450 (Trinity Cove)
+ 4450 (MacDougall Cove and / et Powers Cove)
+ 4450 (Atlantic Cove)
+ 4450 (Saint Paul Island)
+ 4452 (Havre Gethsémani)
+ 4452 (Baie Johan-Beetz et/and Baie Piashti)
+ 4452 (Baie Coacoachou)
+ 4452 (Baie Washicoutai)
+ 4452 (Baie de Kégaska)
+ 4452 (Havres et Mouillages - Harbours and Anchorages)
+ 4453 (Île à la Brume à/to Pointe Curlew)
+ 4454 (Pointe Curlew à/to Baie Washtawouka)
+ 4455 (Baie Washtawouka à/to Baie Piashti)
+ 4456 (Baie Piashti à/to Petite Île au Marteau)
+ 4459 (Summerside Harbour)
+ 4459 (Summerside Harbour and Approaches / et les approches)
+ 4460 (Charlottetown Harbour)
+ 4462 (St George's Bay)
+ 4463 (Chéticamp to / à Cape Mabou)
+ 4464 (Chéticamp to / à Cape St. Lawrence)
+ 4464 (Chéticamp to / à Cape St. Lawrence)
+ 4466 (Hillsborough Bay)
+ 4467 (Rustico Bay)
+ 4467 (New London Bay)
+ 4468 (Havre de Harrington)
+ 4468 (Île du Petit Mécatina aux/to Îles Sainte-Marie)
+ 4468 (Île du Petit Mécatina aux/to Îles Sainte-Marie)
+ 4469 (Île Plate à/to Île du Petit Mécatina)
+ 4470 (Blanc Sablon à/to Middle Bay)
+ 4471 (Baie au Saumon à/to Baie des Homards)
+ 4472 (Baie des Homards à/to Île de la Grande Passe)
+ 4473 (Île de la Grande Passe aux/to Îles Bun)
+ 4474 (Baie de la Tabatière)
+ 4474 (Îles Bun à/to Baie des Moutons)
+ 4483 (Caribou Harbour)
+ 4483 (Caribou Ferry Terminal / Terminal du traversier)
+ 4483 (Wood Islands Ferry Terminal / Terminal du traversier)
+ 4485 (Cap des Rosiers à/to Chandler)
+ 4486 (Baie des Chaleurs / Chaleur Bay)
+ 4491 (Malpeque Bay)
+ 4492 (Alberton Harbour)
+ 4492 (Cascumpec Bay)
+ 4497 (Amet Sound)
+ 4498 (Pugwash Harbour)
+ 4498 (Pugwash Harbour and approaches / et les approches)
+ 4498 (Pugwash Harbour and approaches / et les approches)
+ 4504 (Great Cat Arms and / et Little Cat Arm)
+ 4505 (Little Harbour Deep and / et Union Cove)
+ 4505 (Orange Bay (Great Harbour Deep))
+ 4506 (Hooping Harbour)
+ 4506 (Gouffre Harbour and / et Canaries Harbour)
+ 4506 (Fourché Harbour)
+ 4506 (Grévigneaux Harbour and / et Aiguillettes Harbour)
+ 4506 (Otter Cove)
+ 4506 (Hilliers Harbour (Boutitou Harbour))
+ 4507 (Cape Rouge Harbour)
+ 4507 (St Lunaire Bay)
+ 4507 (Croc Harbour)
+ 4509 (Cape Norman Bay and / et Cooks Harbour)
+ 4509 (Pistolet Bay)
+ 4511 (Sacred Bay)
+ 4512 (Quirpon Harbour and Approaches / et les approches)
+ 4514 (St. Anthony Bight)
+ 4514 (St. Anthony Harbour)
+ 4515 (Hare Bay)
+ 4516 (Howe Harbour)
+ 4516 (Goose Cove)
+ 4516 (Grandois Harbour and / et St Julien Harbour)
+ 4516 (Crémaillère Harbour)
+ 4516 (Great Islets Harbour)
+ 4518 (Ariege Bay)
+ 4519 (Maiden Arm, Big Spring Inlet and / et Little Spring Inlet and approaches / et les approches)
+ 4521 (Advocate Mines Wharf / Quai)
+ 4521 (Baie Verte)
+ 4521 (Baie Verte)
+ 4522 (Approaches To / Approches À Tilt Cove)
+ 4522 (La Scie Harbour)
+ 4522 (Approaches to / Approches À La Scie Harbour)
+ 4522 (Tilt Cove)
+ 4523 (Little Bay Arm and Approaches / et les approches)
+ 4523 (Otter Island Narrows)
+ 4523 (Goudies Cove)
+ 4529 (Eastern Entrance to / Entrée Est à Fogo Harbour)
+ 4529 (Fogo Harbour / Seal Cove and Approaches / et les approches)
+ 4529 (Western Entrance to / Entrée Ouest à Fogo Harbour)
+ 4529 (Fogo Harbour and / et Seal Cove)
+ 4530 (Carmanville)
+ 4530 (Hamilton Sound: Eastern Portion / Partie-est)
+ 4538 (Canada Bay including / y compris Chimney Bay)
+ 4540 (Purbeck's Cove)
+ 4540 (The Narrows)
+ 4540 (Jackson's Arm)
+ 4540 (Frenchman's Cove)
+ 4541 (Sops Arm)
+ 4541 (Sops Arm)
+ 4542 (Hampden Bay)
+ 4582 (Thimble Tickles and / et Glover Harbour)
+ 4582 (Head of / fond de Seal Bay)
+ 4583 (Silver Cove)
+ 4583 (St. Julien Island to / à Hooping Harbour including / y compris Canada Bay)
+ 4584 (White Bay: Southern Part / Partie Sud)
+ 4585 (Green Head to / à Little Bay Island)
+ 4587 (Mortier Bay)
+ 4587 (Mooring Cove Wharves / Quais)
+ 4587 (Marystown Wharves / Quais)
+ 4587 (Cow Head Wharves / Quais)
+ 4591 (Springdale Wharf / Quai)
+ 4591 (Continuation A - Pilley's Island Harbour - Halls Bay and / et Sunday Cove)
+ 4591 (Halls Bay and / et Sunday Cove)
+ 4591 (Pilley's Island Harbour)
+ 4592 (Little Bay Island to / à League Rock)
+ 4593 (Continuation A - Sunday Cove Island to / à Thimble Tickles)
+ 4593 (Sunday Cove Island to / à Thimble Tickles)
+ 4615 (Harbours in Placentia Bay / Havres dans Placentia Bay: Petit forte to / à Broad Cove Head)
+ 4616 (Burin Harbours and Approches / et les approches)
+ 4616 (Burin Public Wharf / quai public)
+ 4617 (Buffett Harbour)
+ 4617 (Long Harbour)
+ 4617 (Red Island to / à Pinchgut Point)
+ 4619 (Continuation A - Presque Harbour to / à Bar Haven Island and / et Paradise Sound)
+ 4619 (Presque Harbour to / à Bar Haven Island and / et Paradise Sound)
+ 4622 (Cape St Mary's to / à Argentia Harbour and / et Jude Island)
+ 4624 (Long Island to / à St. Lawrence Harbours)
+ 4625 (Burin Peninsula to / à Saint-Pierre)
+ 4626 (Saint-Pierre and / et Miquelon (France))
+ 4638 (Wreck Island to / à Cinq Cerf Bay)
+ 4639 (Rose Blanche)
+ 4639 (Petites)
+ 4639 (Garia Bay and / et Le Moine Bay)
+ 4640 (Isle aux Morts and Approaches / et les approches)
+ 4640 (Public Wharf / Quai Public)
+ 4640 (Nelpack Fisheries Wharf / Quai)
+ 4640 (Margaree Harbour)
+ 4641 (Port aux Basques)
+ 4641 (Channel - Port aux Basques)
+ 4642 (Great St. Lawrence Harbour)
+ 4642 (Lamaline Harbour)
+ 4642 (Great St. Lawrence Harbour: Inner Portion / Partie Intérieure)
+ 4643 (Île Saint-Pierre (France))
+ 4644 (Hermitage)
+ 4644 (Gaultois Harbour)
+ 4644 (McCallum)
+ 4644 (Continuation A - Bay D'Espoir and / et Hermitage Bay)
+ 4644 (Bay D'Espoir and / et Hermitage Bay)
+ 4652 (Humber Arm: Meadows Point to / à Humber River)
+ 4652 (Corner Brook)
+ 4653 (The Narrows)
+ 4653 (Little Port)
+ 4653 (Bay of Islands)
+ 4654 (Lark Harbour and / et York Harbour)
+ 4658 (Rocky Harbour)
+ 4658 (Woody Point and / et Neddy Harbour)
+ 4658 (Bonne Bay)
+ 4659 (Port au Port)
+ 4661 (Trout River Bay (cancelled by 4881))
+ 4661 (Green Cove)
+ 4661 (Bear Head to / à Cow Head)
+ 4663 (Bad Bay)
+ 4663 (Cow Head to / à Pointe Riche)
+ 4665 (St. Margaret Bay and Approaches / et les approches)
+ 4666 (St Barbe Point to / à Old Férolle Harbour)
+ 4667 (Flowers Cove)
+ 4667 (St. Barbe Wharf and Approaches / Quai et Approches)
+ 4667 (Savage Cove to / à St Barbe Bay)
+ 4668 (Green Island)
+ 4668 (Carrol Cove)
+ 4668 (Pinware Bay)
+ 4668 (Black Bay)
+ 4668 (L'Anse à Loup)
+ 4669 (Red Bay)
+ 4670 (Forteau Bay)
+ 4679 (Hawkes Harbour)
+ 4679 (Hawkes Bay, Port Saunders, Back Arm)
+ 4680 (Good Bay)
+ 4680 (St John Harbour)
+ 4680 (Hawkes Bay to / à Ste Geneviève Bay including / y compris St. John Bay)
+ 4682 (Codroy Harbour)
+ 4682 (Larkin Point to / à Cape Anguille)
+ 4700 (Belle Isle to / à Resolution Island)
+ 4701 (Fishing Ship Harbour)
+ 4701 (Port Charlotte, Mecklenberg and / et Sophia Harbour)
+ 4701 (Occasional Harbour)
+ 4701 (St Francis Harbor)
+ 4701 (Ship Harbour Head to / aux Camp Islands)
+ 4702 (Corbett Island to / à Ship Harbour Head)
+ 4703 (White Point to / à Corbet Island)
+ 4712 (Table Bay)
+ 4712 (Approaches to / approches au Hawke Harbor)
+ 4712 (Continuation A - Plans on the Coast of Labrador / Plans sur la côte du Labrador)
+ 4722 (Terrington Basin)
+ 4724 (Ticoralak Island to / à Carrington Island)
+ 4725 (Carrington Island to / à Etagaulet Bay)
+ 4728 (Epinette Point to / à Terrington Basin)
+ 4730 (Nain to / à Domino Point)
+ 4731 (Forteau Bay to / à Domino Run)
+ 4732 (Approaches to / Approches à Hamilton Inlet)
+ 4744 (Spotted Island Harbour)
+ 4744 (Approaches to / approches à Spotted Island Harbour)
+ 4745 (White Point to / à Sandy Island)
+ 4817 (Bay Bulls to / à St. Mary's Bay)
+ 4820 (Cape Freels to / à Exploits Islands)
+ 4821 (White Bay and / et Notre Dame Bay)
+ 4822 (Cape St John to / à St Anthony)
+ 4823 (Burnt Island)
+ 4823 (Cape Ray to / à Garia Bay)
+ 4824 (La Poile)
+ 4824 (Grand Bruit Harbour)
+ 4824 (Garia Bay to / à Burgeo)
+ 4825 (Burgeo)
+ 4825 (Ship Cove)
+ 4825 (Burgeo and / et Ramea Islands)
+ 4826 (François)
+ 4826 (Grey River)
+ 4826 (Burgeo to / à François)
+ 4827 (Hare Bay to / à Fortune Head)
+ 4830 (Harbour Breton)
+ 4830 (Great Bay de l'Eau and Approaches / et les approches)
+ 4831 (Fortune Bay: Northern Portion / Partie Nord)
+ 4832 (Fortune Harbour)
+ 4832 (Grand Bank Harbour)
+ 4832 (Fortune Bay: Southern Portion / Partie Sud)
+ 4839 (Come by Chance and / et Arnold's Cove)
+ 4839 (Continuation A - Head of / Fond de Placentia Bay)
+ 4839 (Head of / Fond de Placentia Bay)
+ 4839 (Continuation B - Head of / Fond de Placentia Bay)
+ 4841 (Placentia Road)
+ 4841 (St. Bride's)
+ 4841 (Argentia)
+ 4841 (Cape St Mary's to / à Argentia)
+ 4842 (Cape Pine to / au Cape St Mary's)
+ 4843 (St Mary's Harbour and Adjacent Anchorages / et mouillages adjacents)
+ 4843 (Head of / Fond de St Mary's Bay)
+ 4844 (Trepassey Harbour)
+ 4844 (Renews Harbour)
+ 4844 (Cape Pine to / à Renews Harbour)
+ 4845 (Lumley Cove)
+ 4845 (Fermeuse Harbour)
+ 4845 (Bay Bulls and/et Witless Bay)
+ 4845 (Aquaforte Harbour)
+ 4845 (Renews Harbour to/à Motion Bay)
+ 4846 (St John's Harbour)
+ 4846 (Quidi Vidi Harbour)
+ 4846 (Motion Bay to / à Cape St Francis)
+ 4847 (Portugal Cove)
+ 4847 (Bell Island)
+ 4847 (Foxtrap)
+ 4847 (Port de Grave)
+ 4847 (Bay Roberts)
+ 4847 (Conception Bay)
+ 4848 (Generator Plant (Wharf) / Centrale d'énergie (Quai))
+ 4848 (Ultramar (Wharf / Quai))
+ 4848 (Long Pond)
+ 4848 (Holyrood)
+ 4848 (Holyrood (Marina))
+ 4849 (Bonavista Harbour)
+ 4849 (Catalina and / et Port Union)
+ 4849 (Catalina Harbour)
+ 4849 (Port Union)
+ 4849 (Public Wharf / Quai)
+ 4849 (Fish Plant / Conserverie de poisson)
+ 4849 (The Admiral's Marina)
+ 4849 (Harbour Grace and / et Carbonear)
+ 4849 (Irving Oil Wharf / Quai)
+ 4850 (Old Perlican)
+ 4850 (Heart's Content)
+ 4850 (Cape St Francis to / à Baccalieu Island and / et Heart's Content)
+ 4851 (Bull Arm)
+ 4851 (Trinity Bay: Southern Portion / Partie Sud)
+ 4852 (Clarenville)
+ 4852 (Smith Sound and / et Random Sound)
+ 4853 (Trinity Wharves / Quais)
+ 4853 (Trinity Harbour)
+ 4853 (Trinity Bay: Northern Portion / Partie Nord)
+ 4854 (Catalina Harbour to / à Inner Gooseberry Islands)
+ 4855 (Continuation A - Bonavista Bay: Southern Portion / Partie sud)
+ 4855 (Bonavista Bay: Southern Portion / Partie sud)
+ 4856 (Continuation A - Bonavista Bay: Western Portion / Partie ouest)
+ 4856 (Bonavista Bay: Western Portion / Partie ouest)
+ 4857 (Lumsden Harbour)
+ 4857 (Indian Bay to / à Wadham Islands)
+ 4858 (Greenspond Harbour to / à Pound Cove)
+ 4858 (Valleyfield)
+ 4858 (Wesleyville)
+ 4861 (Fogo Harbour)
+ 4861 (Entrances to Fogo Harbour)
+ 4861 (Joe Batt's Arm)
+ 4861 (Fogo Island Northern Portion)
+ 4862 (Carmanville to / à Bacalhoa Island and / et Fogo)
+ 4863 (Bacalhao Island to / à Black Island)
+ 4864 (Black Island to / à Little Denier Island)
+ 4864 (Continuation A - Black Island to / à Little Denier Island)
+ 4865 (Lewisporte)
+ 4865 (Approaches to / Approches à Lewisporte and / et Loon Bay)
+ 4866 (Botwood)
+ 4866 (Botwood and Approaches / et les Approches)
+ 4866 (Continuation A - Botwood and Approaches / et les approches)
+ 4881 (Rocky Harbour)
+ 4881 (Norris Point)
+ 4881 (Trout River)
+ 4881 (Gregory Island to Rocky Harbour)
+ 4885 (Flintkote Wharf / Quai)
+ 4885 (Port Harmon)
+ 4885 (St. George's Public Wharf / Quai public)
+ 4885 (Port Harmon and Approaches / et les approches)
+ 4886 (Twillingate Harbours)
+ 4886 (Twillingate CCG Wharf / Quai GCC)
+ 4886 (Fish Plant Wharf / Quai de l'usine de transformation de poisson)
+ 4905 (Cape Tormentine)
+ 4905 (Borden)
+ 4905 (Cape Tormentine à / to West Point)
+ 4906 (West Point à / to Baie de Tracadie)
+ 4909 (Port de Plaisance / Marina Shediac Bay)
+ 4909 (Quai / Wharf Pointe du Chêne)
+ 4909 (Quai / Wharf Richibucto)
+ 4909 (Buctouche Harbour)
+ 4909 (Cocagne et / and Shediac)
+ 4909 (Richibucto Harbour)
+ 4911 (Entrée à / Entrance to Miramichi River)
+ 4911 (Continuation A - Entrée à / Entrance to Miramichi River)
+ 4911 (Escuminac)
+ 4912 (Continuation A - Miramichi)
+ 4912 (Miramichi)
+ 4913 (Continuation A - Caraquet Harbour, Baie de Shippegan and / et Miscou Harbour)
+ 4913 (Caraquet Harbour, Baie de Shippegan and / et Miscou Harbour)
+ 4920 (Shippegan Harbour)
+ 4920 (Bathurst Harbour)
+ 4920 (Quai / Wharf Belledune)
+ 4920 (Bas-Caraquet)
+ 4920 (Caraquet)
+ 4920 (Middle Caraquet)
+ 4920 (Lamèque)
+ 4920 (Quai / Wharf Petit-Rocher)
+ 4921 (Black Cape)
+ 4921 (Quai / Wharf Grande-Rivière)
+ 4921 (Quai / Wharf Paspébiac-Ouest)
+ 4921 (Quai / Wharf Newport-Point)
+ 4921 (Newport-Point)
+ 4921 (Chandler)
+ 4921 (Port-Daniel-Gascons)
+ 4921 (Grande-Rivière)
+ 4921 (Sainte-Thérèse-de-Gaspé)
+ 4921 (L'Anse-à-Beaufils)
+ 4921 (Mal- Bay)
+ 4921 (Carleton)
+ 4921 (Quai / Wharf Chandler)
+ 4921 (Quai / Wharf Port-Daniel-Est)
+ 4921 (Paspébiac)
+ 4921 (Plans, Baie des Chaleurs/Chaleur Bay (côte nord/North Shore))
+ 4921 (Bonaventure)
+ 4921 (Terminal de Ciment / Cement Terminal)
+ 4934 (Boughton Bay to Basin Head Harbour)
+ 4934 (Fortune Harbour)
+ 4934 (Souris Harbour)
+ 4935 (Montague Wharves/Quais)
+ 4935 (Beach Point)
+ 4935 (Georgetown)
+ 4935 (Murray Harbour)
+ 4935 (Murray Harbour to/à Boughton Bay)
+ 4937 (Amet Sound and Approaches)
+ 4937 (Pugwash Basin)
+ 4937 (Pugwash Harbour)
+ 4937 (Pugwash Harbour and Approaches)
+ 4937 (Wallace Harbour and Approaches)
+ 4938 (East River of Pictou)
+ 4938 (Pictou Wharves)
+ 4938 (New Glasgow)
+ 4938 (Pictou Harbour)
+ 4940 (Approaches to Caribou and Pictou)
+ 4940 (Approaches to Wood Islands)
+ 4940 (Caribou Ferry Terminal)
+ 4940 (Caribou Harbour)
+ 4940 (Wood Islands Ferry Terminal)
+ 4950 (La Passe)
+ 4950 (Îles de la Madeleine)
+ 4954 (Chenal du Havre de la Grande Entrée)
+ 4954 (Quai / Wharf Mines Seleine)
+ 4955 (Havre-aux-Maisons)
+ 4956 (Cap-aux-Meules)
+ 4957 (Havre-Aubert)
+ 4958 (Cap-aux-Meules et/and Havre-aux-Maisons)
+ 4967 (La Tabatière à/to Île du Petit Mécatina)
+ 4967 (Île du Grand Rigolet)
+ 4968 (Baie de la Tabatière)
+ 4968 (Îles Mack à/to La Tabatière)
+ 4969 (Continuation A - Île Mistanoque à/to Iles Mack)
+ 4969 (Passage Saint-Augustin)
+ 4969 (Île Mistanoque à/to Îles Mack)
+ 4970 (Passe Champlain)
+ 4970 (Vieux-Fort)
+ 4970 (Baie Chevalier)
+ 4970 (Baie de Bonne-Espérance à/to Île Mistanoque)
+ 4971 (Quai/Wharf Blanc-Sablon)
+ 4971 (Blanc-Sablon)
+ 4971 (Blanc Sablon à/to Baie de Bonne-Espérance)
+ 4980 (Quai / Wharf Blanc-Sablon)
+ 4980 (Blanc Sablon)
+ 5001 (Labrador Sea / Mer du Labrador)
+ 5002 (Hudson Strait and Bay)
+ 5002 (James Bay)
+ 5003 (Hudson Bay (Southern Portion) and James Bay)
+ 5023 (Cape Harrison to / à Nunaksaluk Island)
+ 5024 (Nunaksaluk Island to / à Cape Kiglapait)
+ 5027 (Murphy Head to / aux Button Islands)
+ 5030 (Chateau Bay)
+ 5030 (Niger Sound)
+ 5030 (Green Bay to / à Double Island)
+ 5031 (Mary's Harbour)
+ 5031 (Fox Harbour)
+ 5031 (Battle Harbour)
+ 5031 (Caribou Run)
+ 5031 (St Lewis Sound and / et Inlet)
+ 5032 (St. Michaels Bay)
+ 5032 (Shoal Tickle)
+ 5032 (Pensons Arm)
+ 5032 (Approaches to / Approches à White Bear Arm)
+ 5032 (Continuation A - Approaches to / à White Bear Arm)
+ 5033 (Northern Entrance to / à Squasho Run)
+ 5033 (Northern Entrance to / à Caplin Bay)
+ 5033 (Hawke Bay and / et Squasho Run)
+ 5033 (Continuation A - Hawke Bay and / et Squasho Run)
+ 5042 (Cut Throat Harbour and/et East Harbour)
+ 5042 (Holton Harbour)
+ 5042 (Ice Tickle and / et Indian Harbour)
+ 5042 (Cut Throat Island to / à Quaker Hat)
+ 5043 (Quaker Hat to / à Cape Harrison)
+ 5044 (Cape Harrison to / à Dog Islands)
+ 5045 (Continuation A - Dog Islands to / à Cape Makkovik)
+ 5045 (Dog Islands to / à Cape Makkovik)
+ 5046 (Cape Makkovik to / à Winsor Harbour Island: Continuation A)
+ 5046 (Kaipokok Bay)
+ 5047 (Hopedale Harbour)
+ 5047 (Winsor Harbour Island to / aux Kikkertaksoak Islands)
+ 5048 (Windy Tickle)
+ 5048 (Cape Harrigan to / aux Kidlit Islands)
+ 5049 (South of / Sud de Drawbucket Tickle)
+ 5049 (Davis Inlet to / aux Seniarlit Islands)
+ 5051 (Nunaksuk Island to / aux Calf Cow and / et Bull Islands)
+ 5052 (Seniartlit Islands to / à Nain)
+ 5054 (South Auliatsivik Island to / à Fenstone Tickle Island)
+ 5055 (Okak Harbour)
+ 5055 (Cape Kiglapait to / à Khikkertarsoak North Island)
+ 5056 (Moss Harbour)
+ 5056 (Winnie Bay)
+ 5056 (Hebron Harbour)
+ 5056 (Khikkertarsoak North Island to / à Morhardt Point)
+ 5056 (Continuation A - Khikkertarsoak North Island to / à Morhardt Point)
+ 5057 (Hare Islands to / à North Head)
+ 5058 (North Head to / à Murphy Head)
+ 5059 (Landing Beach / Plage d'atterrissage)
+ 5059 (Saglek Bay)
+ 5060 (Cape Daly to / à Amiktok Island)
+ 5061 (Amiktok Island to / à Osborne Point)
+ 5062 (Osborne Point to / à Cape Kakkiviak)
+ 5063 (Williams Harbour)
+ 5063 (Cape Kakkiviak to / à Duck Islands)
+ 5064 (Bowdoin Harbour)
+ 5064 (Port Burwell)
+ 5064 (Eastern Approach to / Approche est à McLelan Strait)
+ 5064 (McLelan Strait)
+ 5065 (Gray Strait and / et Button Islands)
+ 5070 (Voisey Bay Mine Wharf/Quai de Voisey Bay Mine)
+ 5070 (Satosoak Island to/à Akuliakatak Peninsula)
+ 5070 (Voisey Bay Mine Wharf / Quai de Voisey Bay Mine)
+ 5070 (Satosoak Island to / à Akuliakatak Peninsula)
+ 5080 (Punchbowl)
+ 5080 (Punchbowl and Approaches / et les approches)
+ 5133 (Domino Point to / à Cape North)
+ 5133 (Continuation A - Domino Point to / à Cape North)
+ 5134 (Approaches to / Approches à Cartwright: Black Island to / à Tumbledown Dick Island)
+ 5135 (Approaches to / Approches À Hamilton Inlet)
+ 5138 (Paradise River)
+ 5138 (Cartwright Harbour)
+ 5138 (Continuation A - Sandwich Bay)
+ 5138 (Sandwich Bay)
+ 5140 (South Green Island to / à Ticoralak Island)
+ 5143 (Mulligan Bay)
+ 5143 (Sebaskachu Bay)
+ 5143 (Lake Melville)
+ 5162 (Groswater Bay)
+ 5162 (Groswater Bay)
+ 5163 (Rigolet)
+ 5163 (Cul de Sac)
+ 5163 (Ticorolak Head to/à Green Island)
+ 5164 (Lake Melville)
+ 5165 (Epinette Point to/à Terrington Basin)
+ 5165 (Goose Bay Narrows)
+ 5179 (Williams Harbour)
+ 5179 (Alexis River)
+ 5179 (Alexis Bay)
+ 5300 (Baie D'Ungava / Ungava Bay)
+ 5316 (Shaftesbury Inlet to/à Ashe Inlet)
+ 5335 (Continuation A - Rivière George)
+ 5335 (Rivière George)
+ 5338 (A-B)
+ 5338 (B-C)
+ 5340 (Brewer Bay)
+ 5340 (Approach to/ Approches à Sorry Harbor)
+ 5348 (Approches à/Approaches to Hopes Advance Bay)
+ 5349 (Hopes Advance Bay)
+ 5351 (Payne Bay and Approaches)
+ 5352 (Kyak and Tuvalik Bays)
+ 5352 (Payne Bay and River (Tuvalik Point to Basking Island))
+ 5365 (Cape Prince of Wales to Davies Island)
+ 5373 (Approches à/Approaches to Rivière George)
+ 5374 (Beacon Island à/to Qikirtaaluk Islands)
+ 5375 (Qikirtaaluk Islands à/to Point Qirniraujaq)
+ 5376 (Approches à/Approaches to Rivière Koksoak)
+ 5390 (Wakeham and Fishers Bay and Approaches)
+ 5391 (Douglas Harbour and Approaches)
+ 5399 (Egg Island to/à Eskimo Point)
+ 5400 (Cape Churchill to/à Egg River)
+ 5403 (Balcom and/et Barrier Inlets)
+ 5403 (Pritzler Harbour to/à Maniittur Cape)
+ 5406 (Cape Tatnam to/à Port Nelson)
+ 5410 (Munn Bay)
+ 5410 (Coral Harbour and Approaches/et les approches)
+ 5411 (Pritzler Harbour)
+ 5411 (Lower Savage Islands to/à Pritzler Harbour)
+ 5412 (Port de Laperrière)
+ 5412 (Digges Harbour)
+ 5412 (Nuvuk Harbour et/and Ivugivik Harbour)
+ 5412 (Erik Cove)
+ 5412 (Erik Cove to/à Nuvuk Harbour including/y compris Digges Islands)
+ 5414 (Waskaganish)
+ 5414 (Rupert Bay)
+ 5429 (Kangiqsujuaq)
+ 5429 (Quaqtaq)
+ 5429 (Salluit)
+ 5440 (Wager Bay)
+ 5449 (Hudson Bay Baie d'Hudson, Northern Portion/Partie nord)
+ 5450 (Hudson Strait/Détroit d'Hudson)
+ 5451 (Cape Dorset and Approaches)
+ 5452 (Diana Bay)
+ 5455 (Lake Harbour (Inner Portion/Parie intérieure))
+ 5455 (Kimmirut and Approaches/et les Approches)
+ 5457 (Glencore Xstrata Wharf)
+ 5457 (Deception Bay)
+ 5458 (Sugluk Inlet)
+ 5459 (Resolution Harbour and/et Acadia Cove)
+ 5464 (Diana Bay (Partie Sud/Southern Portion))
+ 5467 (Baie aux feuilles / Leaf Bay et les Approches / and Approaches)
+ 5468 (Passage aux Feuilles)
+ 5469 (Lac aux Feuilles)
+ 5471 (Port Harrison (Inoucdjouac))
+ 5471 (Inukjuak)
+ 5471 (Inukjuak et les Approches and Approaches)
+ 5476 (Bear Island Landing Beach/Plage D'atterissage)
+ 5476 (Entrée à/entrance to/Grande Rivière de la Baleine)
+ 5476 (Winisk)
+ 5476 (Fort Albany)
+ 5476 (Kuujjuarapik)
+ 5476 (Landing Beach Plage D'atterissage 21 miles south of/ 21 milles au sud de Cape Henrietta Maria)
+ 5476 (Bear Island)
+ 5476 (Pointe Louis - XIV)
+ 5505 (Bélanger Island à/to Cotter Island)
+ 5505 (Umiujaq)
+ 5505 (Eskimo Harbour)
+ 5510 (Puvirtinuq)
+ 5510 (Puvirnituq et les approches/and Approches)
+ 5512 (Approaches to/approches a Akulivik)
+ 5512 (Smith Island to/à Knight Harbour)
+ 5533 (Roes Welcome Sound (Chesterfield Inlet to/à Cape Munn))
+ 5533 (Continuation A - Roes Welcome Sound (Chesterfield Inlet to/à Cape Munn))
+ 5620 (Chesterfield Anchorage)
+ 5620 (Entrance to/Entrée à Chesterfield Inlet (Fairway Island to/à Ellis Island))
+ 5621 (Rockhouse Island to/à Centre Island)
+ 5622 (Centre Island to/à Farther Hope Point)
+ 5623 (Farther Hope Point to/à Terror Point)
+ 5624 (Terror Point to/au Schooner Harbour)
+ 5625 (Ice Hunter Rock to/à Chesterfield Narrows)
+ 5625 (Regina Narrows and/et Polaris Narrows)
+ 5625 (Schooner Harbour to/à Baker Lake)
+ 5626 (Baker Lake Harbour)
+ 5626 (Baker Lake)
+ 5628 (Rankin Inlet Including / Y Compris Melvin Bay And/ Et Prairie Bay)
+ 5629 (Marble Island to/à Rankin Inlet)
+ 5630 (Dunne Foxe Island to/à Chesterfield Inlet)
+ 5631 (Eskimo Point to Dunne Foxe Island)
+ 5640 (Churchill Harbour)
+ 5641 (Arviat)
+ 5641 (Arviat and Approaches / et Approches)
+ 5642 (Whale Cove)
+ 5642 (Whale Cove and Approaches / et Approches)
+ 5705 (Cape Dufferin to/à Broughton Island)
+ 5707 (Flaherty Island (South End/Partie sud))
+ 5707 (Bélanger Island to/à Long Island)
+ 5707 (Narrow Passage)
+ 5707 (Eskimo Harbour - CANCELLED)
+ 5720 (Approches à/Approaches to Chisasibi)
+ 5800 (Baie James/James Bay)
+ 5801 (Long Island à/to Fort George)
+ 5860 (Approaches to/Approches à Moose River)
+ 5861 (Ship Sands Island to/à Moosonee)
+ 6021 (Lake Muskoka - Sheet/Feuille 1)
+ 6021 (Lake Muskoka - Sheet/Feuille 2)
+ 6022 (Port Carling - Sheet/Feuille 1)
+ 6022 (Lake Rosseau and/et Lake Joseph - Sheet/Feuille 1)
+ 6022 (Lake Rosseau and/et Lake Joseph - Sheet/Feuille 2)
+ 6023 (Baysville and Approaches/et les approches)
+ 6023 (Dorset)
+ 6023 (Oxtongue River)
+ 6023 (Lake of Bays)
+ 6026 (Wahwashkesh Lake - Sheet/Feuille 1)
+ 6028 (Lake Duborne - Sheet/Feuille 1)
+ 6028 (Blind River - Sheet/Feuille 1)
+ 6028 (Blind River - Sheet/Feuille 1)
+ 6030 (Lake Kagawong - Sheet/Feuille 1)
+ 6030 (Lake Manitou and/et Lake Mindemoya - Sheet/Feuille 1)
+ 6030 (Lake Wolsey - Sheet/Feuille 1)
+ 6035 (Approaches to/Approches à la Vase River)
+ 6035 (Callander Bay)
+ 6035 (North Bay)
+ 6035 (Lake Nipissing / Lac Nipissing(Eastern Portion / Partie est))
+ 6036 (French River)
+ 6036 (French River Hall River to Comfort Island)
+ 6037 (Iron Island to/à West Bay)
+ 6038 (West Bay to/à West Arm)
+ 6050 (The Virgins - Sheet/Feuille 1)
+ 6050 (Ombabika Bay (South Portion / Partie sud) - Sheet/Feuille 1)
+ 6050 (Humboldt Bay - Sheet/Feuille 1)
+ 6100 (Saint-Gédéon - Sheet/Feuille 1)
+ 6100 (Entrée/Entrance La Grande Décharge - Sheet/Feuille 4)
+ 6100 (Saint-Félicien - Sheet/Feuille 3)
+ 6100 (Chambord - Sheet/Feuille 1)
+ 6100 (La Belle Rivière - Sheet/Feuille 1)
+ 6100 (Roberval - Sheet/Feuille 1)
+ 6100 (Péribonka - Sheet/Feuille 3)
+ 6100 (Saint-Prime - Sheet/Feuille 3)
+ 6100 (Saint-Henri-de-Taillon - Sheet/Feuille 4)
+ 6100 (Baie Gaudreault - Sheet/Feuille 4)
+ 6100 (Baie Moise - Sheet/Feuille 4)
+ 6100 (Dam-en-Terre - Sheet/Feuille 4)
+ 6100 (Desbiens - Sheet/Feuille 1)
+ 6100 (Continuation A - Sheet/Feuille 2)
+ 6100 (Rivière Mistassini - Sheet/Feuille 2)
+ 6100 (Rivière Péribonka - Sheet/Feuille 3)
+ 6100 (Rivière Ashuapmushuan - Sheet/Feuille 3)
+ 6100 (La Grands Décharge et les Approches/and Approaches - Sheet/Feuille 4)
+ 6100 (Lac Saint-Jean - Sheet/Feuille 1)
+ 6100 (Métabetchouan - Sheet/Feuille 1)
+ 6100 (Desbiens - Sheet/Feuille 1)
+ 6105 (Rainy Lake / Lac à la Pluie - Sheet/Feuille 1)
+ 6106 (Northwest Bay to/à Ash Bay - Sheet/Feuille 1)
+ 6107 (Hostess Island to/à Devils Cascade)
+ 6107 (Continuation A - Hostess Island to/à Devils Cascade)
+ 6108 (Fort Frances to/à Hostess Island and/et Sandpoint Island)
+ 6108 (Continuation A - Fort Frances to/à Hostess Island and/et Sandpoint Island)
+ 6108 (Continuation B - Fort Frances to/à Hostess Island and/et Sandpoint Island)
+ 6109 (Sandpoint Island to/aux Anchor Islands - Sheet/Feuille 1)
+ 6110 (Northern Redgut Bay - Sheet/Feuille 1)
+ 6110 (Continuation A - Sheet/Feuille 1)
+ 6110 (Continuation B - Sheet/Feuille 1)
+ 6111 (Seine Bay to/à Wild Potato Lake - Sheet/Feuille 1)
+ 6111 (Wild Potato Lake to/à Sturgeon Falls - Sheet/Feuille 1)
+ 6112 (Rainy Lake/Lac à la pluie Southeast Portion/Partie sud-est Anchor Islands to/à Oakpoint Island - Sheet/Feuille 1)
+ 6201 (Lake of the Woods / Lac des Bois - Sheet/Feuille 1)
+ 6205 (Seven Sisters Falls to/à Mc Arthur Dam - Sheet/Feuille 1)
+ 6205 (Continuation C-D Lee River - Sheet/Feuille 2)
+ 6205 (Lac du Bonnet (including/y compris Lee River) - Sheet/Feuille 2)
+ 6205 (Continuation D-E Pinawa Channel - Sheet/Feuille 2 - Seven Sisters Falls to/à Lac du Bonnet)
+ 6206 (Seven Sisters Falls to/à Slave Falls - Sheet/Feuille 1)
+ 6207 (Slave Falls to/à Eaglenest Lake - Sheet/Feuille 1)
+ 6207 (Continuation B - Sheet/Feuille 1)
+ 6207 (Continuation A - Sheet/Feuille 1)
+ 6209 (Brereton Lake - Sheet/Feuille 1)
+ 6211 (Big Traverse Bay - Sheet/Feuille 1)
+ 6211 (Big Traverse Bay - Sheet/Feuille 2)
+ 6211 (Big Traverse Bay)
+ 6212 (Kenora to/à Aulneau Peninsula - Sheet/Feuille 2)
+ 6212 (Continuation A - Kenora to/à Aulneau Peninsula (Northern Portion / Partie nord))
+ 6212 (Kenora to/à Aulneau Peninsula - Sheet/Feuille 1)
+ 6212 (Kenora to/à Aulneau Peninsula)
+ 6213 (Fire Island Narrows)
+ 6213 (Sioux Narrows)
+ 6213 (Whitefish Narrows)
+ 6213 (Whitefish Bay - Sheet/Feuille 1)
+ 6213 (Whitefish Bay - side 2 - Sheet/Feuille 2)
+ 6213 (Whitefish Bay)
+ 6214 (Split Rock Narrows - Sheet/Feuille 1)
+ 6214 (Hanson Bay - Sheet/Feuille 2)
+ 6214 (Turtle Portage Channel - Sheet/Feuille 1)
+ 6214 (Nestor Falls - Sheet/Feuille 1)
+ 6214 (Nestor Falls North / Nord - Sheet/Feuille 1)
+ 6214 (Sabaskong Bay - Sheet/Feuille 1)
+ 6214 (Sabaskong Bay - Sheet/Feuille 2)
+ 6215 (Flag Island Reef)
+ 6215 (Basil Channel to/à Sturgeon Channel - Sheet/Feuille 1)
+ 6215 (Basil Channel to/à Sturgeon Channel - Sheet/Feuille 2)
+ 6215 (Basil Channel to/à Sturgeon Channel)
+ 6216 (Flag Island Reef)
+ 6216 (French Portage Narrows)
+ 6216 (Sturgeon Channel to/à Big Narrows Island - Sheet/Feuille 1)
+ 6216 (Sturgeon Channel to/à Big Narrows Island - Sheet/Feuille 2)
+ 6216 (Sturgeon Channel to/à Big Narrows Island)
+ 6217 (Mud Portage Channel - Sheet/Feuille 2)
+ 6217 (Clearwater Bay - Sheet/Feuille 2)
+ 6217 (Upper Rapids - Sheet/Feuille 2)
+ 6217 (Ash Rapids - Sheet/Feuille 2)
+ 6217 (Ptarmigan Bay and/et Shoal Lake - Sheet/Feuille 2)
+ 6217 (Ptarmigan Bay and/et Shoal Lake - Sheet/Feuille 1)
+ 6218 (Kenora, Rat Portage Bay - Sheet/Feuille 1)
+ 6218 (Kenora, Rat Portage Bay - side 2 - Sheet/Feuille 2)
+ 6218 (Kenora, Rat Portage Bay)
+ 6240 (Red River / Rivière Rouge to/à Berens River - Sheet/Feuille 1)
+ 6240 (Channel into Dauphin River - Sheet/Feuille 1)
+ 6241 (Berens River to/à Nelson River - Sheet/Feuille 1)
+ 6242 (Lockeport - Sheet/Feuille 1)
+ 6242 (Selkirk - Sheet/Feuille 2)
+ 6242 (Winnipeg to Selkirk - Sheet/Feuille 1)
+ 6242 (Selkirk to Lake Winnipeg - Sheet/Feuille 2)
+ 6243 (Winnipeg River/Rivière Winnipeg and Approaches/et les Approches - Sheet/Feuille 1)
+ 6247 (Wightman Point to/à Whiskey Jack Portage - Sheet/Feuille 1)
+ 6248 (Observation Point to/à Grindstone Point - Sheet/Feuille 1)
+ 6249 (Gull Harbour to/à Riverton - Sheet/Feuille 1)
+ 6251 (Gimli - Sheet/Feuille 1)
+ 6251 (Red River / Rivière Rouge to/à Gull Harbour - Sheet/Feuille 1)
+ 6258 (Montreal Point to/à Kettle Island - Sheet/Feuille 1)
+ 6258 (Warren Landing - Sheet/Feuille 1)
+ 6259 (Kettle Island to/à Martin Point - Sheet/Feuille 1)
+ 6260 (Martin Point to/à Wightman Point - Sheet/Feuille 1)
+ 6263 (Playgreen Lake to/au Little Playgreen Lake - Sheet/Feuille 1)
+ 6264 (East Channel to/au Little Playgreen Lake - Sheet/Feuille 1)
+ 6264 (Norway House Hospital Wharf / Quai d'hôpital - Sheet/Feuille 1)
+ 6264 (Hudson's Bay Wharf / Quai - Sheet/Feuille 1)
+ 6264 (Manitoba Public Wharf / Quai Public - Sheet/Feuille 1)
+ 6264 (Norway House Public Wharf / Quai Public - Sheet/Feuille 1)
+ 6267 (Grindstone Point to Berens River - Sheet/Feuille 1)
+ 6268 (Berens River and Approaches - Sheet/Feuille 1)
+ 6268 (Berens River - Sheet/Feuille 1)
+ 6269 (Entrance to Wanipigow River - Sheet/Feuille 1)
+ 6269 (Wanipigow River - Sheet/Feuille 1)
+ 6270 (Lake Winnipegosis/Lac Winnipegosis - Sheet/Feuille 1)
+ 6271 (Winnipegosis Harbour - Sheet/Feuille 1)
+ 6271 (Winnipegosis to/à Red Deer Point - Sheet/Feuille 1)
+ 6272 (Red Deer Point to/à North Manitou Island - Sheet/Feuille 1)
+ 6273 (North Manitou Island to/à Whiskey Jack Island - Sheet/Feuille 1)
+ 6274 (Whiskey Jack Island to/à Red Deer River - Sheet/Feuille 1)
+ 6281 (Lac La Ronge - Sheet/Feuille 1)
+ 6285 (Eaglenest Lake to/à Whitedog Dam - Sheet/Feuille 1)
+ 6285 (Continuation A - Sheet/Feuille 1)
+ 6286 (Whitedog Dam to/à Minaki - Sheet/Feuille 1)
+ 6286 (Whitedog Dam to/à Minaki - Sheet/Feuille 2)
+ 6287 (Throat Rapids)
+ 6287 (Miller's Rapids)
+ 6287 (Keewatin Boat Lift / Ber Roulant)
+ 6287 (Myrtle Rapids Narrows)
+ 6287 (Minaki to/à Kenora - Sheet/Feuille 1)
+ 6287 (Minaki to/à Kenora - side 2 - Sheet/Feuille 2)
+ 6287 (Minaki to/à Kenora)
+ 6310 (Lake Athabasca / Lac Athabasca)
+ 6310 (Lake Athabaska (Fond-du-lac-to Stony Rapids))
+ 6311 (Continuation B/C - Sheet/Feuille 1)
+ 6311 (Continuation A/B - Sheet/Feuille 1)
+ 6311 (Continuation C/D - Sheet/Feuille 1)
+ 6341 (Approaches to Devil's Channel - Sheet/Feuille 1)
+ 6341 (Great Slave Lake/Grand lac des Esclaves, Eastern Portion/Partie est - Sheet/Feuille 1)
+ 6354 (McIver Point to/à Mirage Point - Sheet/Feuille 1)
+ 6355 (Mirage Point to/à Hardisty Island - Sheet/Feuille 1)
+ 6356 (Hardisty Island to/à North Head - Sheet/Feuille 1)
+ 6357 (North Head to/à Moraine Point - Sheet/Feuille 1)
+ 6358 (Northwest Point to/à Jones Point - Sheet/Feuille 1)
+ 6359 (Jones Point to/à Burnt Point - Sheet/Feuille 1)
+ 6360 (Windy Point to/à Slave Point - Sheet/Feuille 1)
+ 6368 (Cabin Islands to/aux Pilot Islands - Sheet/Feuille 1)
+ 6369 (Yellowknife - Sheet/Feuille 1)
+ 6369 (Continuation A - Sheet/Feuille 1)
+ 6369 (Yellowknife Bay - Sheet/Feuille 1)
+ 6370 (Great Slave Lake / Grand lac des Esclaves, Western Portion / Partie ouest - Sheet/Feuille 1)
+ 6370 (Continuation A - Sheet/Feuille 1)
+ 6370 (Hay River - Sheet/Feuille 1)
+ 6371 (Breynat Bight - Sheet/Feuille 1)
+ 6371 (Sulpher Cove - Sheet/Feuille 1)
+ 6371 (Île du Mort - Sheet/Feuille 1)
+ 6371 (Hay River - Sheet/Feuille 1)
+ 6371 (Dawson Bay - Sheet/Feuille 1)
+ 6371 (Buffalo River - Sheet/Feuille 1)
+ 6371 (Presqu'ile Cove - Sheet/Feuille 1)
+ 6390 (Approaches to/Approches à Echo Bay - Sheet/Feuille 1)
+ 6390 (Great Bear Lake - Sheet/Feuille 1)
+ 6390 (Great Bear River - Sheet/Feuille 1)
+ 6408 (Cache Island to/à Rabbitskin River Kilometre 233 / Kilomètre 301)
+ 6409 (Rabbitskin River to Fort Simpson (Kilometre 300 to Killometre 330))
+ 6409 (Continuation A - Rabbitskin River to/à Fort Simpson Kilometre 300 / Kilomètre 330)
+ 6410 (Fort Simpson to/à Trail River Kilometre 330 / Kilometre 390)
+ 6411 (Trail River to/à Camsell Bend Kilometre 390 / Kilometre 460)
+ 6412 (Camsell Bend to/à McGern Island Kilometre 460 / Kilometre 510)
+ 6413 (McGern Island to/à Wrigley River Kilometre 510 / Kilomètre 580)
+ 6414 (Wrigley River to/à Three Finger Creek Kilometre 580 / Kilometre 650)
+ 6415 (Three Finger Creek to/à Saline Island Kilometre 650 / Kilometre 730)
+ 6416 (Saline Island to/à Police Island Kilometre 730 / Kilomètre 810)
+ 6417 (Tulita (Fort Norman), Police Island to/aux Halfway Islands Kilometre 810 / kilometre 860)
+ 6418 (Norman Wells, Halfway Islands to/à Rader Island Kilometre 850 / Kilomètre 920)
+ 6419 (Norman Wells to/à Carcajou Ridge Kilometre 910 / Kilomètre 980)
+ 6420 (Carcajou Ridge to/à Hardie Island Kilometre 980 / Kilometre 1040)
+ 6421 (Hardie Island to/à Fort Good Hope Kilometre 1040 / Kilometre 1100)
+ 6422 (Fort Good Hope to/à Askew Islands Kilometre 1100 / Kilometre 1180)
+ 6423 (Askew Islands to/à Bryan Island Kilometre 1180 / Kilometre 1240)
+ 6424 (Bryan Island to/à Travaillant River Kilometre 1240 / Kilomètre 1325)
+ 6425 (Travaillant River to/à Adam Cabin Creek Kilometre 1325 / Kilomètre 1400)
+ 6426 (Adam Cabin Creek to/à Point Separation Kilometre 1400 / Kilomètre 1480)
+ 6427 (Point Separation to/au Aklavik Channel Kilometre 1480 / Kilomètre 1540)
+ 6428 (Aklavik Channel to Napoiak Channel Including Aklavik Channel to Aklavik (Kilometre 1530 to Kilometre 1597))
+ 6428 (Aklavik via Aklavic Channel (Kilometre 1565 to Kilometre 1597)
+ 6429 (Kilometre/Kilomètre 1580 - 1645 including/y compris East Channel, Inuvik to/à Kilometre/Kilomètre 1645)
+ 6430 (East Channel, Kilometre/Kilomètre 1645 - 1710)
+ 6431 (East Channel, Lousy Point to/à Tuktoyaktuk Kilometre 1710 / Kilomètre 1766)
+ 6432 (Gull Creek)
+ 6432 (.)
+ 6432 (Kilometre/Kilomètre 1500 to/à Inuvik East Channel)
+ 6432 (Continuation A - Kilometre/Kilomètre 1500 to/à Inuvik East Channel)
+ 6433 (West Channel, Aklavik to/à Shallow Bay)
+ 6434 (Reindeer Channel, Tununuk Point to/à Shallow Bay)
+ 6435 (Middle Channel, Tununuk Point to/à Mackenzie Bay Kilometre 1670 / Kilometre 1730)
+ 6436 (Napoiak Channel, including / y compris Schooner and/et Taylor Channels Kilometre/Kilomètre 1590 - 1650)
+ 6437 (Peel Channel including/y compris Husky Channel and /et Phillips Channel)
+ 6438 (Peel River, Mackenzie River/Fleuve Mackenzie to/à Road Island)
+ 6438 (Peel River, Mackenzie River/Fleuve Mackenzie to/à Road Island Continuation A)
+ 6441 (West Channel including/y compris Anderton Channel, Ministicoog Channel and/et Moose Channel to/à Shoalwater Bay)
+ 6451 (Sans Sault Rapids)
+ 6452 (Mackenzie River / Fleuve Mackenzie (Kilometre / Kilomètre 0-58))
+ 6453 (Mackenzie River / Fleuve Mackenzie (Kilometre / Kilomètre 58-90))
+ 6454 (Mackenzie River / Fleuve Mackenzie (Kilometre / Kilomètre 90-147))
+ 6454 (Continuation A - Mackenzie River / Fleuve Mackenzie (Kilometre / Kilomètre 90-147))
+ 6455 (Mackenzie River / Fleuve Mackenzie (Kilometre / Kilomètre 147-205))
+ 6455 (Continuation A - Mackenzie River / Fleuve Mackenzie (Kilometre / Kilomètre 147-205))
+ 6505 (Lynch's Point - Sheet/Feuille 1)
+ 6505 (The Narrows - Sheet/Feuille 1)
+ 6505 (Lake Manitoba / Lac Manitoba (Southern Portion / Partie sud) - Sheet/Feuille 1)
+ 6506 (Manipogo - Sheet/Feuille 1)
+ 6506 (Reykjavik Narrows - Sheet/Feuille 1)
+ 6506 (Crane Narrows - Sheet/Feuille 1)
+ 6506 (Lake Manitoba / Lac Manitoba (Northern Portion / Partie nord) - Sheet/Feuille 1)
+ 6506 (Steep Rock - Sheet/Feuille 1)
+ 7000 (Arctic Archipelago / Archipel de l'Arctique)
+ 7010 (Davis Strait and/et Baffin Bay)
+ 7011 (Hudson Strait/Détroit D'Hudson to/à Groenland)
+ 7050 (Resolution Island to/à Cape Mercy)
+ 7051 (Cumberland Sound)
+ 7052 (Cape Mercy to/à Kangeeak Point)
+ 7053 (Paallavvik to/à Kangiqtugaapik)
+ 7065 (Mill Island to/à Winter Island)
+ 7066 (Cape Dorchester to/à Spicer Islands)
+ 7067 (Spicer Islands to/à West Entrance of Fury and/et Hecla Strait)
+ 7071 (Cape Norton Shaw to Cape M'Clintock)
+ 7071 (Cape Norton Shaw to/à Cape M'Clintock)
+ 7072 (Kane Basin to Lincoln Sea)
+ 7072 (Kane Basin to/à Lincoln Sea)
+ 7082 (Cape Baring to/à Cambridge Bay)
+ 7083 (Cambridge Bay to/à Shepherd Bay)
+ 7103 (Approaches to/Approches à Brevoort Harbour)
+ 7121 (Daniel Island Harbour)
+ 7121 (Cape Mills to/à Cape Rammelsberg)
+ 7122 (Culbertson Island to/à Koojesse Inlet)
+ 7125 (Pike-Resor Channel)
+ 7126 (Culbertson Island to Frobisher's Farthest)
+ 7126 (Culbertson Island to/à Frobisher's Farthest)
+ 7127 (Koojesse Inlet)
+ 7127 (Approaches to/ Approches à Koojesse Inlet)
+ 7134 (Robinson Bay and Approaches/et les Approches)
+ 7135 (Brevoort Harbour)
+ 7136 (Cape Mercy and Approaches/et les Approches)
+ 7150 (Pangnirtung)
+ 7150 (Pangnirtung)
+ 7150 (Approaches to Pangnirtung et les approches)
+ 7150 (Continuation A - Pangnirtung and Approaches/et les approches)
+ 7170 (Exeter Bay and Approaches/et les Approches)
+ 7171 (Exeter Bay Landing Beach)
+ 7180 (Delight Anchorage)
+ 7180 (Padloping Island and Approaches/ et les Approches)
+ 7181 (Durban Harbor)
+ 7184 (Broughton Harbour and Landing Beach/et plage d'atterrissage)
+ 7184 (Broughton Island and Approaches/et les Approches)
+ 7185 (Kangeeak Point and Approaches/et les Approches)
+ 7193 (Cape Hooper, Lower Anchorage)
+ 7193 (Cape Hooper, Upper Anchorage)
+ 7193 (Cape Hooper and Approaches/et les Approches)
+ 7194 (Cape Hooper to/à Arguyartu Point Including/y compris Ekalugad Fiord)
+ 7195 (Kangok Fiord and Approaches/et les Approches)
+ 7212 (Albert Harbour)
+ 7212 (Pond Inlet)
+ 7212 (Pond Inlet)
+ 7212 (Kangiqlugaapik (Erik Harbour))
+ 7212 (Sullukuluk (Albert Harbour))
+ 7212 (Bylot Island and Adjacent Channels)
+ 7220 (Lancaster Sound, Eastern Approaches/Approches Est)
+ 7292 (Dundas Harbour)
+ 7302 (Lady Ann Strait to/à Smith Sound)
+ 7304 (Lincoln Sea)
+ 7310 (Grise Fiord)
+ 7310 (Jones Sound)
+ 7310 (Continuation A - Jones Sound)
+ 7371 (Alexandra Fiord)
+ 7404 (Frozen Strait, Lyon Inlet and Approaches)
+ 7405 (Repulse Bay and Approaches/ Et Les Approches)
+ 7411 (Spicer Islands to Longstaff Bluff)
+ 7411 (Bray Island Anchorage)
+ 7430 (Talun Bay)
+ 7430 (Repulse Bay Harbours Islands to/à Talun Bay)
+ 7465 (Needle Cove and Approaches)
+ 7465 (Frustration Bay and Approaches)
+ 7481 (Foxe Channel)
+ 7482 (Winter Island to/à Cape Jermain)
+ 7485 (Hall Beach)
+ 7485 (Parry Bay to/au Navy Channel)
+ 7486 (Navy Channel to/à Fury and Hecla Strait)
+ 7486 (Igloolik)
+ 7487 (Fury and Hecla Strait)
+ 7487 (Labrador Narrows)
+ 7488 (Longstaff Bluff)
+ 7488 (Air Force Island to/au Longstaff Bluff)
+ 7489 (Navy Channel to/à Longstaff Bluff)
+ 7502 (Gulf of Boothia and/et Committee Bay)
+ 7511 (Resolute Bay)
+ 7511 (Resolute Passage)
+ 7512 (Nanisivik)
+ 7512 (Arctic Bay)
+ 7512 (Strathcona Sound and/et Adams Sound)
+ 7513 (Assomption Harbour)
+ 7513 (Milne Inlet, Southern Portion)
+ 7520 (Prince of Wales Strait, Northern Portion/ Partie Nord)
+ 7520 (Princess Royal Islands)
+ 7521 (Jesse Harbour)
+ 7521 (Continuation A - Prince of Wales Strait, Southern Portion/ Partie Sud)
+ 7521 (Prince of Wales Strait)
+ 7527 (Erebus Bay and/et Radstock Bay)
+ 7527 (Erebus and Terror Bay and/et Radstock Bay)
+ 7540 (Landing Site)
+ 7540 (Bridport Inlet and Approaches/et Les Approches)
+ 7552 (Bellot Strait Eastern Entrance/Entrée Est)
+ 7552 (Bellot Strait and Approaches/et Les Approches)
+ 7565 (Clyde Inlet to/à Cape Jameson)
+ 7565 (Clyde Inlet)
+ 7566 (Cape Jameson to/au Cape Fanshawe)
+ 7568 (Lancaster Sound and/et Admiralty Inlet)
+ 7568 (Continuation A - Lancaster Sound and/et Admiralty Inlet)
+ 7569 (Barrow Strait and/et Wellington Channel)
+ 7570 (Barrow Strait and/et Viscount Melville Sound)
+ 7571 (Viscount Melville Sound)
+ 7571 (Continuation A - Viscount Melville Sound)
+ 7572 (Viscount Melville Sound and/et M'clure Strait)
+ 7573 (M'Clintock Channel, Larsen Sound and/et Franklin Strait)
+ 7575 (Peel Sound and/et Prince Regent Inlet)
+ 7578 (St. Peter Bay)
+ 7578 (Korvigdjuak Island Channels)
+ 7578 (Pelly Bay)
+ 7600 (Beaufort Sea/ Mer de Beaufort)
+ 7608 (Eskimo Lakes)
+ 7608 (Approaches to Eskimo Lakes)
+ 7608 (Continuation)
+ 7620 (Demarcation Bay to/à Liverpool Bay)
+ 7621 (Sachs Harbour)
+ 7621 (Amundsen Gulf)
+ 7646 (M'Clintock Bay)
+ 7646 (Hat Island)
+ 7646 (Wilkins Point)
+ 7661 (Pauline Cove)
+ 7661 (Workboat Passage)
+ 7661 (Demarcation Bay to/à Philips Bay)
+ 7662 (Trent Bay)
+ 7662 (Mackenzie Bay)
+ 7663 (McKinley Bay)
+ 7663 (Kugmallit Bay)
+ 7664 (Nicholson Island)
+ 7664 (Liverpool Bay)
+ 7665 (Franklin Bay and/et Darnley Bay)
+ 7666 (Pearce Point Harbour)
+ 7666 (Tysoe Point)
+ 7666 (Cape Lyon to/à Tinney Point)
+ 7667 (Cape Young)
+ 7667 (Dolphin and Union Strait To/ A Prince Albert Sound)
+ 7668 (Holman)
+ 7668 (Prince Albert Sound, Western Portion/ Partie Ouest)
+ 7669 (Prince Albert Sound Eastern Portion/Partie Est)
+ 7685 (Tuktoyaktuk Harbour and Approaches/et les approches)
+ 7686 (Police Point)
+ 7686 (Summers Harbour)
+ 7686 (Wise Bay)
+ 7686 (Police Point And Approaches/ Et Les Approches)
+ 7687 (Paulatuk Harbour)
+ 7687 (Approaches to/Approches à Paulatuk Harbour)
+ 7710 (Lady Franklin Point)
+ 7710 (Bernard Harbour)
+ 7710 (Lambert Channel and/et Cache Point Channel)
+ 7725 (Requisite Channel and Approaches)
+ 7731 (Storis Passage and Approaches)
+ 7736 (M'Clintock Bay)
+ 7736 (Continuation A - Simpson Strait)
+ 7736 (Simpson Strait)
+ 7737 (Storis Passage to/à Requisite Channel)
+ 7738 (Simpson Strait to/à Storis Passage)
+ 7739 (James Ross Strait)
+ 7750 (Cambridge Bay Harbour)
+ 7750 (Cambridge Bay)
+ 7750 (Approaches to/Approches à Cambridge Bay)
+ 7760 (Gjoa Haven)
+ 7760 (St. Roch and/et Rasmussen Basins)
+ 7770 (Spence Bay)
+ 7770 (Spence Bay and Approaches)
+ 7770 (Taloyoak)
+ 7770 (Spence Bay and Approaches/et les Approches)
+ 7776 (Dolphin and Union Strait)
+ 7777 (Kugluktuk)
+ 7777 (Coronation Gulf Western Portion/Partie Ouest)
+ 7778 (Johansen Bay and/et Edinburgh Channel)
+ 7778 (Coronation Gulf Eastern Portion/Partie Est)
+ 7779 (Sinclair Creek)
+ 7779 (Dease Strait)
+ 7779 (Continuation A - Dease Strait)
+ 7782 (Queen Maud Gulf Western Portion/Partie Ouest)
+ 7783 (Jenny Lind Bay)
+ 7783 (Queen Maud Gulf Eastern Portion/Partie est)
+ 7784 (Victoria Strait)
+ 7787 (ST. ROCH AND/ET RASMUSSEN BASINS)
+ 7788 (Gjoa Haven)
+ 7788 (Simpson Strait to Rasmussen Basin)
+ 7790 (Cape Croker)
+ 7790 (Roberts Bay)
+ 7790 (Melville Sound)
+ 7791 (Baychimo)
+ 7791 (Bathurst Inlet - Northern Portion/Partie nord)
+ 7792 (Bathurst Inlet - Central Portion)
+ 7793 (Amagok Creek)
+ 7793 (Bathurst Inlet - Southern Portion/Partie sud)
+ 7832 (Eglington Island to/à Cape Kellett)
+ 7920 (Sherwood Beach)
+ 7920 (Beaching Area)
+ 7920 (Slidre Fiord)
+ 7920 (Glacier Fiord)
+ 7920 (Tanquary Fiord)
+ 7930 (Continuation A - Hell Gate and/et Cardigan Strait)
+ 7930 (Hell Gate and Cardigan Strait)
+ 7935 (Cominco-Polaris Wharf/Quai)
+ 7935 (Crozier Strait and/et Pullen Strait)
+ 7940 (Eureka South and Southern Approaches/et Les Approches Du Sud Including/y Compris Baumann Fiord)
+ 7941 (Nansen Sound and Greely Fiord)
+ 7941 (Canon Fiord)
+ 7950 (Jones Sound, Norwegian Bay and Queens Channel)
+ 7951 (Bathurst Island to/à Borden Island)
+ 7952 (Cape Manning to/à Borden Island)
+ 7953 (Borden Island to/à Cape Stallworthy)
+ 7954 (Cape Stallworthy to/à Cape Discovery)
+ 7980 (Byan Martin Channel to/au Maclean Strait)
+ 8005 (Georges Bank)
+ 8006 (Scotian Shelf / Plate-Forme Néo-Écossaise: Browns Bank to Emerald Bank / Banc de Brown au Banc D'Émeraude)
+ 8007 (Halifax to / à Sable Island / Île de Sable, Including / y compris Emerald Bank / Banc d'Émeraude and / et Sable Island Bank / Banc de l'Île de Sable)
+ 8010 (Grand Bank / Grand Banc: Southern Portion / Partie Sud)
+ 8011 (Grand Bank / Grand Banc: Northern Portion / Partie Nord)
+ 8012 (Flemish Pass / Passe Flamande)
+ 8013 (Flemish Cap / Bonnet Flamand)
+ 8014 (Grand Bank / Grand Banc: Northeast Portion / Partie nord-est)
+ 8015 (Funk Island and Approaches / et les approches)
+ 8046 (Button Islands to / à Cod Island)
+ 8047 (Cod Island to / à Cape Harrison)
+ 8048 (Cape Harrison to / à St. Michael Bay)
+ 8049 (St. Michael Bay to/aux Gray Islands)
+ 96036 (Bering Strait (OMEGA))
+ CA471207 (CA471207)
+ CA471210 (CA471210)
+ CA471219 (CA471219)
+ NOAA 16004 (Point Barrow to Herschel Island)
+ Categories 
+ Aids to Navigation 
+ Aids to Navigation (Other) 
+ AIS Aids to Navigation 
+ All Aids to Navigation Operating Properly 
+ All Aids to Navigation Unreliable 
+ Beacon 
+ Buoys 
+ Fog Signals 
+ GNSS Degradation 
+ Lights 
+ RACON 
+ Aquaculture and Fishing Installations 
+ Aquaculture Site 
+ Fish Aggregating Device 
+ Presence of Long Fishing Gear 
+ Bridge 
+ Bridge 
+ Bridge Horizontal Clearance Change 
+ Bridge Unable to Close 
+ Bridge Unable to Open 
+ Bridge Vertical Clearance Change 
+ Opening or Closing of Swing Bridge 
+ Dangerous Natural Phenomena 
+ High Water Level 
+ Low Water Level 
+ Tsunami Warning 
+ Volcano Activity 
+ Drifting Hazard 
+ Container Adrift 
+ Deadhead Adrift 
+ Dead Whale Adrift 
+ Derelict Vessel Adrift 
+ Dock Adrift 
+ Drifting Hazard (Other) 
+ Fishing Net Adrift 
+ Floating Debris 
+ Log Adrift 
+ Log Boom Adrift 
+ Object Adrift 
+ Scientific Buoy Adrift 
+ Vessel Adrift 
+ ECDIS Operating Anomalies Including Official Data Issues 
+ ECDIS Operating Anomalies Including Official Data Issues 
+ Health Advisories 
+ Local Health Authority Notice 
+ National Health Authority Notice 
+ World Health Organization Notice 
+ Ice Control Zone 
+ Ice Control Zone Activated 
+ Ice Control Zone Deactivated 
+ Ice Information 
+ CCG Ice Operations 
+ Iceberg Outside Advertised Limits 
+ Ice Boom - Installation or Removal 
+ Ice (Other) 
+ Unidentified Radar Target, Possible Iceberg 
+ Marine Communications and Traffic Services 
+ Centre Outage 
+ DGPS 
+ EGC MSI Service 
+ MCTS HF Services 
+ MCTS MF Services 
+ MCTS VHF Services 
+ MSI Service 
+ NAVTEX 
+ NAVWARN or NAVAREA Website 
+ Phone Line Outage 
+ Surveillance Systems 
+ VFF Seasonal 
+ Military Exercises 
+ Demolition Exercise 
+ Gunnery Exercises 
+ Military Exercises (Other) 
+ Military Operation 
+ Military Zone WG 
+ Missile Launch 
+ Surface, Subsurface and Air Operations 
+ Underwater Operations 
+ Newly Discovered Dangers 
+ Dangerous Wreck 
+ Presence of Submerged Fishing Net 
+ Sandspit or Sandbar Change 
+ Shallow Depth Confirmed 
+ Shallow Depth Reported 
+ Submerged Object 
+ Subsurface Mooring 
+ Uncharted Rock 
+ Obstruction (withdrawn)
+ Mussel Farm (withdrawn)
+ Obstruction (Other) (withdrawn)
+ Repair Work (withdrawn)
+ Uncharted Submarine Cables (withdrawn)
+ Underwater Installation (withdrawn)
+ Offshore Infrastructure 
+ Drilling Site Operations 
+ Drill Rig On Location (withdrawn)
+ Offshore Rigs or Platform Changes 
+ Offshore Works (Other) 
+ Renewable Energy Device or Farm Change 
+ Submarine Cable Changes 
+ Submarine Pipeline Changes 
+ Other Hazards 
+ Explosive Device 
+ Fallout Hazard 
+ Hazardous Area 
+ Piracy or Robbery 
+ Piracy or Robbery 
+ Recreational Event (withdrawn)
+ Recreational Event (Other) (withdrawn)
+ Regatta (withdrawn)
+ Routeing Change 
+ Channel Change 
+ Cluster of Fishing Vessels 
+ Exclusion Zone 
+ Fireworks 
+ Horizontal Clearance Reduced 
+ Lock Closed 
+ New or Amended Regulation 
+ North Atlantic Right Whale 
+ Opening or Closing of Harbour 
+ Opening or Closing of Waterway 
+ Regatta or Race 
+ Restricted Area Changes 
+ Swimmers 
+ Traffic Congestion 
+ Vertical Clearance Reduced 
+ Vessel Disabled 
+ VTS Change 
+ Waterway Recommended or Not Recommended for Shipping 
+ Scientific Instruments Change 
+ Acoustic Recorder 
+ Presence of Scientific Equipment 
+ Scientific Moorings 
+ Tide Gauge Change 
+ Seasonal Buoy Program 
+ Seasonal Buoy Lifting 
+ Seasonal Buoy Placing 
+ Security Requirement Change 
+ Maritime Security - MARSEC Level Changes 
+ Special Operations 
+ Anti Pollution Exercise 
+ Anti Pollution Operation 
+ Blasting Operation 
+ Firing Exercises 
+ Hydrographic Survey Activity 
+ Jamming Exercise 
+ LNG 
+ SAR Exercise 
+ SAR Operation 
+ Scientific Survey 
+ Seaplane Operations 
+ Sea Trials 
+ Seismic Survey Operation 
+ Towing Operations 
+ Drill Rig Under Tow 
+ Unwieldy Tow 
+ Waterway Information (withdrawn)
+ Shoal (withdrawn)
+ Survey Results (withdrawn)
+ Water Levels Changed/Not As Advertised (withdrawn)
+ Waterway Information (Other) (withdrawn)
+ Works 
+ Breakwater Construction 
+ Cable Laying Operation 
+ Cable Operations 
+ Diving Operation 
+ Dredging Operation 
+ Floating Dock 
+ Pipe Laying Operation 
+ Pipe Operations 
+ Underwater Operations 
+ Wharf Construction 
+ Works in Progress 
+ Works (Other) 
+ Sort by 
+ Date 
+ Area 
+ NAVAREA 
+ Number of messages per page 
+ 10 
+ 20 
+ 40 
+ Search 
+ Reset 
+ Navigational Warnings (NAVWARNs) replace Notices to Shipping (NOTSHIPs) and shall be construed as Notices to Shipping
+ Navarea 
+ Export / Print 
+ PDF - Current page
+ Print - Current page
+ Print - All results [Limit 2000]
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ NAVAREA XVIII 136/2026
+ Arctic
+ Chart CHS 7010
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 72-00.07N 065-30.13W, DEPTH OF WATER 2322M.  TOP FLOATS ARE 2319M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 135/2026
+ Davis Strait
+ Chart CHS 7010
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 67-15.88N 054-28.81W, DEPTH OF WATER 62M.  TOP FLOATS ARE 19 M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 133/2026
+ Arctic
+ Pelly Bay
+ Chart CHS 7578
+ SHOALER DEPTHS CONFIRMED IN:  
+ 69-10.53N 089-33.30W, DEPTH 5.3 METRES.
+69-11.93N 089-33.11W, DEPTH 7.5 METRES. 
+ NAVAREA XVII 101/2026
+ 1.NAVAREA XVII WARNINGS IN FORCE AT 091130 UTC Oct 26:
+2019 SERIES: 92.
+2023 SERIES: 53.
+2025 SERIES: 7, 94, 95.
+2026 SERIES: 83, 84, 88, 89, 90, 100, 101.
+NOTES:
+A. NAVAREA XVII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVII 98/2026.
+ NAVAREA XVIII 125/2026
+ 1.NAVAREA XVIII WARNINGS IN FORCE AT 091100 UTC Oct 26:
+2021 SERIES: 56, 112.
+2022 SERIES: 113.
+2023 SERIES: 72.
+2025 SERIES: 14, 105, 106, 107, 108, 131, 140, 155, 156, 158, 160, 165, 166, 167, 168, 183.
+2026 SERIES: 50, 52, 93, 94, 102, 106, 107, 108, 109, 110, 112, 114, 117, 118, 119, 120, 121, 124, 125.
+NOTES:
+A. NAVAREA XVIII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVIII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVIII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVIII 122/2026.
+ NAVAREA XVIII 121/2026
+ Coronation Gulf, 
+ Dolphin And Union Strait
+ Chart CHS 7710
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 27.660N 113 23.366W, DEPTH OF WATER 44M. MOORING EXTENDS 3M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 120/2026
+ Coronation Gulf
+ Chart CHS 7777
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 20.730N 112 21.130W, DEPTH OF WATER 251M. MOORING EXTENDS 230M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 119/2026
+ Shipping Safety Control Zone 11
+ Dease Strait
+ Chart CHS 7750, 
+ 7782
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-55.72N 105-48.26W, DEPTH OF SEAFLOOR 127M. MOORING EXTENDS 107M FROM THE SEA FLOOR.
+2. CANCELS NAVAREA XVIII 111/26
+ NAVAREA XVIII 118/2026
+ Shipping Safety Control Zone 11
+ Coronation Gulf
+ Chart CHS 7778
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.73N 110-00.91W, DEPTH OF SEA FLOOR 243M. MOORING EXTENDS 222M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 115/26
+ NAVAREA XVIII 117/2026
+ Coronation Gulf
+ Coronation Gulf
+ Chart CHS 7778
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.75N 109 59.54W, DEPTH OF SEA FLOOR 236M. MOORING EXTENDS 2M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 116/26
+ NAVAREA XVIII 114/2026
+ Arctic
+ Chart CHS 7778
+ BEACON PERMANENTLY REMOVED
+ NAVAREA XVIII 112/2026
+ Dease Strait
+ Dease Strait
+ Chart CHS 7750, 
+ 7782
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-55.94N 105-49.66W, TOP FLOAT 122M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 110/2026
+ Queen Maud Gulf
+ Queen Maud Gulf
+ Chart CHS 7783
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-48.95N 105-06.53W, TOP FLOAT 69M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 109/2026
+ Queen Maud Gulf
+ Queen Maud Gulf
+ Chart CHS 7783
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.93N 103-00.86W, TOP FLOAT 126M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 108/2026
+ Queen Maud Gulf
+ Victoria Strait
+ Chart CHS 7783, 
+ 7784
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-53.41N 101-31.15W, TOP FLOAT 49M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 107/2026
+ King William Island, 
+ Queen Maud Gulf
+ Storis Passage
+ Chart CHS 7738
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.46N 098-51.58W, TOP FLOAT 77M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 106/2026
+ King William Island
+ James Ross Strait
+ Chart CHS 7739
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED 2M ABOVE THE SEAFLOOR:
+A. 69-42.02N 095-42.64W, DEPTH OF 43M
+B. 69-36.60N 095-20.92W, DEPTH OF 38M 
+ NAVAREA XVIII 102/2026
+ Victoria Island
+ Diamond Jenness Peninsula
+ Chart CHS 7668
+ ROCK DEPTH 0.3M, LOCATED IN 70-30.05N 116-04.70W.
+ROCK LOCATED IN 70-32.05N 115-59.06W.
+ NAVAREA XVII 90/2026
+ Beaufort Sea
+ Beluga Bay
+ Chart CHS 7662
+ 1. PELLY ISLAND RACON, 69-37N 135-29W, RACON AND DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 85/26.
+ NAVAREA XVII 89/2026
+ Beaufort Sea
+ Mackenzie Bay
+ Chart CHS 7662
+ 1. PITT ISLAND RACON, 69-09N 136-11W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 92/25
+ NAVAREA XVII 88/2026
+ Beaufort Sea
+ Mackenzie Bay
+ Chart CHS 7661, 
+ 7662
+ 1. SHINGLE POINT RACON, 69-00N 137-34W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCEL NAVAREA XVII 58/22
+ NAVAREA XVII 84/2026
+ Beaufort Sea, 
+ Shipping Safety Control Zone 12
+ Chart CHS 7600, 
+ 7620, 
+ 7663, 
+ 7664
+ RELIEF ISLET RACON 70-08.75N 130-49.67W INOPERATIVE
+ NAVAREA XVIII 94/2026
+ Arctic
+ Chart CHS 7053, 
+ 7193
+ SHOALS OF UNKNOWN DEPTH LOCATED AT:
+A. 68-16.14N 066-01.06W
+B. 68-15.59N 066-01.09W
+C. 68-15.29N 066-01.13W
+D. 68-13.73N 065-47.64W
+E. 68-12.84N 065-44.47W
+F. 68-12.62N 065-42.89W
+G. 68-12.93N 065-41.98W
+H. 68-12.63N 065-44.18W
+ NAVAREA XVIII 93/2026
+ Arctic
+ Chart CHS 7784
+ 1. ROYAL GEOGRAPHIC SOCIETY ISLAND DAY BEACON AT 69-00N 100-39W RE-ESTABLISHED TO 69-00.17N 100 38.95W.
+2. CANCELS NAVAREA XVIII 91/26 AND NAVAREA XVIII 92/26.
+ NAVAREA XVIII 52/2026
+ Arctic
+ MF AND HF SERVICES LOCATED AT CORAL HARBOUR OFF AIR 131430 UTC JULY 2026.
+ NAVAREA XVIII 50/2026
+ Arctic
+ Chart CHS 7513
+ SUBSURFACE MOORING DEPLOYED IN 71-53.57N 080-51.37W AT 071306 UTC JUL 2026. TOP OF MOORING 0.4M FROM THE SEABED, DEPTH OF WATER 12M. 
+ THIS MOORING WILL REMAIN DEPLOYED UNTIL THE END OF THE 2027 NAVIGATIONAL SEASON. 
+ NAVAREA XVIII 183/2025
+ Arctic
+ Franklin Strait
+ Chart CHS 7573
+ SHOALS LOCATED AT:
+ 71 21.06N 096 53.90W, DEPTH UNKNOWN
+ NAVAREA XVIII 168/2025
+ Queen Elizabeth Islands
+ Chart CHS 7950, 
+ 7951
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 76-42.98N 097-01.04W, DEPTH OF 289M, TOP OF MOORING 29M, MOORING LENGTH 260M.
+B) 76-32.83N 097-29.96W, DEPTH OF 156M, TOP OF MOORING 43M, MOORING LENGTH 115M.
+C) 76-32.44N 097-30.17W, DEPTH OF 146M, TOP OF MOORING 61M, MOORING LENGTH 85M.
+ NAVAREA XVIII 167/2025
+ Queen Elizabeth Islands
+ Chart CHS 7940, 
+ 7941
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 80-01.08N 086-49.54W, DEPTH OF 547M, TOP OF MOORING 162M, MOORING LENGTH 385M.
+B) 80-01.29N 086-48.99W, DEPTH OF 547M, TOP OF MOORING 527M, MOORING LENGTH 20M.
+ NAVAREA XVIII 166/2025
+ Queen Elizabeth Islands
+ Chart CHS 7941
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 81-05.66N 091-34.85W, DEPTH OF 492M, TOP OF MOORING 227M, MOORING LENGTH 265M.
+B) 81-06.41N 090-19.40W, DEPTH OF 417M, TOP OF MOORING 77M, MOORING LENGTH 340M.
+ NAVAREA XVIII 165/2025
+ Queen Elizabeth Islands
+ Chart CHS 7980
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 75-52.81N 104-05.32W, DEPTH OF 207M, TOP OF MOORING 90M, MOORING LENGTH 117M.
+B) 75-49.36N 105-15.56W, DEPTH OF 181M, TOP OF MOORING 28M, MOORING LENGTH 153M.
+ NAVAREA XVIII 160/2025
+ Shipping Safety Control Zone 6
+ Chart CHS 7575
+ SHALLOW DEPTHS REPORTED:
+ 29.3M, 71-22.82N 096-41.27W
+26.6M, 71-22.05N 096-40.73W
+11.3M, 71-21.53N 096-45.79W
+11.3M, 71-21.20N 096-44.65W
+28.4M, 71-20.59N 096-45.34W
+28.35M, 71-18.28N 096-49.03W
+41M, 71-17.44N 096-48.79W
+ NAVAREA XVIII 158/2025
+ Queen Elizabeth Islands
+ Chart CHS 7980
+ SHALLOW DEPTH REPORTED, 33.57M, 76-40.36N 102-16.622W.
+ NAVAREA XVIII 156/2025
+ Peel Sound
+ Franklin Strait
+ Chart CHS 7575
+ Shallow depth reported 71-18.04N 096-52.61W,  37.6 meters
+ NAVAREA XVIII 155/2025
+ Peel Sound
+ Franklin Strait
+ Chart CHS 7575
+ Shallow depths reported:
+ 71-21.82N 096-47.19W  42 meters
+ NAVAREA XVII 95/2025
+ Arctic, 
+ Beaufort Sea
+ 1. SCIENTIFIC MOORINGS ESTABLISHED:
+A. 71-44.06N 155-09.84W, TOP FLOAT 20 METERS
+B. 71-47.78N 155-20.81W, TOP FLOAT 20 METERS
+C. 71-40.38N 154-59.99W, TOP FLOAT 20 METERS
+2. CANCELS NAVAREA XVII 127/24
+ NAVAREA XVII 94/2025
+ Arctic
+ BEAUFORT SEA
+ Chart CHS 16003
+ 1. SEDIMENT TRAP ESTABLISHED 74-31.37N 161-55.88W, TOP FLOAT 30 METERS, TOTAL LENGTH 1655 METERS.
+2. CANCELS NAVAREA XVII 128/24.
+ NAVAREA XVIII 140/2025
+ Parry Channel
+ Barrow Strait
+ Chart CHS 7527
+ SHALLOW DEPTH REPORTED, 13.6 METERS, 74-38.628N 091-20.535W. DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 131/2025
+ Shipping Safety Control Zone 13
+ Chart CHS 7527, 
+ 7569
+ SHALLOW DEPTHS REPORTED:
+ 74-39.71N 091-18.59W   7.1M
+74-39.87N 091-18.31W   8.0M
+74-39.96N 091-18.39W   17.1M
+74-40.29N 091-18.35W   12.7M
+ DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 108/2025
+ Dease Strait, 
+ Queen Maud Gulf
+ Cambridge Bay
+ Chart CHS 7750
+ CAMBRIDGE BAY RANGE REAR LIGHT 2 69-05N 104-57W NON RELIABLE
+ NAVAREA XVIII 107/2025
+ Dease Strait, 
+ Queen Maud Gulf
+ Cambridge Bay
+ Chart CHS 7750
+ CAMBRIDGE BAY RANGE FRONT LIGHT 2 69-05N 104-57W NON RELIABLE
+ NAVAREA XVIII 106/2025
+ Dease Strait, 
+ Queen Maud Gulf
+ Cambridge Bay
+ Chart CHS 7750
+ CAMBRIDGE BAY RANGE REAR LIGHT 1 69-02N 104-53W NON RELIABLE
+ NAVAREA XVIII 105/2025
+ Dease Strait, 
+ Queen Maud Gulf
+ Cambridge Bay
+ Chart CHS 7750
+ CAMBRIDGE BAY RANGE FRONT LIGHT 1 69-02N 104-55W NON RELIABLE
+ NAVAREA XVII 7/2025
+ Beaufort Sea
+ Chart CHS NOAA 16004
+ 1. Scientific sub-surface mooring AON/BS3 established 71-23.81N 152-00.19W depth 153 metres.
+2. Scientific sub-surface mooring AON/BS1 established 71-18.49N 152-08.14W depth 57 metres.
+3. Cancel NAVAREA XVII 51/19
+ NAVAREA XVIII 72/2023
+ Queen Elizabeth Islands
+ Chart CHS 7071, 
+ 7071, 
+ 7302
+ SUBSURFACE SCIENTIFIC MOORING ESTABLISHED 78-19.41N 073-11.54W, TOP FLOAT 196 METRES.
+ NAVAREA XVII 53/2023
+ Beaufort Sea
+ Chart CHS 7662, 
+ 7663
+ PULLEN ISLAND LIGHT 69 46.406N 134 24.070W, RACON X-BAND INOPERATIVE
+ NAVAREA XVIII 113/2022
+ Arctic
+ Scott Inlet
+ Chart CHS 7565
+ Scientific subsurface mooring established 71-08.07N 070-49.51W, depth of 248 metres.
+ NAVAREA XVIII 112/2021
+ Arctic
+ Diamond Jenness Peninsula
+ Chart CHS 7668
+ Subsurface mooring established 70-42.59N 117-51.21W, top float 37 metres.
+ NAVAREA XVIII 56/2021
+ Arctic
+ Chart CHS 7053
+ Scientific subsurface mooring established 69-54.66N 066-48.42W.
+Top float 221 metres.
+ NAVAREA XVII 92/2019
+ Amundsen Gulf
+ Franklin Bay
+ Chart CHS 7665
+ 1.Scientific sub-surface mooring established 70-02.434N 126-18.404W top float 223 metres
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ Grid 
+ Export / Print 
+ PDF - Current page
+ Print - Current page
+ Print - All results [Limit 2000]
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Arctic
+ 2026-10-15 19:03 UTC
+ NAVAREA XVIII 136/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 72-00.07N 065-30.13W, DEPTH OF WATER 2322M.  TOP FLOATS ARE 2319M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Davis Strait
+ 2026-10-15 18:44 UTC
+ NAVAREA XVIII 135/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 67-15.88N 054-28.81W, DEPTH OF WATER 62M.  TOP FLOATS ARE 19 M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ Shallow Depth Confirmed
+ - NAVAREA XVIII
+ - Arctic
+ - Pelly Bay
+ 2026-10-13 02:31 UTC
+ NAVAREA XVIII 133/2026
+ SHOALER DEPTHS CONFIRMED IN:  
+ 69-10.53N 089-33.30W, DEPTH 5.3 METRES.
+69-11.93N 089-33.11W, DEPTH 7.5 METRES. 
+ Cancels NAVAREA XVIII 132/2026
+ InForce list
+ - NAVAREA XVII
+ - Canada
+ 2026-10-09 11:30 UTC
+ NAVAREA XVII 101/2026
+ 1.NAVAREA XVII WARNINGS IN FORCE AT 091130 UTC Oct 26:
+2019 SERIES: 92.
+2023 SERIES: 53.
+2025 SERIES: 7, 94, 95.
+2026 SERIES: 83, 84, 88, 89, 90, 100, 101.
+NOTES:
+A. NAVAREA XVII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVII 98/2026.
+ Cancels NAVAREA XVII 98/2026
+ InForce list
+ - NAVAREA XVIII
+ - Canada
+ 2026-10-09 11:00 UTC
+ NAVAREA XVIII 125/2026
+ 1.NAVAREA XVIII WARNINGS IN FORCE AT 091100 UTC Oct 26:
+2021 SERIES: 56, 112.
+2022 SERIES: 113.
+2023 SERIES: 72.
+2025 SERIES: 14, 105, 106, 107, 108, 131, 140, 155, 156, 158, 160, 165, 166, 167, 168, 183.
+2026 SERIES: 50, 52, 93, 94, 102, 106, 107, 108, 109, 110, 112, 114, 117, 118, 119, 120, 121, 124, 125.
+NOTES:
+A. NAVAREA XVIII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVIII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVIII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVIII 122/2026.
+ Cancels NAVAREA XVIII 122/2026
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Coronation Gulf, 
+ Dolphin And Union Strait
+ 2026-09-26 23:51 UTC
+ NAVAREA XVIII 121/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 27.660N 113 23.366W, DEPTH OF WATER 44M. MOORING EXTENDS 3M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Coronation Gulf
+ 2026-09-26 23:49 UTC
+ NAVAREA XVIII 120/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 20.730N 112 21.130W, DEPTH OF WATER 251M. MOORING EXTENDS 230M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Shipping Safety Control Zone 11
+ - Dease Strait
+ 2026-09-26 19:53 UTC
+ NAVAREA XVIII 119/2026
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-55.72N 105-48.26W, DEPTH OF SEAFLOOR 127M. MOORING EXTENDS 107M FROM THE SEA FLOOR.
+2. CANCELS NAVAREA XVIII 111/26
+ Cancels NAVAREA XVIII 111/2026
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Shipping Safety Control Zone 11
+ - Coronation Gulf
+ 2026-09-26 19:48 UTC
+ NAVAREA XVIII 118/2026
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.73N 110-00.91W, DEPTH OF SEA FLOOR 243M. MOORING EXTENDS 222M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 115/26
+ Cancels NAVAREA XVIII 115/2026
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Coronation Gulf
+ - Coronation Gulf
+ 2026-09-26 19:45 UTC
+ NAVAREA XVIII 117/2026
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.75N 109 59.54W, DEPTH OF SEA FLOOR 236M. MOORING EXTENDS 2M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 116/26
+ Cancels NAVAREA XVIII 116/2026
+ Aids to Navigation
+ - NAVAREA XVIII
+ - Arctic
+ 2026-09-26 06:01 UTC
+ NAVAREA XVIII 114/2026
+ BEACON PERMANENTLY REMOVED
+ Aids: 
+ Day beacon 10M south of Outpost Island 
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Dease Strait
+ - Dease Strait
+ 2026-09-24 23:03 UTC
+ NAVAREA XVIII 112/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-55.94N 105-49.66W, TOP FLOAT 122M, 2M ABOVE SEA FLOOR
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Queen Maud Gulf
+ - Queen Maud Gulf
+ 2026-09-24 22:57 UTC
+ NAVAREA XVIII 110/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-48.95N 105-06.53W, TOP FLOAT 69M, 2M ABOVE SEA FLOOR
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Queen Maud Gulf
+ - Queen Maud Gulf
+ 2026-09-24 05:42 UTC
+ NAVAREA XVIII 109/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.93N 103-00.86W, TOP FLOAT 126M, 2M ABOVE SEA FLOOR
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - Queen Maud Gulf
+ - Victoria Strait
+ 2026-09-24 05:42 UTC
+ NAVAREA XVIII 108/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-53.41N 101-31.15W, TOP FLOAT 49M, 2M ABOVE SEA FLOOR
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - King William Island, 
+ Queen Maud Gulf
+ - Storis Passage
+ 2026-09-22 19:59 UTC
+ NAVAREA XVIII 107/2026
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.46N 098-51.58W, TOP FLOAT 77M, 2M ABOVE SEA FLOOR
+ Scientific Instruments Change
+ - NAVAREA XVIII
+ - King William Island
+ - James Ross Strait
+ 2026-09-22 18:10 UTC
+ NAVAREA XVIII 106/2026
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED 2M ABOVE THE SEAFLOOR:
+A. 69-42.02N 095-42.64W, DEPTH OF 43M
+B. 69-36.60N 095-20.92W, DEPTH OF 38M 
+ Uncharted Rock
+ - NAVAREA XVIII
+ - Victoria Island
+ - Diamond Jenness Peninsula
+ 2026-09-17 15:34 UTC
+ NAVAREA XVIII 102/2026
+ ROCK DEPTH 0.3M, LOCATED IN 70-30.05N 116-04.70W.
+ROCK LOCATED IN 70-32.05N 115-59.06W.
+ Aids to Navigation - Racon
+ - NAVAREA XVII
+ - Beaufort Sea
+ - Beluga Bay
+ 2026-09-15 15:46 UTC
+ NAVAREA XVII 90/2026
+ 1. PELLY ISLAND RACON, 69-37N 135-29W, RACON AND DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 85/26.
+ Aids: 
+ Pelly Island Racon 
+ Cancels NAVAREA XVII 85/2026
+ Aids to Navigation - Racon
+ - NAVAREA XVII
+ - Beaufort Sea
+ - Mackenzie Bay
+ 2026-09-15 15:39 UTC
+ NAVAREA XVII 89/2026
+ 1. PITT ISLAND RACON, 69-09N 136-11W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 92/25
+ Aids: 
+ Pitt Island Racon
+ Cancels NAVAREA XVII 92/2025
+ Aids to Navigation - Racon
+ - NAVAREA XVII
+ - Beaufort Sea
+ - Mackenzie Bay
+ 2026-09-15 15:31 UTC
+ NAVAREA XVII 88/2026
+ 1. SHINGLE POINT RACON, 69-00N 137-34W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCEL NAVAREA XVII 58/22
+ Aids: 
+ Shingle Point Racon
+ Cancels NAVAREA XVII 58/2022
+ Aids to Navigation - Racon
+ - NAVAREA XVII
+ - Beaufort Sea, 
+ Shipping Safety Control Zone 12
+ 2026-09-09 16:00 UTC
+ NAVAREA XVII 84/2026
+ RELIEF ISLET RACON 70-08.75N 130-49.67W INOPERATIVE
+ Aids: 
+ Relief Islet Racon
+ Shallow Depth Confirmed
+ - NAVAREA XVIII
+ - Arctic
+ 2026-09-01 21:52 UTC
+ NAVAREA XVIII 94/2026
+ SHOALS OF UNKNOWN DEPTH LOCATED AT:
+A. 68-16.14N 066-01.06W
+B. 68-15.59N 066-01.09W
+C. 68-15.29N 066-01.13W
+D. 68-13.73N 065-47.64W
+E. 68-12.84N 065-44.47W
+F. 68-12.62N 065-42.89W
+G. 68-12.93N 065-41.98W
+H. 68-12.63N 065-44.18W
+ Aids to Navigation
+ - NAVAREA XVIII
+ - Arctic
+ 2026-08-31 21:23 UTC
+ NAVAREA XVIII 93/2026
+ 1. ROYAL GEOGRAPHIC SOCIETY ISLAND DAY BEACON AT 69-00N 100-39W RE-ESTABLISHED TO 69-00.17N 100 38.95W.
+2. CANCELS NAVAREA XVIII 91/26 AND NAVAREA XVIII 92/26.
+ Aids: 
+ Royal Geographic Society Island day beacon 
+ Cancels NAVAREA XVIII 92/2026
+ Seasonal Open/Close
+ - NAVAREA XVIII
+ - Arctic
+ 2026-07-13 14:47 UTC
+ NAVAREA XVIII 52/2026
+ MF AND HF SERVICES LOCATED AT CORAL HARBOUR OFF AIR 131430 UTC JULY 2026.
+ Subsurface Mooring
+ - NAVAREA XVIII
+ - Arctic
+ 2026-07-07 15:13 UTC
+ NAVAREA XVIII 50/2026
+ SUBSURFACE MOORING DEPLOYED IN 71-53.57N 080-51.37W AT 071306 UTC JUL 2026. TOP OF MOORING 0.4M FROM THE SEABED, DEPTH OF WATER 12M. 
+ THIS MOORING WILL REMAIN DEPLOYED UNTIL THE END OF THE 2027 NAVIGATIONAL SEASON. 
+ Waterway Information
+ - NAVAREA XVIII
+ - Arctic
+ - Franklin Strait
+ 2025-10-20 16:08 UTC
+ NAVAREA XVIII 183/2025
+ SHOALS LOCATED AT:
+ 71 21.06N 096 53.90W, DEPTH UNKNOWN
+ Obstruction
+ - NAVAREA XVIII
+ - Queen Elizabeth Islands
+ 2025-10-02 13:56 UTC
+ NAVAREA XVIII 168/2025
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 76-42.98N 097-01.04W, DEPTH OF 289M, TOP OF MOORING 29M, MOORING LENGTH 260M.
+B) 76-32.83N 097-29.96W, DEPTH OF 156M, TOP OF MOORING 43M, MOORING LENGTH 115M.
+C) 76-32.44N 097-30.17W, DEPTH OF 146M, TOP OF MOORING 61M, MOORING LENGTH 85M.
+ Obstruction
+ - NAVAREA XVIII
+ - Queen Elizabeth Islands
+ 2025-10-02 13:54 UTC
+ NAVAREA XVIII 167/2025
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 80-01.08N 086-49.54W, DEPTH OF 547M, TOP OF MOORING 162M, MOORING LENGTH 385M.
+B) 80-01.29N 086-48.99W, DEPTH OF 547M, TOP OF MOORING 527M, MOORING LENGTH 20M.
+ Obstruction
+ - NAVAREA XVIII
+ - Queen Elizabeth Islands
+ 2025-10-02 13:53 UTC
+ NAVAREA XVIII 166/2025
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 81-05.66N 091-34.85W, DEPTH OF 492M, TOP OF MOORING 227M, MOORING LENGTH 265M.
+B) 81-06.41N 090-19.40W, DEPTH OF 417M, TOP OF MOORING 77M, MOORING LENGTH 340M.
+ Obstruction
+ - NAVAREA XVIII
+ - Queen Elizabeth Islands
+ 2025-10-02 13:47 UTC
+ NAVAREA XVIII 165/2025
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 75-52.81N 104-05.32W, DEPTH OF 207M, TOP OF MOORING 90M, MOORING LENGTH 117M.
+B) 75-49.36N 105-15.56W, DEPTH OF 181M, TOP OF MOORING 28M, MOORING LENGTH 153M.
+ Waterway Information
+ - NAVAREA XVIII
+ - Shipping Safety Control Zone 6
+ 2025-10-01 03:49 UTC
+ NAVAREA XVIII 160/2025
+ SHALLOW DEPTHS REPORTED:
+ 29.3M, 71-22.82N 096-41.27W
+26.6M, 71-22.05N 096-40.73W
+11.3M, 71-21.53N 096-45.79W
+11.3M, 71-21.20N 096-44.65W
+28.4M, 71-20.59N 096-45.34W
+28.35M, 71-18.28N 096-49.03W
+41M, 71-17.44N 096-48.79W
+ Waterway Information
+ - NAVAREA XVIII
+ - Queen Elizabeth Islands
+ 2025-09-29 18:09 UTC
+ NAVAREA XVIII 158/2025
+ SHALLOW DEPTH REPORTED, 33.57M, 76-40.36N 102-16.622W.
+ Waterway Information
+ - NAVAREA XVIII
+ - Peel Sound
+ - Franklin Strait
+ 2025-09-27 19:08 UTC
+ NAVAREA XVIII 156/2025
+ Shallow depth reported 71-18.04N 096-52.61W,  37.6 meters
+ Waterway Information
+ - NAVAREA XVIII
+ - Peel Sound
+ - Franklin Strait
+ 2025-09-27 12:34 UTC
+ NAVAREA XVIII 155/2025
+ Shallow depths reported:
+ 71-21.82N 096-47.19W  42 meters
+ Obstruction
+ - NAVAREA XVII
+ - Arctic, 
+ Beaufort Sea
+ 2025-09-01 12:31 UTC
+ NAVAREA XVII 95/2025
+ 1. SCIENTIFIC MOORINGS ESTABLISHED:
+A. 71-44.06N 155-09.84W, TOP FLOAT 20 METERS
+B. 71-47.78N 155-20.81W, TOP FLOAT 20 METERS
+C. 71-40.38N 154-59.99W, TOP FLOAT 20 METERS
+2. CANCELS NAVAREA XVII 127/24
+ Cancels NAVAREA XVII 127/2024
+ Obstruction
+ - NAVAREA XVII
+ - Arctic
+ - BEAUFORT SEA
+ 2025-09-01 12:29 UTC
+ NAVAREA XVII 94/2025
+ 1. SEDIMENT TRAP ESTABLISHED 74-31.37N 161-55.88W, TOP FLOAT 30 METERS, TOTAL LENGTH 1655 METERS.
+2. CANCELS NAVAREA XVII 128/24.
+ Cancels NAVAREA XVII 128/2024
+ Waterway Information
+ - NAVAREA XVIII
+ - Parry Channel
+ - Barrow Strait
+ 2025-08-30 20:38 UTC
+ NAVAREA XVIII 140/2025
+ SHALLOW DEPTH REPORTED, 13.6 METERS, 74-38.628N 091-20.535W. DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ Waterway information
+ - NAVAREA XVIII
+ - Shipping Safety Control Zone 13
+ 2025-08-20 07:49 UTC
+ NAVAREA XVIII 131/2025
+ SHALLOW DEPTHS REPORTED:
+ 74-39.71N 091-18.59W   7.1M
+74-39.87N 091-18.31W   8.0M
+74-39.96N 091-18.39W   17.1M
+74-40.29N 091-18.35W   12.7M
+ DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ Aids to Navigation
+ - NAVAREA XVIII
+ - Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 2025-08-08 17:39 UTC
+ NAVAREA XVIII 108/2025
+ CAMBRIDGE BAY RANGE REAR LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #2 LL 2523
+ Aids to Navigation
+ - NAVAREA XVIII
+ - Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 2025-08-08 17:39 UTC
+ NAVAREA XVIII 107/2025
+ CAMBRIDGE BAY RANGE FRONT LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay #2 range front light LL 2522
+ Aids to Navigation
+ - NAVAREA XVIII
+ - Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 2025-08-08 17:39 UTC
+ NAVAREA XVIII 106/2025
+ CAMBRIDGE BAY RANGE REAR LIGHT 1 69-02N 104-53W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #1 LL 2521
+ Aids to Navigation
+ - NAVAREA XVIII
+ - Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 2025-08-08 17:39 UTC
+ NAVAREA XVIII 105/2025
+ CAMBRIDGE BAY RANGE FRONT LIGHT 1 69-02N 104-55W NON RELIABLE
+ Aids: 
+ Cambridge Bay #1 range front light LL 2520
+ Obstruction
+ - NAVAREA XVII
+ - Beaufort Sea
+ 2025-02-04 17:18 UTC
+ NAVAREA XVII 7/2025
+ 1. Scientific sub-surface mooring AON/BS3 established 71-23.81N 152-00.19W depth 153 metres.
+2. Scientific sub-surface mooring AON/BS1 established 71-18.49N 152-08.14W depth 57 metres.
+3. Cancel NAVAREA XVII 51/19
+ Cancels NAVAREA XVII 51/2019
+ Obstruction
+ - NAVAREA XVIII
+ - Queen Elizabeth Islands
+ 2023-09-20 19:57 UTC
+ NAVAREA XVIII 72/2023
+ SUBSURFACE SCIENTIFIC MOORING ESTABLISHED 78-19.41N 073-11.54W, TOP FLOAT 196 METRES.
+ Aids to Navigation
+ - NAVAREA XVII
+ - Beaufort Sea
+ 2023-08-14 22:03 UTC
+ NAVAREA XVII 53/2023
+ PULLEN ISLAND LIGHT 69 46.406N 134 24.070W, RACON X-BAND INOPERATIVE
+ Aids: 
+ Pullen Island light LL 2503
+ Obstruction
+ - NAVAREA XVIII
+ - Arctic
+ - Scott Inlet
+ 2023-01-04 21:51 UTC
+ NAVAREA XVIII 113/2022
+ Scientific subsurface mooring established 71-08.07N 070-49.51W, depth of 248 metres.
+ Obstruction
+ - NAVAREA XVIII
+ - Arctic
+ - Diamond Jenness Peninsula
+ 2023-01-04 20:05 UTC
+ NAVAREA XVIII 112/2021
+ Subsurface mooring established 70-42.59N 117-51.21W, top float 37 metres.
+ Obstruction
+ - NAVAREA XVIII
+ - Arctic
+ 2023-01-04 16:27 UTC
+ NAVAREA XVIII 56/2021
+ Scientific subsurface mooring established 69-54.66N 066-48.42W.
+Top float 221 metres.
+ Obstruction
+ - NAVAREA XVII
+ - Amundsen Gulf
+ - Franklin Bay
+ 2022-12-21 21:40 UTC
+ NAVAREA XVII 92/2019
+ 1.Scientific sub-surface mooring established 70-02.434N 126-18.404W top float 223 metres
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ Details 
+ Export / Print 
+ CSV - Current page (utf-8)
+ CSV - Current page (utf-8-bom)
+ CSV - All results [Limit 2000] (utf-8)
+ CSV - All results [Limit 2000] (utf-8-bom)
+ PDF - Current page
+ Print - Current page
+ Print - All results [Limit 2000]
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ ID 
+ Date 
+ Title 
+ Areas 
+ Charts 
+ Description 
+ NAVAREA XVIII 136/2026
+ 72° 00.070'N 065° 30.130'W
+ 2026-10-15 19:03 UTC
+ Scientific Instruments Change
+ Arctic
+ 7010(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 72-00.07N 065-30.13W, DEPTH OF WATER 2322M.  TOP FLOATS ARE 2319M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 135/2026
+ 67° 15.875'N 054° 28.806'W
+ 2026-10-15 18:44 UTC
+ Scientific Instruments Change
+ Davis Strait
+ 7010(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 67-15.88N 054-28.81W, DEPTH OF WATER 62M.  TOP FLOATS ARE 19 M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 133/2026
+ 69° 10.533'N 089° 33.300'W
+ 69° 11.939'N 089° 33.109'W
+ 2026-10-13 02:31 UTC
+ Shallow Depth Confirmed
+ Arctic
+ - Pelly Bay
+ 7578(NAD83)
+ SHOALER DEPTHS CONFIRMED IN:  
+ 69-10.53N 089-33.30W, DEPTH 5.3 METRES.
+69-11.93N 089-33.11W, DEPTH 7.5 METRES. 
+ Cancels NAVAREA XVIII 132/2026
+ NAVAREA XVII 101/2026
+ 2026-10-09 11:30 UTC
+ InForce list
+ Canada
+ 1.NAVAREA XVII WARNINGS IN FORCE AT 091130 UTC Oct 26:
+2019 SERIES: 92.
+2023 SERIES: 53.
+2025 SERIES: 7, 94, 95.
+2026 SERIES: 83, 84, 88, 89, 90, 100, 101.
+NOTES:
+A. NAVAREA XVII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVII 98/2026.
+ Cancels NAVAREA XVII 98/2026
+ NAVAREA XVIII 125/2026
+ 2026-10-09 11:00 UTC
+ InForce list
+ Canada
+ 1.NAVAREA XVIII WARNINGS IN FORCE AT 091100 UTC Oct 26:
+2021 SERIES: 56, 112.
+2022 SERIES: 113.
+2023 SERIES: 72.
+2025 SERIES: 14, 105, 106, 107, 108, 131, 140, 155, 156, 158, 160, 165, 166, 167, 168, 183.
+2026 SERIES: 50, 52, 93, 94, 102, 106, 107, 108, 109, 110, 112, 114, 117, 118, 119, 120, 121, 124, 125.
+NOTES:
+A. NAVAREA XVIII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVIII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVIII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVIII 122/2026.
+ Cancels NAVAREA XVIII 122/2026
+ NAVAREA XVIII 121/2026
+ 68° 27.660'N 113° 23.366'W
+ 2026-09-26 23:51 UTC
+ Scientific Instruments Change
+ Coronation Gulf, 
+ Dolphin And Union Strait
+ 7710(WGS84)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 27.660N 113 23.366W, DEPTH OF WATER 44M. MOORING EXTENDS 3M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 120/2026
+ 68° 20.730'N 112° 21.130'W
+ 2026-09-26 23:49 UTC
+ Scientific Instruments Change
+ Coronation Gulf
+ 7777(WGS84)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 20.730N 112 21.130W, DEPTH OF WATER 251M. MOORING EXTENDS 230M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 119/2026
+ 68° 55.720'N 105° 48.264'W
+ 2026-09-26 19:53 UTC
+ Scientific Instruments Change
+ Shipping Safety Control Zone 11
+ - Dease Strait
+ 7750(NAD83), 
+ 7782(NAD83)
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-55.72N 105-48.26W, DEPTH OF SEAFLOOR 127M. MOORING EXTENDS 107M FROM THE SEA FLOOR.
+2. CANCELS NAVAREA XVIII 111/26
+ Cancels NAVAREA XVIII 111/2026
+ NAVAREA XVIII 118/2026
+ 68° 23.730'N 110° 00.910'W
+ 2026-09-26 19:48 UTC
+ Scientific Instruments Change
+ Shipping Safety Control Zone 11
+ - Coronation Gulf
+ 7778(NAD83)
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.73N 110-00.91W, DEPTH OF SEA FLOOR 243M. MOORING EXTENDS 222M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 115/26
+ Cancels NAVAREA XVIII 115/2026
+ NAVAREA XVIII 117/2026
+ 68° 23.750'N 109° 59.540'W
+ 2026-09-26 19:45 UTC
+ Scientific Instruments Change
+ Coronation Gulf
+ - Coronation Gulf
+ 7778(NAD83)
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.75N 109 59.54W, DEPTH OF SEA FLOOR 236M. MOORING EXTENDS 2M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 116/26
+ Cancels NAVAREA XVIII 116/2026
+ NAVAREA XVIII 114/2026
+ 68° 13.158'N 110° 57.312'W
+ 2026-09-26 06:01 UTC
+ Aids to Navigation
+ Arctic
+ 7778(NAD83)
+ BEACON PERMANENTLY REMOVED
+ Aids: 
+ Day beacon 10M south of Outpost Island 
+ NAVAREA XVIII 112/2026
+ 68° 55.943'N 105° 49.655'W
+ 2026-09-24 23:03 UTC
+ Scientific Instruments Change
+ Dease Strait
+ - Dease Strait
+ 7750(NAD83), 
+ 7782(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-55.94N 105-49.66W, TOP FLOAT 122M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 110/2026
+ 68° 48.946'N 105° 06.532'W
+ 2026-09-24 22:57 UTC
+ Scientific Instruments Change
+ Queen Maud Gulf
+ - Queen Maud Gulf
+ 7783(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-48.95N 105-06.53W, TOP FLOAT 69M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 109/2026
+ 68° 39.930'N 103° 00.865'W
+ 2026-09-24 05:42 UTC
+ Scientific Instruments Change
+ Queen Maud Gulf
+ - Queen Maud Gulf
+ 7783(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.93N 103-00.86W, TOP FLOAT 126M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 108/2026
+ 68° 53.415'N 101° 31.152'W
+ 2026-09-24 05:42 UTC
+ Scientific Instruments Change
+ Queen Maud Gulf
+ - Victoria Strait
+ 7783(NAD83), 
+ 7784(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-53.41N 101-31.15W, TOP FLOAT 49M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 107/2026
+ 68° 39.460'N 098° 51.580'W
+ 2026-09-22 19:59 UTC
+ Scientific Instruments Change
+ King William Island, 
+ Queen Maud Gulf
+ - Storis Passage
+ 7738(WGS84)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.46N 098-51.58W, TOP FLOAT 77M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 106/2026
+ 69° 42.020'N 095° 42.640'W
+ 69° 36.600'N 095° 20.920'W
+ 2026-09-22 18:10 UTC
+ Scientific Instruments Change
+ King William Island
+ - James Ross Strait
+ 7739(WGS84)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED 2M ABOVE THE SEAFLOOR:
+A. 69-42.02N 095-42.64W, DEPTH OF 43M
+B. 69-36.60N 095-20.92W, DEPTH OF 38M 
+ NAVAREA XVIII 102/2026
+ 70° 30.045'N 116° 04.695'W
+ 70° 32.047'N 115° 59.062'W
+ 2026-09-17 15:34 UTC
+ Uncharted Rock
+ Victoria Island
+ - Diamond Jenness Peninsula
+ 7668(NAD27)
+ ROCK DEPTH 0.3M, LOCATED IN 70-30.05N 116-04.70W.
+ROCK LOCATED IN 70-32.05N 115-59.06W.
+ NAVAREA XVII 90/2026
+ 69° 37.437'N 135° 29.262'W
+ 2026-09-15 15:46 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea
+ - Beluga Bay
+ 7662(NAD83)
+ 1. PELLY ISLAND RACON, 69-37N 135-29W, RACON AND DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 85/26.
+ Aids: 
+ Pelly Island Racon 
+ Cancels NAVAREA XVII 85/2026
+ NAVAREA XVII 89/2026
+ 69° 09.243'N 136° 10.665'W
+ 2026-09-15 15:39 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea
+ - Mackenzie Bay
+ 7662(NAD83)
+ 1. PITT ISLAND RACON, 69-09N 136-11W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 92/25
+ Aids: 
+ Pitt Island Racon
+ Cancels NAVAREA XVII 92/2025
+ NAVAREA XVII 88/2026
+ 69° 00.489'N 137° 34.362'W
+ 2026-09-15 15:31 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea
+ - Mackenzie Bay
+ 7661(NAD27), 
+ 7662(NAD83)
+ 1. SHINGLE POINT RACON, 69-00N 137-34W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCEL NAVAREA XVII 58/22
+ Aids: 
+ Shingle Point Racon
+ Cancels NAVAREA XVII 58/2022
+ NAVAREA XVII 84/2026
+ 70° 08.753'N 130° 49.667'W
+ 2026-09-09 16:00 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea, 
+ Shipping Safety Control Zone 12
+ 7600(NAD83), 
+ 7620(NAD83), 
+ 7663(NAD83), 
+ 7664(NAD27)
+ RELIEF ISLET RACON 70-08.75N 130-49.67W INOPERATIVE
+ Aids: 
+ Relief Islet Racon
+ NAVAREA XVIII 94/2026
+ 68° 16.145'N 066° 01.064'W
+ 68° 15.591'N 066° 01.092'W
+ 68° 15.293'N 066° 01.131'W
+ 68° 13.734'N 065° 47.637'W
+ 68° 12.837'N 065° 44.466'W
+ 68° 12.617'N 065° 42.887'W
+ 68° 12.932'N 065° 41.997'W
+ 68° 12.635'N 065° 44.177'W
+ 2026-09-01 21:52 UTC
+ Shallow Depth Confirmed
+ Arctic
+ 7053(NAD83), 
+ 7193(NAD83)
+ SHOALS OF UNKNOWN DEPTH LOCATED AT:
+A. 68-16.14N 066-01.06W
+B. 68-15.59N 066-01.09W
+C. 68-15.29N 066-01.13W
+D. 68-13.73N 065-47.64W
+E. 68-12.84N 065-44.47W
+F. 68-12.62N 065-42.89W
+G. 68-12.93N 065-41.98W
+H. 68-12.63N 065-44.18W
+ NAVAREA XVIII 93/2026
+ 69° 00.166'N 100° 38.947'W
+ 2026-08-31 21:23 UTC
+ Aids to Navigation
+ Arctic
+ 7784(NAD83)
+ 1. ROYAL GEOGRAPHIC SOCIETY ISLAND DAY BEACON AT 69-00N 100-39W RE-ESTABLISHED TO 69-00.17N 100 38.95W.
+2. CANCELS NAVAREA XVIII 91/26 AND NAVAREA XVIII 92/26.
+ Aids: 
+ Royal Geographic Society Island day beacon 
+ Cancels NAVAREA XVIII 92/2026
+ NAVAREA XVIII 52/2026
+ 64° 09.017'N 083° 22.367'W (Coral Harbour)
+ 2026-07-13 14:47 UTC
+ Seasonal Open/Close
+ Arctic
+ MF AND HF SERVICES LOCATED AT CORAL HARBOUR OFF AIR 131430 UTC JULY 2026.
+ NAVAREA XVIII 50/2026
+ 71° 53.577'N 080° 51.373'W
+ 2026-07-07 15:13 UTC
+ Subsurface Mooring
+ Arctic
+ 7513(WGS84)
+ SUBSURFACE MOORING DEPLOYED IN 71-53.57N 080-51.37W AT 071306 UTC JUL 2026. TOP OF MOORING 0.4M FROM THE SEABED, DEPTH OF WATER 12M. 
+ THIS MOORING WILL REMAIN DEPLOYED UNTIL THE END OF THE 2027 NAVIGATIONAL SEASON. 
+ NAVAREA XVIII 183/2025
+ 71° 21.075'N 096° 53.896'W
+ 2025-10-20 16:08 UTC
+ Waterway Information
+ Arctic
+ - Franklin Strait
+ 7573(NAD83)
+ SHOALS LOCATED AT:
+ 71 21.06N 096 53.90W, DEPTH UNKNOWN
+ NAVAREA XVIII 168/2025
+ 76° 42.978'N 097° 01.044'W
+ 76° 32.826'N 097° 29.964'W
+ 76° 32.436'N 097° 30.168'W
+ 2025-10-02 13:56 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7950(NAD83), 
+ 7951
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 76-42.98N 097-01.04W, DEPTH OF 289M, TOP OF MOORING 29M, MOORING LENGTH 260M.
+B) 76-32.83N 097-29.96W, DEPTH OF 156M, TOP OF MOORING 43M, MOORING LENGTH 115M.
+C) 76-32.44N 097-30.17W, DEPTH OF 146M, TOP OF MOORING 61M, MOORING LENGTH 85M.
+ NAVAREA XVIII 167/2025
+ 80° 01.080'N 086° 49.542'W
+ 80° 01.290'N 086° 48.990'W
+ 2025-10-02 13:54 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7940(NAD27), 
+ 7941(NAD83)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 80-01.08N 086-49.54W, DEPTH OF 547M, TOP OF MOORING 162M, MOORING LENGTH 385M.
+B) 80-01.29N 086-48.99W, DEPTH OF 547M, TOP OF MOORING 527M, MOORING LENGTH 20M.
+ NAVAREA XVIII 166/2025
+ 81° 05.664'N 091° 34.854'W
+ 81° 06.414'N 090° 19.398'W
+ 2025-10-02 13:53 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7941(NAD83)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 81-05.66N 091-34.85W, DEPTH OF 492M, TOP OF MOORING 227M, MOORING LENGTH 265M.
+B) 81-06.41N 090-19.40W, DEPTH OF 417M, TOP OF MOORING 77M, MOORING LENGTH 340M.
+ NAVAREA XVIII 165/2025
+ 75° 52.806'N 104° 05.322'W
+ 75° 49.356'N 105° 15.558'W
+ 2025-10-02 13:47 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7980(NAD27)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 75-52.81N 104-05.32W, DEPTH OF 207M, TOP OF MOORING 90M, MOORING LENGTH 117M.
+B) 75-49.36N 105-15.56W, DEPTH OF 181M, TOP OF MOORING 28M, MOORING LENGTH 153M.
+ NAVAREA XVIII 160/2025
+ 71° 22.816'N 096° 41.268'W
+ 71° 22.047'N 096° 40.732'W
+ 71° 21.533'N 096° 45.789'W
+ 71° 21.200'N 096° 44.653'W
+ 71° 20.589'N 096° 45.338'W
+ 71° 18.282'N 096° 49.029'W
+ 71° 17.445'N 096° 48.787'W
+ 2025-10-01 03:49 UTC
+ Waterway Information
+ Shipping Safety Control Zone 6
+ 7575(NAD83)
+ SHALLOW DEPTHS REPORTED:
+ 29.3M, 71-22.82N 096-41.27W
+26.6M, 71-22.05N 096-40.73W
+11.3M, 71-21.53N 096-45.79W
+11.3M, 71-21.20N 096-44.65W
+28.4M, 71-20.59N 096-45.34W
+28.35M, 71-18.28N 096-49.03W
+41M, 71-17.44N 096-48.79W
+ NAVAREA XVIII 158/2025
+ 76° 40.356'N 102° 16.622'W
+ 2025-09-29 18:09 UTC
+ Waterway Information
+ Queen Elizabeth Islands
+ 7980(NAD27)
+ SHALLOW DEPTH REPORTED, 33.57M, 76-40.36N 102-16.622W.
+ NAVAREA XVIII 156/2025
+ 71° 18.038'N 096° 52.611'W
+ 2025-09-27 19:08 UTC
+ Waterway Information
+ Peel Sound
+ - Franklin Strait
+ 7575(NAD83)
+ Shallow depth reported 71-18.04N 096-52.61W,  37.6 meters
+ NAVAREA XVIII 155/2025
+ 71° 21.823'N 096° 47.186'W
+ 2025-09-27 12:34 UTC
+ Waterway Information
+ Peel Sound
+ - Franklin Strait
+ 7575(NAD83)
+ Shallow depths reported:
+ 71-21.82N 096-47.19W  42 meters
+ NAVAREA XVII 95/2025
+ 71° 44.060'N 155° 09.840'W
+ 71° 47.780'N 155° 20.810'W
+ 71° 40.380'N 154° 59.990'W
+ 2025-09-01 12:31 UTC
+ Obstruction
+ Arctic, 
+ Beaufort Sea
+ 1. SCIENTIFIC MOORINGS ESTABLISHED:
+A. 71-44.06N 155-09.84W, TOP FLOAT 20 METERS
+B. 71-47.78N 155-20.81W, TOP FLOAT 20 METERS
+C. 71-40.38N 154-59.99W, TOP FLOAT 20 METERS
+2. CANCELS NAVAREA XVII 127/24
+ Cancels NAVAREA XVII 127/2024
+ NAVAREA XVII 94/2025
+ 74° 31.370'N 161° 55.880'W
+ 2025-09-01 12:29 UTC
+ Obstruction
+ Arctic
+ - BEAUFORT SEA
+ 16003(NAD83)
+ 1. SEDIMENT TRAP ESTABLISHED 74-31.37N 161-55.88W, TOP FLOAT 30 METERS, TOTAL LENGTH 1655 METERS.
+2. CANCELS NAVAREA XVII 128/24.
+ Cancels NAVAREA XVII 128/2024
+ NAVAREA XVIII 140/2025
+ 74° 38.628'N 091° 20.535'W
+ 2025-08-30 20:38 UTC
+ Waterway Information
+ Parry Channel
+ - Barrow Strait
+ 7527(WGS84)
+ SHALLOW DEPTH REPORTED, 13.6 METERS, 74-38.628N 091-20.535W. DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 131/2025
+ 74° 39.714'N 091° 18.591'W
+ 74° 39.865'N 091° 18.314'W
+ 74° 39.961'N 091° 18.389'W
+ 74° 40.290'N 091° 18.351'W
+ 2025-08-20 07:49 UTC
+ Waterway information
+ Shipping Safety Control Zone 13
+ 7527(WGS84), 
+ 7569(WGS84)
+ SHALLOW DEPTHS REPORTED:
+ 74-39.71N 091-18.59W   7.1M
+74-39.87N 091-18.31W   8.0M
+74-39.96N 091-18.39W   17.1M
+74-40.29N 091-18.35W   12.7M
+ DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 108/2025
+ 69° 05.495'N 104° 56.858'W
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE REAR LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #2 LL 2523
+ NAVAREA XVIII 107/2025
+ 69° 05.247'N 104° 57.052'W
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE FRONT LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay #2 range front light LL 2522
+ NAVAREA XVIII 106/2025
+ 69° 02.323'N 104° 53.018'W
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE REAR LIGHT 1 69-02N 104-53W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #1 LL 2521
+ NAVAREA XVIII 105/2025
+ 69° 02.392'N 104° 54.982'W
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE FRONT LIGHT 1 69-02N 104-55W NON RELIABLE
+ Aids: 
+ Cambridge Bay #1 range front light LL 2520
+ NAVAREA XVII 7/2025
+ 71° 23.680'N 152° 03.150'W
+ 71° 18.494'N 152° 08.144'W
+ 2025-02-04 17:18 UTC
+ Obstruction
+ Beaufort Sea
+ NOAA 16004(NAD83)
+ 1. Scientific sub-surface mooring AON/BS3 established 71-23.81N 152-00.19W depth 153 metres.
+2. Scientific sub-surface mooring AON/BS1 established 71-18.49N 152-08.14W depth 57 metres.
+3. Cancel NAVAREA XVII 51/19
+ Cancels NAVAREA XVII 51/2019
+ NAVAREA XVIII 72/2023
+ 78° 19.411'N 073° 11.537'W
+ 2023-09-20 19:57 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7071(ARPHOT), 
+ 7071(ARPHOT), 
+ 7302(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING ESTABLISHED 78-19.41N 073-11.54W, TOP FLOAT 196 METRES.
+ NAVAREA XVII 53/2023
+ 69° 46.406'N 134° 24.070'W
+ 2023-08-14 22:03 UTC
+ Aids to Navigation
+ Beaufort Sea
+ 7662(NAD83), 
+ 7663(NAD83)
+ PULLEN ISLAND LIGHT 69 46.406N 134 24.070W, RACON X-BAND INOPERATIVE
+ Aids: 
+ Pullen Island light LL 2503
+ NAVAREA XVIII 113/2022
+ 71° 08.070'N 070° 49.510'W
+ 2023-01-04 21:51 UTC
+ Obstruction
+ Arctic
+ - Scott Inlet
+ 7565(NAD83)
+ Scientific subsurface mooring established 71-08.07N 070-49.51W, depth of 248 metres.
+ NAVAREA XVIII 112/2021
+ 70° 42.590'N 117° 51.210'W
+ 2023-01-04 20:05 UTC
+ Obstruction
+ Arctic
+ - Diamond Jenness Peninsula
+ 7668(NAD27)
+ Subsurface mooring established 70-42.59N 117-51.21W, top float 37 metres.
+ NAVAREA XVIII 56/2021
+ 69° 54.660'N 066° 48.420'W
+ 2023-01-04 16:27 UTC
+ Obstruction
+ Arctic
+ 7053(NAD83)
+ Scientific subsurface mooring established 69-54.66N 066-48.42W.
+Top float 221 metres.
+ NAVAREA XVII 92/2019
+ 70° 02.434'N 126° 18.404'W
+ 2022-12-21 21:40 UTC
+ Obstruction
+ Amundsen Gulf
+ - Franklin Bay
+ 7665(NAD27)
+ 1.Scientific sub-surface mooring established 70-02.434N 126-18.404W top float 223 metres
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ Table 
+ Export / Print 
+ CSV - Current page (utf-8)
+ CSV - Current page (utf-8-bom)
+ CSV - All results [Limit 2000] (utf-8)
+ CSV - All results [Limit 2000] (utf-8-bom)
+ PDF - Current page
+ Print - Current page
+ Print - All results [Limit 2000]
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ ID 
+ Date 
+ Title 
+ Areas 
+ Charts 
+ Description 
+ NAVAREA XVIII 136/2026
+ 2026-10-15 19:03 UTC
+ Scientific Instruments Change
+ Arctic
+ 7010(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 72-00.07N 065-30.13W, DEPTH OF WATER 2322M.  TOP FLOATS ARE 2319M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 135/2026
+ 2026-10-15 18:44 UTC
+ Scientific Instruments Change
+ Davis Strait
+ 7010(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 67-15.88N 054-28.81W, DEPTH OF WATER 62M.  TOP FLOATS ARE 19 M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 133/2026
+ 2026-10-13 02:31 UTC
+ Shallow Depth Confirmed
+ Arctic
+ - Pelly Bay
+ 7578(NAD83)
+ SHOALER DEPTHS CONFIRMED IN:  
+ 69-10.53N 089-33.30W, DEPTH 5.3 METRES.
+69-11.93N 089-33.11W, DEPTH 7.5 METRES. 
+ Cancels NAVAREA XVIII 132/2026
+ NAVAREA XVII 101/2026
+ 2026-10-09 11:30 UTC
+ InForce list
+ Canada
+ 1.NAVAREA XVII WARNINGS IN FORCE AT 091130 UTC Oct 26:
+2019 SERIES: 92.
+2023 SERIES: 53.
+2025 SERIES: 7, 94, 95.
+2026 SERIES: 83, 84, 88, 89, 90, 100, 101.
+NOTES:
+A. NAVAREA XVII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVII 98/2026.
+ Cancels NAVAREA XVII 98/2026
+ NAVAREA XVIII 125/2026
+ 2026-10-09 11:00 UTC
+ InForce list
+ Canada
+ 1.NAVAREA XVIII WARNINGS IN FORCE AT 091100 UTC Oct 26:
+2021 SERIES: 56, 112.
+2022 SERIES: 113.
+2023 SERIES: 72.
+2025 SERIES: 14, 105, 106, 107, 108, 131, 140, 155, 156, 158, 160, 165, 166, 167, 168, 183.
+2026 SERIES: 50, 52, 93, 94, 102, 106, 107, 108, 109, 110, 112, 114, 117, 118, 119, 120, 121, 124, 125.
+NOTES:
+A. NAVAREA XVIII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVIII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVIII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVIII 122/2026.
+ Cancels NAVAREA XVIII 122/2026
+ NAVAREA XVIII 121/2026
+ 2026-09-26 23:51 UTC
+ Scientific Instruments Change
+ Coronation Gulf, 
+ Dolphin And Union Strait
+ 7710(WGS84)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 27.660N 113 23.366W, DEPTH OF WATER 44M. MOORING EXTENDS 3M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 120/2026
+ 2026-09-26 23:49 UTC
+ Scientific Instruments Change
+ Coronation Gulf
+ 7777(WGS84)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 20.730N 112 21.130W, DEPTH OF WATER 251M. MOORING EXTENDS 230M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 119/2026
+ 2026-09-26 19:53 UTC
+ Scientific Instruments Change
+ Shipping Safety Control Zone 11
+ - Dease Strait
+ 7750(NAD83), 
+ 7782(NAD83)
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-55.72N 105-48.26W, DEPTH OF SEAFLOOR 127M. MOORING EXTENDS 107M FROM THE SEA FLOOR.
+2. CANCELS NAVAREA XVIII 111/26
+ Cancels NAVAREA XVIII 111/2026
+ NAVAREA XVIII 118/2026
+ 2026-09-26 19:48 UTC
+ Scientific Instruments Change
+ Shipping Safety Control Zone 11
+ - Coronation Gulf
+ 7778(NAD83)
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.73N 110-00.91W, DEPTH OF SEA FLOOR 243M. MOORING EXTENDS 222M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 115/26
+ Cancels NAVAREA XVIII 115/2026
+ NAVAREA XVIII 117/2026
+ 2026-09-26 19:45 UTC
+ Scientific Instruments Change
+ Coronation Gulf
+ - Coronation Gulf
+ 7778(NAD83)
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.75N 109 59.54W, DEPTH OF SEA FLOOR 236M. MOORING EXTENDS 2M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 116/26
+ Cancels NAVAREA XVIII 116/2026
+ NAVAREA XVIII 114/2026
+ 2026-09-26 06:01 UTC
+ Aids to Navigation
+ Arctic
+ 7778(NAD83)
+ BEACON PERMANENTLY REMOVED
+ Aids: 
+ Day beacon 10M south of Outpost Island 
+ NAVAREA XVIII 112/2026
+ 2026-09-24 23:03 UTC
+ Scientific Instruments Change
+ Dease Strait
+ - Dease Strait
+ 7750(NAD83), 
+ 7782(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-55.94N 105-49.66W, TOP FLOAT 122M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 110/2026
+ 2026-09-24 22:57 UTC
+ Scientific Instruments Change
+ Queen Maud Gulf
+ - Queen Maud Gulf
+ 7783(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-48.95N 105-06.53W, TOP FLOAT 69M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 109/2026
+ 2026-09-24 05:42 UTC
+ Scientific Instruments Change
+ Queen Maud Gulf
+ - Queen Maud Gulf
+ 7783(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.93N 103-00.86W, TOP FLOAT 126M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 108/2026
+ 2026-09-24 05:42 UTC
+ Scientific Instruments Change
+ Queen Maud Gulf
+ - Victoria Strait
+ 7783(NAD83), 
+ 7784(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-53.41N 101-31.15W, TOP FLOAT 49M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 107/2026
+ 2026-09-22 19:59 UTC
+ Scientific Instruments Change
+ King William Island, 
+ Queen Maud Gulf
+ - Storis Passage
+ 7738(WGS84)
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.46N 098-51.58W, TOP FLOAT 77M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 106/2026
+ 2026-09-22 18:10 UTC
+ Scientific Instruments Change
+ King William Island
+ - James Ross Strait
+ 7739(WGS84)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED 2M ABOVE THE SEAFLOOR:
+A. 69-42.02N 095-42.64W, DEPTH OF 43M
+B. 69-36.60N 095-20.92W, DEPTH OF 38M 
+ NAVAREA XVIII 102/2026
+ 2026-09-17 15:34 UTC
+ Uncharted Rock
+ Victoria Island
+ - Diamond Jenness Peninsula
+ 7668(NAD27)
+ ROCK DEPTH 0.3M, LOCATED IN 70-30.05N 116-04.70W.
+ROCK LOCATED IN 70-32.05N 115-59.06W.
+ NAVAREA XVII 90/2026
+ 2026-09-15 15:46 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea
+ - Beluga Bay
+ 7662(NAD83)
+ 1. PELLY ISLAND RACON, 69-37N 135-29W, RACON AND DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 85/26.
+ Aids: 
+ Pelly Island Racon 
+ Cancels NAVAREA XVII 85/2026
+ NAVAREA XVII 89/2026
+ 2026-09-15 15:39 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea
+ - Mackenzie Bay
+ 7662(NAD83)
+ 1. PITT ISLAND RACON, 69-09N 136-11W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 92/25
+ Aids: 
+ Pitt Island Racon
+ Cancels NAVAREA XVII 92/2025
+ NAVAREA XVII 88/2026
+ 2026-09-15 15:31 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea
+ - Mackenzie Bay
+ 7661(NAD27), 
+ 7662(NAD83)
+ 1. SHINGLE POINT RACON, 69-00N 137-34W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCEL NAVAREA XVII 58/22
+ Aids: 
+ Shingle Point Racon
+ Cancels NAVAREA XVII 58/2022
+ NAVAREA XVII 84/2026
+ 2026-09-09 16:00 UTC
+ Aids to Navigation - Racon
+ Beaufort Sea, 
+ Shipping Safety Control Zone 12
+ 7600(NAD83), 
+ 7620(NAD83), 
+ 7663(NAD83), 
+ 7664(NAD27)
+ RELIEF ISLET RACON 70-08.75N 130-49.67W INOPERATIVE
+ Aids: 
+ Relief Islet Racon
+ NAVAREA XVIII 94/2026
+ 2026-09-01 21:52 UTC
+ Shallow Depth Confirmed
+ Arctic
+ 7053(NAD83), 
+ 7193(NAD83)
+ SHOALS OF UNKNOWN DEPTH LOCATED AT:
+A. 68-16.14N 066-01.06W
+B. 68-15.59N 066-01.09W
+C. 68-15.29N 066-01.13W
+D. 68-13.73N 065-47.64W
+E. 68-12.84N 065-44.47W
+F. 68-12.62N 065-42.89W
+G. 68-12.93N 065-41.98W
+H. 68-12.63N 065-44.18W
+ NAVAREA XVIII 93/2026
+ 2026-08-31 21:23 UTC
+ Aids to Navigation
+ Arctic
+ 7784(NAD83)
+ 1. ROYAL GEOGRAPHIC SOCIETY ISLAND DAY BEACON AT 69-00N 100-39W RE-ESTABLISHED TO 69-00.17N 100 38.95W.
+2. CANCELS NAVAREA XVIII 91/26 AND NAVAREA XVIII 92/26.
+ Aids: 
+ Royal Geographic Society Island day beacon 
+ Cancels NAVAREA XVIII 92/2026
+ NAVAREA XVIII 52/2026
+ 2026-07-13 14:47 UTC
+ Seasonal Open/Close
+ Arctic
+ MF AND HF SERVICES LOCATED AT CORAL HARBOUR OFF AIR 131430 UTC JULY 2026.
+ NAVAREA XVIII 50/2026
+ 2026-07-07 15:13 UTC
+ Subsurface Mooring
+ Arctic
+ 7513(WGS84)
+ SUBSURFACE MOORING DEPLOYED IN 71-53.57N 080-51.37W AT 071306 UTC JUL 2026. TOP OF MOORING 0.4M FROM THE SEABED, DEPTH OF WATER 12M. 
+ THIS MOORING WILL REMAIN DEPLOYED UNTIL THE END OF THE 2027 NAVIGATIONAL SEASON. 
+ NAVAREA XVIII 183/2025
+ 2025-10-20 16:08 UTC
+ Waterway Information
+ Arctic
+ - Franklin Strait
+ 7573(NAD83)
+ SHOALS LOCATED AT:
+ 71 21.06N 096 53.90W, DEPTH UNKNOWN
+ NAVAREA XVIII 168/2025
+ 2025-10-02 13:56 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7950(NAD83), 
+ 7951
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 76-42.98N 097-01.04W, DEPTH OF 289M, TOP OF MOORING 29M, MOORING LENGTH 260M.
+B) 76-32.83N 097-29.96W, DEPTH OF 156M, TOP OF MOORING 43M, MOORING LENGTH 115M.
+C) 76-32.44N 097-30.17W, DEPTH OF 146M, TOP OF MOORING 61M, MOORING LENGTH 85M.
+ NAVAREA XVIII 167/2025
+ 2025-10-02 13:54 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7940(NAD27), 
+ 7941(NAD83)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 80-01.08N 086-49.54W, DEPTH OF 547M, TOP OF MOORING 162M, MOORING LENGTH 385M.
+B) 80-01.29N 086-48.99W, DEPTH OF 547M, TOP OF MOORING 527M, MOORING LENGTH 20M.
+ NAVAREA XVIII 166/2025
+ 2025-10-02 13:53 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7941(NAD83)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 81-05.66N 091-34.85W, DEPTH OF 492M, TOP OF MOORING 227M, MOORING LENGTH 265M.
+B) 81-06.41N 090-19.40W, DEPTH OF 417M, TOP OF MOORING 77M, MOORING LENGTH 340M.
+ NAVAREA XVIII 165/2025
+ 2025-10-02 13:47 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7980(NAD27)
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 75-52.81N 104-05.32W, DEPTH OF 207M, TOP OF MOORING 90M, MOORING LENGTH 117M.
+B) 75-49.36N 105-15.56W, DEPTH OF 181M, TOP OF MOORING 28M, MOORING LENGTH 153M.
+ NAVAREA XVIII 160/2025
+ 2025-10-01 03:49 UTC
+ Waterway Information
+ Shipping Safety Control Zone 6
+ 7575(NAD83)
+ SHALLOW DEPTHS REPORTED:
+ 29.3M, 71-22.82N 096-41.27W
+26.6M, 71-22.05N 096-40.73W
+11.3M, 71-21.53N 096-45.79W
+11.3M, 71-21.20N 096-44.65W
+28.4M, 71-20.59N 096-45.34W
+28.35M, 71-18.28N 096-49.03W
+41M, 71-17.44N 096-48.79W
+ NAVAREA XVIII 158/2025
+ 2025-09-29 18:09 UTC
+ Waterway Information
+ Queen Elizabeth Islands
+ 7980(NAD27)
+ SHALLOW DEPTH REPORTED, 33.57M, 76-40.36N 102-16.622W.
+ NAVAREA XVIII 156/2025
+ 2025-09-27 19:08 UTC
+ Waterway Information
+ Peel Sound
+ - Franklin Strait
+ 7575(NAD83)
+ Shallow depth reported 71-18.04N 096-52.61W,  37.6 meters
+ NAVAREA XVIII 155/2025
+ 2025-09-27 12:34 UTC
+ Waterway Information
+ Peel Sound
+ - Franklin Strait
+ 7575(NAD83)
+ Shallow depths reported:
+ 71-21.82N 096-47.19W  42 meters
+ NAVAREA XVII 95/2025
+ 2025-09-01 12:31 UTC
+ Obstruction
+ Arctic, 
+ Beaufort Sea
+ 1. SCIENTIFIC MOORINGS ESTABLISHED:
+A. 71-44.06N 155-09.84W, TOP FLOAT 20 METERS
+B. 71-47.78N 155-20.81W, TOP FLOAT 20 METERS
+C. 71-40.38N 154-59.99W, TOP FLOAT 20 METERS
+2. CANCELS NAVAREA XVII 127/24
+ Cancels NAVAREA XVII 127/2024
+ NAVAREA XVII 94/2025
+ 2025-09-01 12:29 UTC
+ Obstruction
+ Arctic
+ - BEAUFORT SEA
+ 16003(NAD83)
+ 1. SEDIMENT TRAP ESTABLISHED 74-31.37N 161-55.88W, TOP FLOAT 30 METERS, TOTAL LENGTH 1655 METERS.
+2. CANCELS NAVAREA XVII 128/24.
+ Cancels NAVAREA XVII 128/2024
+ NAVAREA XVIII 140/2025
+ 2025-08-30 20:38 UTC
+ Waterway Information
+ Parry Channel
+ - Barrow Strait
+ 7527(WGS84)
+ SHALLOW DEPTH REPORTED, 13.6 METERS, 74-38.628N 091-20.535W. DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 131/2025
+ 2025-08-20 07:49 UTC
+ Waterway information
+ Shipping Safety Control Zone 13
+ 7527(WGS84), 
+ 7569(WGS84)
+ SHALLOW DEPTHS REPORTED:
+ 74-39.71N 091-18.59W   7.1M
+74-39.87N 091-18.31W   8.0M
+74-39.96N 091-18.39W   17.1M
+74-40.29N 091-18.35W   12.7M
+ DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 108/2025
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE REAR LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #2 LL 2523
+ NAVAREA XVIII 107/2025
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE FRONT LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay #2 range front light LL 2522
+ NAVAREA XVIII 106/2025
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE REAR LIGHT 1 69-02N 104-53W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #1 LL 2521
+ NAVAREA XVIII 105/2025
+ 2025-08-08 17:39 UTC
+ Aids to Navigation
+ Dease Strait, 
+ Queen Maud Gulf
+ - Cambridge Bay
+ 7750(NAD83)
+ CAMBRIDGE BAY RANGE FRONT LIGHT 1 69-02N 104-55W NON RELIABLE
+ Aids: 
+ Cambridge Bay #1 range front light LL 2520
+ NAVAREA XVII 7/2025
+ 2025-02-04 17:18 UTC
+ Obstruction
+ Beaufort Sea
+ NOAA 16004(NAD83)
+ 1. Scientific sub-surface mooring AON/BS3 established 71-23.81N 152-00.19W depth 153 metres.
+2. Scientific sub-surface mooring AON/BS1 established 71-18.49N 152-08.14W depth 57 metres.
+3. Cancel NAVAREA XVII 51/19
+ Cancels NAVAREA XVII 51/2019
+ NAVAREA XVIII 72/2023
+ 2023-09-20 19:57 UTC
+ Obstruction
+ Queen Elizabeth Islands
+ 7071(ARPHOT), 
+ 7071(ARPHOT), 
+ 7302(NAD83)
+ SUBSURFACE SCIENTIFIC MOORING ESTABLISHED 78-19.41N 073-11.54W, TOP FLOAT 196 METRES.
+ NAVAREA XVII 53/2023
+ 2023-08-14 22:03 UTC
+ Aids to Navigation
+ Beaufort Sea
+ 7662(NAD83), 
+ 7663(NAD83)
+ PULLEN ISLAND LIGHT 69 46.406N 134 24.070W, RACON X-BAND INOPERATIVE
+ Aids: 
+ Pullen Island light LL 2503
+ NAVAREA XVIII 113/2022
+ 2023-01-04 21:51 UTC
+ Obstruction
+ Arctic
+ - Scott Inlet
+ 7565(NAD83)
+ Scientific subsurface mooring established 71-08.07N 070-49.51W, depth of 248 metres.
+ NAVAREA XVIII 112/2021
+ 2023-01-04 20:05 UTC
+ Obstruction
+ Arctic
+ - Diamond Jenness Peninsula
+ 7668(NAD27)
+ Subsurface mooring established 70-42.59N 117-51.21W, top float 37 metres.
+ NAVAREA XVIII 56/2021
+ 2023-01-04 16:27 UTC
+ Obstruction
+ Arctic
+ 7053(NAD83)
+ Scientific subsurface mooring established 69-54.66N 066-48.42W.
+Top float 221 metres.
+ NAVAREA XVII 92/2019
+ 2022-12-21 21:40 UTC
+ Obstruction
+ Amundsen Gulf
+ - Franklin Bay
+ 7665(NAD27)
+ 1.Scientific sub-surface mooring established 70-02.434N 126-18.404W top float 223 metres
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ Compact 
+ Export / Print 
+ PDF - Current page
+ Print - Current page
+ Print - All results [Limit 2000]
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ ID 
+ Date 
+ Charts 
+ Title 
+ NAVAREA XVIII 136/2026
+ 2026-10-15 19:03 UTC
+ 7010(NAD83)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 72-00.07N 065-30.13W, DEPTH OF WATER 2322M.  TOP FLOATS ARE 2319M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 135/2026
+ 2026-10-15 18:44 UTC
+ 7010(NAD83)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYE IN 67-15.88N 054-28.81W, DEPTH OF WATER 62M.  TOP FLOATS ARE 19 M FROM THE SURFACE. MOORINGS TO REMAIN IN PLACE FOR 2 YEARS.
+ NAVAREA XVIII 133/2026
+ 2026-10-13 02:31 UTC
+ 7578(NAD83)
+ Shallow Depth Confirmed
+ SHOALER DEPTHS CONFIRMED IN:  
+ 69-10.53N 089-33.30W, DEPTH 5.3 METRES.
+69-11.93N 089-33.11W, DEPTH 7.5 METRES. 
+ Cancels NAVAREA XVIII 132/2026
+ NAVAREA XVII 101/2026
+ 2026-10-09 11:30 UTC
+ InForce list
+ 1.NAVAREA XVII WARNINGS IN FORCE AT 091130 UTC Oct 26:
+2019 SERIES: 92.
+2023 SERIES: 53.
+2025 SERIES: 7, 94, 95.
+2026 SERIES: 83, 84, 88, 89, 90, 100, 101.
+NOTES:
+A. NAVAREA XVII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVII 98/2026.
+ Cancels NAVAREA XVII 98/2026
+ NAVAREA XVIII 125/2026
+ 2026-10-09 11:00 UTC
+ InForce list
+ 1.NAVAREA XVIII WARNINGS IN FORCE AT 091100 UTC Oct 26:
+2021 SERIES: 56, 112.
+2022 SERIES: 113.
+2023 SERIES: 72.
+2025 SERIES: 14, 105, 106, 107, 108, 131, 140, 155, 156, 158, 160, 165, 166, 167, 168, 183.
+2026 SERIES: 50, 52, 93, 94, 102, 106, 107, 108, 109, 110, 112, 114, 117, 118, 119, 120, 121, 124, 125.
+NOTES:
+A. NAVAREA XVIII WARNINGS LESS THAN 42 DAYS OLD ARE PROMULGATED VIA SAFETYNET AND SAFETYCAST.
+B. THE COMPLETE TEXTS OF ALL IN-FORCE NAVAREA XVIII WARNINGS ARE AVAILABLE FROM THE CANADIAN COAST GUARD WEBSITE AT HTTPS://WWW.CCG-GCC.GC.CA/MCTS-SCTM/NAVWARN-AVNAV-CA-ENG.HTML. ALTERNATIVELY, THESE MAY BE REQUESTED BY EMAIL FROM NAVAREA XVIII OPERATIONS AT NAVAREA17.18@INNAV.GC.CA.
+2. CANCEL NAVAREA XVIII 122/2026.
+ Cancels NAVAREA XVIII 122/2026
+ NAVAREA XVIII 121/2026
+ 2026-09-26 23:51 UTC
+ 7710(WGS84)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 27.660N 113 23.366W, DEPTH OF WATER 44M. MOORING EXTENDS 3M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 120/2026
+ 2026-09-26 23:49 UTC
+ 7777(WGS84)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68 20.730N 112 21.130W, DEPTH OF WATER 251M. MOORING EXTENDS 230M FROM THE SEA FLOOR. MOORING TO REMAIN IN PLACE FOR A FULL YEAR.
+ NAVAREA XVIII 119/2026
+ 2026-09-26 19:53 UTC
+ 7750(NAD83), 
+ 7782(NAD83)
+ Scientific Instruments Change
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-55.72N 105-48.26W, DEPTH OF SEAFLOOR 127M. MOORING EXTENDS 107M FROM THE SEA FLOOR.
+2. CANCELS NAVAREA XVIII 111/26
+ Cancels NAVAREA XVIII 111/2026
+ NAVAREA XVIII 118/2026
+ 2026-09-26 19:48 UTC
+ 7778(NAD83)
+ Scientific Instruments Change
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.73N 110-00.91W, DEPTH OF SEA FLOOR 243M. MOORING EXTENDS 222M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 115/26
+ Cancels NAVAREA XVIII 115/2026
+ NAVAREA XVIII 117/2026
+ 2026-09-26 19:45 UTC
+ 7778(NAD83)
+ Scientific Instruments Change
+ 1. SUBSURFACE SCIENTIFIC MOORING DEPLOYED IN 68-23.75N 109 59.54W, DEPTH OF SEA FLOOR 236M. MOORING EXTENDS 2M FROM THE SEA FLOOR. MOORING TO BE REMAINING IN PLACE FOR A FULL YEAR.
+2. CANCELS NAVAREA XVIII 116/26
+ Cancels NAVAREA XVIII 116/2026
+ NAVAREA XVIII 114/2026
+ 2026-09-26 06:01 UTC
+ 7778(NAD83)
+ Aids to Navigation
+ BEACON PERMANENTLY REMOVED
+ Aids: 
+ Day beacon 10M south of Outpost Island 
+ NAVAREA XVIII 112/2026
+ 2026-09-24 23:03 UTC
+ 7750(NAD83), 
+ 7782(NAD83)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-55.94N 105-49.66W, TOP FLOAT 122M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 110/2026
+ 2026-09-24 22:57 UTC
+ 7783(NAD83)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-48.95N 105-06.53W, TOP FLOAT 69M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 109/2026
+ 2026-09-24 05:42 UTC
+ 7783(NAD83)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.93N 103-00.86W, TOP FLOAT 126M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 108/2026
+ 2026-09-24 05:42 UTC
+ 7783(NAD83), 
+ 7784(NAD83)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-53.41N 101-31.15W, TOP FLOAT 49M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 107/2026
+ 2026-09-22 19:59 UTC
+ 7738(WGS84)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORING DEPLOYED, 68-39.46N 098-51.58W, TOP FLOAT 77M, 2M ABOVE SEA FLOOR
+ NAVAREA XVIII 106/2026
+ 2026-09-22 18:10 UTC
+ 7739(WGS84)
+ Scientific Instruments Change
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED 2M ABOVE THE SEAFLOOR:
+A. 69-42.02N 095-42.64W, DEPTH OF 43M
+B. 69-36.60N 095-20.92W, DEPTH OF 38M 
+ NAVAREA XVIII 102/2026
+ 2026-09-17 15:34 UTC
+ 7668(NAD27)
+ Uncharted Rock
+ ROCK DEPTH 0.3M, LOCATED IN 70-30.05N 116-04.70W.
+ROCK LOCATED IN 70-32.05N 115-59.06W.
+ NAVAREA XVII 90/2026
+ 2026-09-15 15:46 UTC
+ 7662(NAD83)
+ Aids to Navigation - Racon
+ 1. PELLY ISLAND RACON, 69-37N 135-29W, RACON AND DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 85/26.
+ Aids: 
+ Pelly Island Racon 
+ Cancels NAVAREA XVII 85/2026
+ NAVAREA XVII 89/2026
+ 2026-09-15 15:39 UTC
+ 7662(NAD83)
+ Aids to Navigation - Racon
+ 1. PITT ISLAND RACON, 69-09N 136-11W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCELS NAVAREA XVII 92/25
+ Aids: 
+ Pitt Island Racon
+ Cancels NAVAREA XVII 92/2025
+ NAVAREA XVII 88/2026
+ 2026-09-15 15:31 UTC
+ 7661(NAD27), 
+ 7662(NAD83)
+ Aids to Navigation - Racon
+ 1. SHINGLE POINT RACON, 69-00N 137-34W, PERMANENTLY REMOVED, DAYBEACON TEMPORARILY OUT OF SERVICE.
+2. CANCEL NAVAREA XVII 58/22
+ Aids: 
+ Shingle Point Racon
+ Cancels NAVAREA XVII 58/2022
+ NAVAREA XVII 84/2026
+ 2026-09-09 16:00 UTC
+ 7600(NAD83), 
+ 7620(NAD83), 
+ 7663(NAD83), 
+ 7664(NAD27)
+ Aids to Navigation - Racon
+ RELIEF ISLET RACON 70-08.75N 130-49.67W INOPERATIVE
+ Aids: 
+ Relief Islet Racon
+ NAVAREA XVIII 94/2026
+ 2026-09-01 21:52 UTC
+ 7053(NAD83), 
+ 7193(NAD83)
+ Shallow Depth Confirmed
+ SHOALS OF UNKNOWN DEPTH LOCATED AT:
+A. 68-16.14N 066-01.06W
+B. 68-15.59N 066-01.09W
+C. 68-15.29N 066-01.13W
+D. 68-13.73N 065-47.64W
+E. 68-12.84N 065-44.47W
+F. 68-12.62N 065-42.89W
+G. 68-12.93N 065-41.98W
+H. 68-12.63N 065-44.18W
+ NAVAREA XVIII 93/2026
+ 2026-08-31 21:23 UTC
+ 7784(NAD83)
+ Aids to Navigation
+ 1. ROYAL GEOGRAPHIC SOCIETY ISLAND DAY BEACON AT 69-00N 100-39W RE-ESTABLISHED TO 69-00.17N 100 38.95W.
+2. CANCELS NAVAREA XVIII 91/26 AND NAVAREA XVIII 92/26.
+ Aids: 
+ Royal Geographic Society Island day beacon 
+ Cancels NAVAREA XVIII 92/2026
+ NAVAREA XVIII 52/2026
+ 2026-07-13 14:47 UTC
+ Seasonal Open/Close
+ MF AND HF SERVICES LOCATED AT CORAL HARBOUR OFF AIR 131430 UTC JULY 2026.
+ NAVAREA XVIII 50/2026
+ 2026-07-07 15:13 UTC
+ 7513(WGS84)
+ Subsurface Mooring
+ SUBSURFACE MOORING DEPLOYED IN 71-53.57N 080-51.37W AT 071306 UTC JUL 2026. TOP OF MOORING 0.4M FROM THE SEABED, DEPTH OF WATER 12M. 
+ THIS MOORING WILL REMAIN DEPLOYED UNTIL THE END OF THE 2027 NAVIGATIONAL SEASON. 
+ NAVAREA XVIII 183/2025
+ 2025-10-20 16:08 UTC
+ 7573(NAD83)
+ Waterway Information
+ SHOALS LOCATED AT:
+ 71 21.06N 096 53.90W, DEPTH UNKNOWN
+ NAVAREA XVIII 168/2025
+ 2025-10-02 13:56 UTC
+ 7950(NAD83), 
+ 7951
+ Obstruction
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 76-42.98N 097-01.04W, DEPTH OF 289M, TOP OF MOORING 29M, MOORING LENGTH 260M.
+B) 76-32.83N 097-29.96W, DEPTH OF 156M, TOP OF MOORING 43M, MOORING LENGTH 115M.
+C) 76-32.44N 097-30.17W, DEPTH OF 146M, TOP OF MOORING 61M, MOORING LENGTH 85M.
+ NAVAREA XVIII 167/2025
+ 2025-10-02 13:54 UTC
+ 7940(NAD27), 
+ 7941(NAD83)
+ Obstruction
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 80-01.08N 086-49.54W, DEPTH OF 547M, TOP OF MOORING 162M, MOORING LENGTH 385M.
+B) 80-01.29N 086-48.99W, DEPTH OF 547M, TOP OF MOORING 527M, MOORING LENGTH 20M.
+ NAVAREA XVIII 166/2025
+ 2025-10-02 13:53 UTC
+ 7941(NAD83)
+ Obstruction
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 81-05.66N 091-34.85W, DEPTH OF 492M, TOP OF MOORING 227M, MOORING LENGTH 265M.
+B) 81-06.41N 090-19.40W, DEPTH OF 417M, TOP OF MOORING 77M, MOORING LENGTH 340M.
+ NAVAREA XVIII 165/2025
+ 2025-10-02 13:47 UTC
+ 7980(NAD27)
+ Obstruction
+ SUBSURFACE SCIENTIFIC MOORINGS DEPLOYED IN:
+ A) 75-52.81N 104-05.32W, DEPTH OF 207M, TOP OF MOORING 90M, MOORING LENGTH 117M.
+B) 75-49.36N 105-15.56W, DEPTH OF 181M, TOP OF MOORING 28M, MOORING LENGTH 153M.
+ NAVAREA XVIII 160/2025
+ 2025-10-01 03:49 UTC
+ 7575(NAD83)
+ Waterway Information
+ SHALLOW DEPTHS REPORTED:
+ 29.3M, 71-22.82N 096-41.27W
+26.6M, 71-22.05N 096-40.73W
+11.3M, 71-21.53N 096-45.79W
+11.3M, 71-21.20N 096-44.65W
+28.4M, 71-20.59N 096-45.34W
+28.35M, 71-18.28N 096-49.03W
+41M, 71-17.44N 096-48.79W
+ NAVAREA XVIII 158/2025
+ 2025-09-29 18:09 UTC
+ 7980(NAD27)
+ Waterway Information
+ SHALLOW DEPTH REPORTED, 33.57M, 76-40.36N 102-16.622W.
+ NAVAREA XVIII 156/2025
+ 2025-09-27 19:08 UTC
+ 7575(NAD83)
+ Waterway Information
+ Shallow depth reported 71-18.04N 096-52.61W,  37.6 meters
+ NAVAREA XVIII 155/2025
+ 2025-09-27 12:34 UTC
+ 7575(NAD83)
+ Waterway Information
+ Shallow depths reported:
+ 71-21.82N 096-47.19W  42 meters
+ NAVAREA XVII 95/2025
+ 2025-09-01 12:31 UTC
+ Obstruction
+ 1. SCIENTIFIC MOORINGS ESTABLISHED:
+A. 71-44.06N 155-09.84W, TOP FLOAT 20 METERS
+B. 71-47.78N 155-20.81W, TOP FLOAT 20 METERS
+C. 71-40.38N 154-59.99W, TOP FLOAT 20 METERS
+2. CANCELS NAVAREA XVII 127/24
+ Cancels NAVAREA XVII 127/2024
+ NAVAREA XVII 94/2025
+ 2025-09-01 12:29 UTC
+ 16003(NAD83)
+ Obstruction
+ 1. SEDIMENT TRAP ESTABLISHED 74-31.37N 161-55.88W, TOP FLOAT 30 METERS, TOTAL LENGTH 1655 METERS.
+2. CANCELS NAVAREA XVII 128/24.
+ Cancels NAVAREA XVII 128/2024
+ NAVAREA XVIII 140/2025
+ 2025-08-30 20:38 UTC
+ 7527(WGS84)
+ Waterway Information
+ SHALLOW DEPTH REPORTED, 13.6 METERS, 74-38.628N 091-20.535W. DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 131/2025
+ 2025-08-20 07:49 UTC
+ 7527(WGS84), 
+ 7569(WGS84)
+ Waterway information
+ SHALLOW DEPTHS REPORTED:
+ 74-39.71N 091-18.59W   7.1M
+74-39.87N 091-18.31W   8.0M
+74-39.96N 091-18.39W   17.1M
+74-40.29N 091-18.35W   12.7M
+ DEPTHS ARE REDUCED TO CHS CHART DATUM.
+ NAVAREA XVIII 108/2025
+ 2025-08-08 17:39 UTC
+ 7750(NAD83)
+ Aids to Navigation
+ CAMBRIDGE BAY RANGE REAR LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #2 LL 2523
+ NAVAREA XVIII 107/2025
+ 2025-08-08 17:39 UTC
+ 7750(NAD83)
+ Aids to Navigation
+ CAMBRIDGE BAY RANGE FRONT LIGHT 2 69-05N 104-57W NON RELIABLE
+ Aids: 
+ Cambridge Bay #2 range front light LL 2522
+ NAVAREA XVIII 106/2025
+ 2025-08-08 17:39 UTC
+ 7750(NAD83)
+ Aids to Navigation
+ CAMBRIDGE BAY RANGE REAR LIGHT 1 69-02N 104-53W NON RELIABLE
+ Aids: 
+ Cambridge Bay range rear light #1 LL 2521
+ NAVAREA XVIII 105/2025
+ 2025-08-08 17:39 UTC
+ 7750(NAD83)
+ Aids to Navigation
+ CAMBRIDGE BAY RANGE FRONT LIGHT 1 69-02N 104-55W NON RELIABLE
+ Aids: 
+ Cambridge Bay #1 range front light LL 2520
+ NAVAREA XVII 7/2025
+ 2025-02-04 17:18 UTC
+ NOAA 16004(NAD83)
+ Obstruction
+ 1. Scientific sub-surface mooring AON/BS3 established 71-23.81N 152-00.19W depth 153 metres.
+2. Scientific sub-surface mooring AON/BS1 established 71-18.49N 152-08.14W depth 57 metres.
+3. Cancel NAVAREA XVII 51/19
+ Cancels NAVAREA XVII 51/2019
+ NAVAREA XVIII 72/2023
+ 2023-09-20 19:57 UTC
+ 7071(ARPHOT), 
+ 7071(ARPHOT), 
+ 7302(NAD83)
+ Obstruction
+ SUBSURFACE SCIENTIFIC MOORING ESTABLISHED 78-19.41N 073-11.54W, TOP FLOAT 196 METRES.
+ NAVAREA XVII 53/2023
+ 2023-08-14 22:03 UTC
+ 7662(NAD83), 
+ 7663(NAD83)
+ Aids to Navigation
+ PULLEN ISLAND LIGHT 69 46.406N 134 24.070W, RACON X-BAND INOPERATIVE
+ Aids: 
+ Pullen Island light LL 2503
+ NAVAREA XVIII 113/2022
+ 2023-01-04 21:51 UTC
+ 7565(NAD83)
+ Obstruction
+ Scientific subsurface mooring established 71-08.07N 070-49.51W, depth of 248 metres.
+ NAVAREA XVIII 112/2021
+ 2023-01-04 20:05 UTC
+ 7668(NAD27)
+ Obstruction
+ Subsurface mooring established 70-42.59N 117-51.21W, top float 37 metres.
+ NAVAREA XVIII 56/2021
+ 2023-01-04 16:27 UTC
+ 7053(NAD83)
+ Obstruction
+ Scientific subsurface mooring established 69-54.66N 066-48.42W.
+Top float 221 metres.
+ NAVAREA XVII 92/2019
+ 2022-12-21 21:40 UTC
+ 7665(NAD27)
+ Obstruction
+ 1.Scientific sub-surface mooring established 70-02.434N 126-18.404W top float 223 metres
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ 1 
+ Showing results 1 to 50, from 50 total results. 
+ Report a problem on this page 
+ Please select all that apply: 
+ Something is broken 
+ Provide more details (optional): 
+ The page has spelling or grammar mistakes 
+ Provide more details (optional): 
+ The information is wrong 
+ Provide more details (optional): 
+ The information is outdated 
+ Provide more details (optional): 
+ I can't find what I'm looking for 
+ Describe what you're looking for (optional): 
+ Other 
+ Provide more details (optional): 
+ Privacy statement 
+ Privacy statement
+ Privacy statement, no sensible information will be sent.
+ Submit 
+ Thank you for your help!
+ You will not receive a reply. For enquiries, please contact us .
+ Date Modified: 
+ 2026-10-16 
+ About government
+ Contact us 
+ Departments and agencies 
+ Public service and military 
+ News 
+ Treaties, laws and regulations 
+ Government-wide reporting 
+ Prime Minister 
+ How government works 
+ Open government 
+ About this site
+ Social media 
+ Mobile applications 
+ About Canada.ca 
+ Terms and conditions 
+ Privacy 
+ Top of Page

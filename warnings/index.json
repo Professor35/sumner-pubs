@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T00:20:13.552Z",
+ "built": "2026-10-16T00:24:17.489Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 75293,
-   "fetched": "2026-10-16T00:20:14.231Z",
+   "bytes": 75313,
+   "fetched": "2026-10-16T00:24:18.234Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-16T00:20:15.156Z",
+   "fetched": "2026-10-16T00:24:18.975Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-16T00:20:15.920Z",
+   "fetched": "2026-10-16T00:24:19.767Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-16T00:20:16.129Z",
+   "fetched": "2026-10-16T00:24:19.984Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-16T00:20:17.376Z",
+   "fetched": "2026-10-16T00:24:21.070Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 19855,
-   "fetched": "2026-10-16T00:20:18.934Z",
+   "fetched": "2026-10-16T00:24:22.342Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-16T00:20:20.644Z",
+   "fetched": "2026-10-16T00:24:23.916Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-16T00:20:21.048Z",
+   "fetched": "2026-10-16T00:24:28.113Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-16T00:20:21.260Z",
+   "fetched": "2026-10-16T00:24:28.442Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 62506,
-   "fetched": "2026-10-16T00:20:22.007Z",
+   "fetched": "2026-10-16T00:24:29.457Z",
    "count": 6,
    "status": "ok"
   },
@@ -128,11 +128,11 @@
    "name": "Canadian Coast Guard (NAVAREA XVII and XVIII)",
    "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100",
    "kind": "page",
-   "http": 0,
-   "bytes": 0,
-   "fetched": "2026-10-16T00:20:32.135Z",
-   "count": 0,
-   "status": "unreachable"
+   "http": 200,
+   "bytes": 1215529,
+   "fetched": "2026-10-16T00:24:31.626Z",
+   "count": 50,
+   "status": "ok"
   },
   {
    "id": "navarea-19",
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8910,
-   "fetched": "2026-10-16T00:20:33.683Z",
+   "fetched": "2026-10-16T00:24:33.278Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 35081,
-   "fetched": "2026-10-16T00:20:34.028Z",
+   "fetched": "2026-10-16T00:24:33.707Z",
    "count": 149,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 16071,
-   "fetched": "2026-10-16T00:20:34.063Z",
+   "fetched": "2026-10-16T00:24:33.776Z",
    "count": 44,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 28875,
-   "fetched": "2026-10-16T00:20:34.092Z",
+   "fetched": "2026-10-16T00:24:33.828Z",
    "count": 100,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 43806,
-   "fetched": "2026-10-16T00:20:34.107Z",
+   "fetched": "2026-10-16T00:24:33.886Z",
    "count": 186,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9013,
-   "fetched": "2026-10-16T00:20:34.138Z",
+   "fetched": "2026-10-16T00:24:33.941Z",
    "count": 38,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -219,106 +219,10 @@
    "kind": "discover",
    "http": 200,
    "bytes": 9446,
-   "fetched": "2026-10-16T00:20:34.171Z",
+   "fetched": "2026-10-16T00:24:34.095Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
-  },
-  {
-   "id": "try-nga-current-4",
-   "area": "",
-   "name": "NGA current warnings, NAVAREA IV",
-   "url": "https://msi.nga.mil/api/publications/broadcast-warn/current-warnings?navArea=4",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 5873,
-   "fetched": "2026-10-16T00:20:35.294Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-nga-current-4b",
-   "area": "",
-   "name": "NGA current warnings, NAVAREA IV (json)",
-   "url": "https://msi.nga.mil/api/publications/broadcast-warn/current-warnings?navArea=4&output=json",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 5873,
-   "fetched": "2026-10-16T00:20:35.631Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-nga-latest-4",
-   "area": "",
-   "name": "NGA latest warning, NAVAREA IV",
-   "url": "https://msi.nga.mil/api/publications/broadcast-warn/latest-warning?navArea=4",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 31,
-   "fetched": "2026-10-16T00:20:35.958Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-fr-1",
-   "area": "",
-   "name": "SHOM api warnings",
-   "url": "https://portail.ping-info-nautique.fr/api/warnings",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 82543,
-   "fetched": "2026-10-16T00:20:36.684Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-fr-2",
-   "area": "",
-   "name": "SHOM api avurnav",
-   "url": "https://portail.ping-info-nautique.fr/api/avurnav-notice",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 82543,
-   "fetched": "2026-10-16T00:20:36.866Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-fr-3",
-   "area": "",
-   "name": "SHOM config",
-   "url": "https://portail.ping-info-nautique.fr/assets/config.json",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 82543,
-   "fetched": "2026-10-16T00:20:37.047Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-jp-html",
-   "area": "",
-   "name": "Japan page source",
-   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11_en.html",
-   "kind": "raw",
-   "http": 200,
-   "bytes": 15061,
-   "fetched": "2026-10-16T00:20:37.495Z",
-   "count": 0,
-   "status": "saved"
-  },
-  {
-   "id": "try-es-html",
-   "area": "",
-   "name": "Spain page source",
-   "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
-   "kind": "raw",
-   "http": 0,
-   "bytes": 0,
-   "fetched": "2026-10-16T00:20:47.672Z",
-   "count": 0,
-   "status": "unreachable"
   }
  ]
 }
