@@ -2,7 +2,7 @@ URL: https://msi.nga.mil/NavWarnings
 Final URL: https://msi.nga.mil/NavWarnings
 HTTP: 200 
 Type: text/html;charset=UTF-8
-Bytes: 9446
+Bytes: 9447
 
 Maritime Safety Information 
  This application does not support this version of Internet Explorer, please update to IE 9 or later.

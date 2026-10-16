@@ -1,6 +1,11 @@
 URL: http://www.sanho.co.za/_navarea7_bulletins/bulletin.htm
 Final URL: http://www.sanho.co.za/_navarea7_bulletins/bulletin.htm
-HTTP: 0 fetch failed
-Type: 
-Bytes: 0
+HTTP: 404 
+Type: text/html; charset=iso-8859-1
+Bytes: 355
 
+404 Not Found 
+ Not Found
+ The requested URL was not found on this server.
+ Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.
