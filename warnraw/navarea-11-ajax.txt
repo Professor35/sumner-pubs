@@ -1,0 +1,79 @@
+URL: https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/AjaxLib.js
+Final URL: https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/AjaxLib.js
+HTTP: 200 
+Type: application/javascript
+Bytes: 1810
+
+var xmlHttp;
+// ------------------------------------------------------------
+// XMLHttpRequest オブジェクトを作成する関数
+// ------------------------------------------------------------
+function XMLHttpRequestCreate(){
+ try{
+ return new XMLHttpRequest();
+ }catch(e){}
+ try{
+ return new ActiveXObject('MSXML2.XMLHTTP.6.0');
+ }catch(e){}
+ try{
+ return new ActiveXObject('MSXML2.XMLHTTP.3.0');
+ }catch(e){}
+ try{
+ return new ActiveXObject('MSXML2.XMLHTTP');
+ }catch(e){}
+ return null;
+}
+function getXmlHttpObject(cbFunc)
+{
+ var XMLhttpObject = null;
+ try{
+ XMLhttpObject = new XMLHttpRequest();
+ }catch(e){
+ try{
+ XMLhttpObject = new ActiveXObject("Msxml2.XMLHTTP");
+ }catch(e){
+ try{
+ XMLhttpObject = new ActiveXObject("Microsoft.XMLHTTP");
+ }catch(e){
+ return null;
+ }
+ }
+ }
+ if (XMLhttpObject) XMLhttpObject.onreadystatechange = cbFunc;
+ return XMLhttpObject;
+}
+function xmlHttp_Post(xmlhttp, url, message)
+{
+ if(xmlhttp == null) {
+ window.alert("Cant use XMLHttpRequest.");
+ }
+ xmlhttp.open("POST", url, true);
+ xmlhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset:UTF-8");
+ xmlhttp.send( message);
+}
+function XmlHttpSendMessage( message, sendurl, handler)
+{
+ var requestURL = sendurl;
+ xmlHttp = getXmlHttpObject( handler);
+ xmlHttp_Post( xmlHttp, sendurl, message);
+}
+function XmlHttpGetReadyStatus( )
+{
+ return( xmlHttp.readyState);
+}
+function XmlHttpGetStatus( )
+{
+ return( xmlHttp.status);
+}
+function XmlHttpGetStatusText( )
+{
+ return( xmlHttp.statusText);
+}
+function XmlHttpGetResponse( )
+{
+ return( xmlHttp.responseText);
+}
+function XmlHttpGetResponseXML( )
+{
+ return( xmlHttp.responseXML);
+}

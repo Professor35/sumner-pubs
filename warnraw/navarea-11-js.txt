@@ -1,0 +1,81 @@
+URL: https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/warnings.js
+Final URL: https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/warnings.js
+HTTP: 200 
+Type: application/javascript
+Bytes: 3785
+
+var showall = false;
+function onSubmit( obj_form) {
+ form = document.forms[ 'DISP'];
+ var msg = "";
+ if( showall) {
+ // 全て表示
+ $("input[type='checkbox']", $(obj_form)).each( function(){
+ msg += $(this).val() + ":";
+ });
+ } else {
+ // 選択した情報を表示
+ $("input[type='checkbox']:checked", $(obj_form)).each( function(){
+ msg += $(this).val() + ":";
+ });
+ }
+ if( msg == "") {
+ alert( none_seleced_warnnig);
+ }
+ else {
+ form.TYPE.value=type;
+ form.TANA.value=msg;
+ form.LANG.value=lang;
+ form.submit( );
+ }
+}
+// 更新ボタン
+function update( year) {
+ var table = document.getElementById( "tb_keiho_" + year);
+ while( table.rows["length"] > 1) {
+ table.deleteRow( table.rows["length"] - 1);
+ }
+ var msg = "YEAR=" + year + "&TYPE=" + type + "&LANG=" + lang;
+ var url = "https://" + cgihost + cgidir + "/warnings.cgi";
+ var xhr = XMLHttpRequestCreate();
+ xhr.open("POST", url, true);
+ xhr.setRequestHeader("Content-Type",
+ "application/x-www-form-urlencoded; charset:UTF-8");
+ xhr.send( msg);
+ xhr.onreadystatechange = function( )
+ {
+ if( xhr.readyState == 4) {
+ var xml = xhr.responseXML;
+ var member = xml.getElementsByTagName('Member');
+ if( member.length == 0) {
+ document.getElementById("tb_keiho_" + year).style.visibility = "hidden";
+ document.getElementById("ALLMAP_" + year).style.visibility = "hidden";
+ document.getElementById("CHKDATA_" + year).style.visibility = "hidden";
+ document.getElementById("NOMSG_" + year).style.display = "block";
+ }
+ else {
+ document.getElementById("tb_keiho_" + year).style.visibility = "visible";
+ document.getElementById("ALLMAP_" + year).style.visibility = "visible";
+ document.getElementById("CHKDATA_" + year).style.visibility = "visible";
+ document.getElementById("NOMSG_" + year).style.display = "none";
+ for( var i = 0; i ";
+ cell = insObj.insertCell( 1);
+ cell.innerHTML = num;
+ cell = insObj.insertCell( 2);
+ cell.innerHTML = categoly;
+ cell = insObj.insertCell( 3);
+ cell.align = "left";
+ cell.innerHTML = " " + title + " ";
+ cell = insObj.insertCell( 4);
+ cell.setAttribute("class","grayBtn");
+ if( visual == 1) {
+ cell.innerHTML = " " + visual_label + " ";
+ }
+ else {
+ cell.innerHTML = " ";
+ }
+ }
+ }
+ }
+ }
+}

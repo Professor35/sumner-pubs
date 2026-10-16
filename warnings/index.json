@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T00:11:32.899Z",
+ "built": "2026-10-16T00:16:37.819Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,7 +10,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 75293,
-   "fetched": "2026-10-16T00:11:33.558Z",
+   "fetched": "2026-10-16T00:16:38.439Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-16T00:11:34.803Z",
+   "fetched": "2026-10-16T00:16:39.212Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-16T00:11:35.586Z",
+   "fetched": "2026-10-16T00:16:39.916Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-16T00:11:35.783Z",
+   "fetched": "2026-10-16T00:16:40.112Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,21 +58,21 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-16T00:11:36.879Z",
+   "fetched": "2026-10-16T00:16:41.330Z",
    "count": 0,
-   "status": "unreachable"
+   "status": "blocks robots"
   },
   {
    "id": "navarea-10",
    "area": "X",
    "name": "AMSA, Australia (NAVAREA X)",
-   "url": "https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database",
+   "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 170152,
-   "fetched": "2026-10-16T00:11:38.163Z",
-   "count": 0,
-   "status": "no warnings read"
+   "bytes": 19855,
+   "fetched": "2026-10-16T00:16:42.857Z",
+   "count": 2,
+   "status": "ok"
   },
   {
    "id": "navarea-11",
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-16T00:11:38.967Z",
+   "fetched": "2026-10-16T00:16:43.920Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-16T00:11:39.076Z",
+   "fetched": "2026-10-16T00:16:44.198Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-16T00:11:39.339Z",
+   "fetched": "2026-10-16T00:16:46.531Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -114,24 +114,24 @@
    "id": "navarea-16",
    "area": "XVI",
    "name": "Dirección de Hidrografía y Navegación, Peru (NAVAREA XVI)",
-   "url": "https://www.dhn.mil.pe/portal/navarea",
+   "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 41269,
-   "fetched": "2026-10-16T00:11:40.314Z",
-   "count": 0,
-   "status": "no warnings read"
+   "bytes": 62506,
+   "fetched": "2026-10-16T00:16:47.018Z",
+   "count": 6,
+   "status": "ok"
   },
   {
    "id": "navarea-17-18",
    "area": "XVII",
    "name": "Canadian Coast Guard (NAVAREA XVII and XVIII)",
-   "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas",
+   "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100",
    "kind": "page",
    "http": 200,
-   "bytes": 1044757,
-   "fetched": "2026-10-16T00:11:42.391Z",
-   "count": 20,
+   "bytes": 1215529,
+   "fetched": "2026-10-16T00:16:49.345Z",
+   "count": 50,
    "status": "ok"
   },
   {
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8910,
-   "fetched": "2026-10-16T00:11:43.948Z",
+   "fetched": "2026-10-16T00:16:50.367Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 35081,
-   "fetched": "2026-10-16T00:11:45.347Z",
+   "fetched": "2026-10-16T00:16:50.738Z",
    "count": 149,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 16071,
-   "fetched": "2026-10-16T00:11:45.574Z",
+   "fetched": "2026-10-16T00:16:50.768Z",
    "count": 44,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 28875,
-   "fetched": "2026-10-16T00:11:45.801Z",
+   "fetched": "2026-10-16T00:16:50.799Z",
    "count": 100,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 43806,
-   "fetched": "2026-10-16T00:11:46.422Z",
+   "fetched": "2026-10-16T00:16:50.830Z",
    "count": 186,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9013,
-   "fetched": "2026-10-16T00:11:46.677Z",
+   "fetched": "2026-10-16T00:16:50.887Z",
    "count": 38,
    "asOf": "151500Z OCT",
    "status": "ok"
@@ -218,33 +218,83 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 200,
-   "bytes": 9445,
-   "fetched": "2026-10-16T00:11:46.929Z",
-   "count": 46,
+   "bytes": 9447,
+   "fetched": "2026-10-16T00:16:50.936Z",
+   "count": 94,
    "status": "ok",
    "scripts": 4
   },
   {
-   "id": "nga-api-v3",
+   "id": "navarea-2-code",
    "area": "",
-   "name": "NGA API description (v3)",
-   "url": "https://msi.nga.mil/api/v3/api-docs",
+   "name": "SHOM site code (where it loads warnings from)",
+   "url": "https://portail.ping-info-nautique.fr/avurnavnotice",
+   "kind": "discover",
+   "http": 200,
+   "bytes": 82543,
+   "fetched": "2026-10-16T00:16:52.011Z",
+   "count": 59,
+   "status": "ok",
+   "scripts": 3
+  },
+  {
+   "id": "navarea-3-code",
+   "area": "",
+   "name": "Spanish site code (where it loads warnings from)",
+   "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_radioavisos_es.htm",
+   "kind": "discover",
+   "http": 0,
+   "bytes": 0,
+   "fetched": "2026-10-16T00:17:03.060Z",
+   "count": 0,
+   "status": "nothing found",
+   "scripts": 0
+  },
+  {
+   "id": "navarea-11-js",
+   "area": "",
+   "name": "Japan Coast Guard warnings script",
+   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/warnings.js",
+   "kind": "raw",
+   "http": 200,
+   "bytes": 3785,
+   "fetched": "2026-10-16T00:17:03.468Z",
+   "count": 0,
+   "status": "saved"
+  },
+  {
+   "id": "navarea-11-ajax",
+   "area": "",
+   "name": "Japan Coast Guard data script",
+   "url": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/js/AjaxLib.js",
+   "kind": "raw",
+   "http": 200,
+   "bytes": 1810,
+   "fetched": "2026-10-16T00:17:03.891Z",
+   "count": 0,
+   "status": "saved"
+  },
+  {
+   "id": "nga-api-docs",
+   "area": "",
+   "name": "NGA API description",
+   "url": "https://msi.nga.mil/api/api-docs",
    "kind": "raw",
    "http": 404,
    "bytes": 275,
-   "fetched": "2026-10-16T00:11:47.458Z",
+   "fetched": "2026-10-16T00:17:04.223Z",
    "count": 0,
    "status": "unreachable"
   },
   {
-   "id": "nga-api-v2",
+   "id": "nga-swagger",
    "area": "",
-   "name": "NGA API description (v2)",
-   "url": "https://msi.nga.mil/api/v2/api-docs",
+   "name": "NGA API list",
+   "url": "https://msi.nga.mil/api/swagger-resources",
    "kind": "raw",
    "http": 404,
    "bytes": 275,
-   "fetched": "2026-10-16T00:11:47.740Z",
+   "fetched": "2026-10-16T00:17:04.558Z",
    "count": 0,
    "status": "unreachable"
   }

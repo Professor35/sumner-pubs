@@ -57,8 +57,6 @@ San Nicolás | https://www.naylamp.dhn.mil.pe/dhn2/secciones/Pronosticos/costero
 Mollendo | https://www.naylamp.dhn.mil.pe/dhn2/secciones/Pronosticos/costeropromollendo.php
 Ilo | https://www.naylamp.dhn.mil.pe/dhn2/secciones/Pronosticos/costeroproilo.php
 Videos | https://www.dhn.mil.pe/portal/videos-institucionales
-Ver Radioavisos | https://www.dhn.mil.pe/portal/navarea/radioavisos
-Ver Radioavisos | https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings
 Instagram | https://www.instagram.com/dihidronav/
 Youtube | https://www.youtube.com/channel/UCG4JCanwRBTY3TMk1fL7kQg
 Facebook | https://www.facebook.com/DHN.Peru
@@ -73,7 +71,7 @@ dihidronav@dhn.mil.pe | mailto:dihidronav@dhn.mil.pe
  | https://www.facebook.com/DHN.Peru
  | https://twitter.com/DHN_PERU
  | https://www.instagram.com/dihidronav/
-[form] | https://www.dhn.mil.pe/portal/include/subscribe.php
+[form] | https://www.dhn.mil.pe/portal/navarea/include/subscribe.php
 [form] | https://www.dhn.mil.pe/portal/buscar
 [script] | https://www.dhn.mil.pe/portal/js/jquery.js
 [script] | https://www.dhn.mil.pe/portal/js/plugins.min.js
@@ -95,6 +93,3 @@ dihidronav@dhn.mil.pe | mailto:dihidronav@dhn.mil.pe
 [script] | https://www.googletagmanager.com/gtag/js?id=G-HEFCY5X5H0
 [in page code] | https://www.dhn.mil.pe/portal/img/favicon/manifest.json
 [in page code] | https://www.dhn.mil.pe/portal/avisos-especiales
-[in page code] | https://www.dhn.mil.pe/portal/img/navega/navarea.jpg
-[in page code] | https://www.dhn.mil.pe/portal/navarea/radioavisos
-[in page code] | https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings
