@@ -1,5 +1,5 @@
 {
- "built": "2026-10-21T07:10:16.010Z",
+ "built": "2026-10-21T13:09:07.883Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 87714,
-   "fetched": "2026-10-21T07:10:16.838Z",
+   "bytes": 87694,
+   "fetched": "2026-10-21T13:09:08.495Z",
    "count": 5,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-21T07:10:17.741Z",
+   "fetched": "2026-10-21T13:09:09.178Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-21T07:10:18.542Z",
+   "fetched": "2026-10-21T13:09:12.175Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -45,8 +45,8 @@
    "url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radionautico-tela",
    "kind": "page",
    "http": 403,
-   "bytes": 5825,
-   "fetched": "2026-10-21T07:10:18.783Z",
+   "bytes": 5847,
+   "fetched": "2026-10-21T13:09:12.330Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-21T07:10:19.872Z",
+   "fetched": "2026-10-21T13:09:13.280Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 19860,
-   "fetched": "2026-10-21T07:10:21.128Z",
+   "fetched": "2026-10-21T13:09:15.164Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-21T07:10:22.017Z",
+   "fetched": "2026-10-21T13:09:16.125Z",
    "count": 22,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-21T07:10:26.088Z",
+   "fetched": "2026-10-21T13:09:21.394Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-21T07:10:26.412Z",
+   "fetched": "2026-10-21T13:09:21.610Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 57897,
-   "fetched": "2026-10-21T07:10:30.576Z",
+   "fetched": "2026-10-21T13:09:22.203Z",
    "count": 4,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1221957,
-   "fetched": "2026-10-21T07:10:33.163Z",
+   "fetched": "2026-10-21T13:09:24.125Z",
    "count": 50,
    "status": "ok"
   },
@@ -141,8 +141,8 @@
    "url": "http://www.navarea-xix.no/",
    "kind": "page",
    "http": 200,
-   "bytes": 9736,
-   "fetched": "2026-10-21T07:10:35.318Z",
+   "bytes": 8840,
+   "fetched": "2026-10-21T13:09:26.040Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 31008,
-   "fetched": "2026-10-21T07:10:36.699Z",
+   "fetched": "2026-10-21T13:09:26.884Z",
    "count": 141,
    "asOf": "201325Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 12964,
-   "fetched": "2026-10-21T07:10:36.862Z",
+   "fetched": "2026-10-21T13:09:27.034Z",
    "count": 40,
    "asOf": "201325Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29526,
-   "fetched": "2026-10-21T07:10:37.092Z",
+   "fetched": "2026-10-21T13:09:27.234Z",
    "count": 104,
    "asOf": "201325Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 41363,
-   "fetched": "2026-10-21T07:10:37.122Z",
+   "fetched": "2026-10-21T13:09:27.540Z",
    "count": 181,
    "asOf": "201325Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9422,
-   "fetched": "2026-10-21T07:10:37.155Z",
+   "fetched": "2026-10-21T13:09:27.714Z",
    "count": 40,
    "asOf": "201325Z OCT",
    "status": "ok"
@@ -218,8 +218,8 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 200,
-   "bytes": 9446,
-   "fetched": "2026-10-21T07:10:37.616Z",
+   "bytes": 9445,
+   "fetched": "2026-10-21T13:09:27.842Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
