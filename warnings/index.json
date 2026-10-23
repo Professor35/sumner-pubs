@@ -1,5 +1,5 @@
 {
- "built": "2026-10-22T19:03:08.637Z",
+ "built": "2026-10-23T01:08:54.865Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,7 +10,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 81577,
-   "fetched": "2026-10-22T19:03:09.314Z",
+   "fetched": "2026-10-23T01:08:55.520Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-22T19:03:10.112Z",
+   "fetched": "2026-10-23T01:08:56.305Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-22T19:03:10.889Z",
+   "fetched": "2026-10-23T01:08:57.103Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-22T19:03:11.100Z",
+   "fetched": "2026-10-23T01:08:57.353Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-22T19:03:12.305Z",
+   "fetched": "2026-10-23T01:08:58.419Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 19700,
-   "fetched": "2026-10-22T19:03:13.836Z",
+   "fetched": "2026-10-23T01:08:59.813Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-22T19:03:14.758Z",
+   "fetched": "2026-10-23T01:09:00.872Z",
    "count": 17,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-22T19:03:18.090Z",
+   "fetched": "2026-10-23T01:09:04.705Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-22T19:03:18.329Z",
+   "fetched": "2026-10-23T01:09:04.946Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 58202,
-   "fetched": "2026-10-22T19:03:19.166Z",
+   "fetched": "2026-10-23T01:09:05.681Z",
    "count": 4,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1221957,
-   "fetched": "2026-10-22T19:03:21.534Z",
+   "fetched": "2026-10-23T01:09:07.471Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8908,
-   "fetched": "2026-10-22T19:03:22.942Z",
+   "fetched": "2026-10-23T01:09:09.028Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 30344,
-   "fetched": "2026-10-22T19:03:24.121Z",
+   "fetched": "2026-10-23T01:09:11.032Z",
    "count": 144,
    "asOf": "221315Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 10921,
-   "fetched": "2026-10-22T19:03:24.421Z",
+   "fetched": "2026-10-23T01:09:11.263Z",
    "count": 36,
    "asOf": "221315Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29750,
-   "fetched": "2026-10-22T19:03:24.656Z",
+   "fetched": "2026-10-23T01:09:11.462Z",
    "count": 103,
    "asOf": "221315Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 40636,
-   "fetched": "2026-10-22T19:03:25.027Z",
+   "fetched": "2026-10-23T01:09:11.785Z",
    "count": 180,
    "asOf": "221315Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 10515,
-   "fetched": "2026-10-22T19:03:25.305Z",
+   "fetched": "2026-10-23T01:09:12.083Z",
    "count": 43,
    "asOf": "221315Z OCT",
    "status": "ok"
@@ -218,8 +218,8 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 200,
-   "bytes": 9446,
-   "fetched": "2026-10-22T19:03:25.507Z",
+   "bytes": 9445,
+   "fetched": "2026-10-23T01:09:12.221Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
