@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T01:12:01.670Z",
+ "built": "2026-10-24T07:04:56.630Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,7 +10,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 87556,
-   "fetched": "2026-10-24T01:12:02.113Z",
+   "fetched": "2026-10-24T07:04:57.102Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-24T01:12:02.913Z",
+   "fetched": "2026-10-24T07:04:57.800Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-24T01:12:03.463Z",
+   "fetched": "2026-10-24T07:05:00.109Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -45,8 +45,8 @@
    "url": "https://www.marinha.mil.br/chm/dados-do-segnav-aviso-radionautico-tela",
    "kind": "page",
    "http": 403,
-   "bytes": 5847,
-   "fetched": "2026-10-24T01:12:03.594Z",
+   "bytes": 5825,
+   "fetched": "2026-10-24T07:05:00.244Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-24T01:12:04.454Z",
+   "fetched": "2026-10-24T07:05:01.556Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 19703,
-   "fetched": "2026-10-24T01:12:06.254Z",
+   "fetched": "2026-10-24T07:05:03.081Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-24T01:12:07.166Z",
+   "fetched": "2026-10-24T07:05:04.022Z",
    "count": 17,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-24T01:12:11.426Z",
+   "fetched": "2026-10-24T07:05:08.339Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-24T01:12:11.551Z",
+   "fetched": "2026-10-24T07:05:08.449Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -117,8 +117,8 @@
    "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 59244,
-   "fetched": "2026-10-24T01:12:11.983Z",
+   "bytes": 59761,
+   "fetched": "2026-10-24T07:05:08.887Z",
    "count": 4,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1220427,
-   "fetched": "2026-10-24T01:12:13.892Z",
+   "fetched": "2026-10-24T07:05:11.583Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8908,
-   "fetched": "2026-10-24T01:12:14.613Z",
+   "fetched": "2026-10-24T07:05:12.942Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29445,
-   "fetched": "2026-10-24T01:12:15.297Z",
+   "fetched": "2026-10-24T07:05:13.679Z",
    "count": 122,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 11378,
-   "fetched": "2026-10-24T01:12:15.508Z",
+   "fetched": "2026-10-24T07:05:13.864Z",
    "count": 27,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29654,
-   "fetched": "2026-10-24T01:12:15.654Z",
+   "fetched": "2026-10-24T07:05:14.021Z",
    "count": 103,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 39992,
-   "fetched": "2026-10-24T01:12:15.954Z",
+   "fetched": "2026-10-24T07:05:14.456Z",
    "count": 170,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9794,
-   "fetched": "2026-10-24T01:12:16.087Z",
+   "fetched": "2026-10-24T07:05:14.634Z",
    "count": 43,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -219,7 +219,7 @@
    "kind": "discover",
    "http": 200,
    "bytes": 9445,
-   "fetched": "2026-10-24T01:12:16.136Z",
+   "fetched": "2026-10-24T07:05:14.799Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
