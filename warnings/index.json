@@ -1,5 +1,5 @@
 {
- "built": "2026-10-24T18:53:36.839Z",
+ "built": "2026-10-25T01:01:17.293Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 87576,
-   "fetched": "2026-10-24T18:53:37.329Z",
+   "bytes": 90611,
+   "fetched": "2026-10-25T01:01:18.009Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-24T18:53:38.161Z",
+   "fetched": "2026-10-25T01:01:18.842Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-24T18:53:38.681Z",
+   "fetched": "2026-10-25T01:01:19.639Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-24T18:53:38.854Z",
+   "fetched": "2026-10-25T01:01:19.862Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-24T18:53:39.693Z",
+   "fetched": "2026-10-25T01:01:20.950Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 19703,
-   "fetched": "2026-10-24T18:53:41.176Z",
+   "fetched": "2026-10-25T01:01:22.694Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-24T18:53:42.218Z",
+   "fetched": "2026-10-25T01:01:23.436Z",
    "count": 17,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-24T18:53:46.489Z",
+   "fetched": "2026-10-25T01:01:26.918Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-24T18:53:46.708Z",
+   "fetched": "2026-10-25T01:01:27.158Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 60302,
-   "fetched": "2026-10-24T18:53:46.989Z",
+   "fetched": "2026-10-25T01:01:27.905Z",
    "count": 4,
    "status": "ok"
   },
@@ -128,11 +128,12 @@
    "name": "Canadian Coast Guard (NAVAREA XVII and XVIII)",
    "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100",
    "kind": "page",
-   "http": 200,
-   "bytes": 1220427,
-   "fetched": "2026-10-24T18:53:48.576Z",
+   "http": 0,
+   "bytes": 0,
+   "fetched": "2026-10-25T01:02:12.956Z",
    "count": 50,
-   "status": "ok"
+   "status": "ok",
+   "kept": "2026-10-24T18:53:48.576Z"
   },
   {
    "id": "navarea-19",
@@ -142,7 +143,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8908,
-   "fetched": "2026-10-24T18:53:49.519Z",
+   "fetched": "2026-10-25T01:02:14.031Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +155,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29445,
-   "fetched": "2026-10-24T18:53:50.009Z",
+   "fetched": "2026-10-25T01:02:15.093Z",
    "count": 122,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -167,7 +168,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 11378,
-   "fetched": "2026-10-24T18:53:50.160Z",
+   "fetched": "2026-10-25T01:02:15.271Z",
    "count": 27,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -180,7 +181,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29654,
-   "fetched": "2026-10-24T18:53:50.193Z",
+   "fetched": "2026-10-25T01:02:15.463Z",
    "count": 103,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -193,7 +194,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 39992,
-   "fetched": "2026-10-24T18:53:50.300Z",
+   "fetched": "2026-10-25T01:02:15.976Z",
    "count": 170,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -206,7 +207,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9794,
-   "fetched": "2026-10-24T18:53:50.587Z",
+   "fetched": "2026-10-25T01:02:16.137Z",
    "count": 43,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -219,7 +220,7 @@
    "kind": "discover",
    "http": 200,
    "bytes": 9446,
-   "fetched": "2026-10-24T18:53:50.663Z",
+   "fetched": "2026-10-25T01:02:16.262Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
