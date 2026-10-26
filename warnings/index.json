@@ -1,5 +1,5 @@
 {
- "built": "2026-10-26T01:16:18.681Z",
+ "built": "2026-10-26T07:16:50.570Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 97016,
-   "fetched": "2026-10-26T01:16:19.323Z",
+   "bytes": 96932,
+   "fetched": "2026-10-26T07:16:53.175Z",
    "count": 5,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-26T01:16:20.096Z",
+   "fetched": "2026-10-26T07:16:54.292Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-26T01:16:20.877Z",
+   "fetched": "2026-10-26T07:16:55.183Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-26T01:16:21.074Z",
+   "fetched": "2026-10-26T07:16:55.713Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-26T01:16:22.276Z",
+   "fetched": "2026-10-26T07:16:56.901Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -69,8 +69,8 @@
    "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 18879,
-   "fetched": "2026-10-26T01:16:24.072Z",
+   "bytes": 18619,
+   "fetched": "2026-10-26T07:16:58.258Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-26T01:16:25.028Z",
+   "fetched": "2026-10-26T07:16:59.417Z",
    "count": 15,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-26T01:16:28.837Z",
+   "fetched": "2026-10-26T07:17:02.253Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-26T01:16:29.046Z",
+   "fetched": "2026-10-26T07:17:02.685Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -117,8 +117,8 @@
    "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 61304,
-   "fetched": "2026-10-26T01:16:29.656Z",
+   "bytes": 61805,
+   "fetched": "2026-10-26T07:17:03.940Z",
    "count": 4,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1220372,
-   "fetched": "2026-10-26T01:16:32.661Z",
+   "fetched": "2026-10-26T07:17:06.013Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8908,
-   "fetched": "2026-10-26T01:16:33.719Z",
+   "fetched": "2026-10-26T07:17:07.213Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29445,
-   "fetched": "2026-10-26T01:16:34.041Z",
+   "fetched": "2026-10-26T07:17:07.878Z",
    "count": 122,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 11378,
-   "fetched": "2026-10-26T01:16:34.104Z",
+   "fetched": "2026-10-26T07:17:07.949Z",
    "count": 27,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29654,
-   "fetched": "2026-10-26T01:16:34.165Z",
+   "fetched": "2026-10-26T07:17:08.070Z",
    "count": 103,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 39992,
-   "fetched": "2026-10-26T01:16:34.238Z",
+   "fetched": "2026-10-26T07:17:08.154Z",
    "count": 170,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9794,
-   "fetched": "2026-10-26T01:16:34.462Z",
+   "fetched": "2026-10-26T07:17:08.201Z",
    "count": 43,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -218,8 +218,8 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 200,
-   "bytes": 9449,
-   "fetched": "2026-10-26T01:16:34.527Z",
+   "bytes": 9446,
+   "fetched": "2026-10-26T07:17:08.385Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
