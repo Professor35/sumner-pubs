@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T18:55:03.607Z",
+ "built": "2026-10-26T01:16:18.681Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 100091,
-   "fetched": "2026-10-25T18:55:04.409Z",
+   "bytes": 97016,
+   "fetched": "2026-10-26T01:16:19.323Z",
    "count": 5,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-10-25T18:55:05.227Z",
+   "fetched": "2026-10-26T01:16:20.096Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-10-25T18:55:06.008Z",
+   "fetched": "2026-10-26T01:16:20.877Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-10-25T18:55:06.202Z",
+   "fetched": "2026-10-26T01:16:21.074Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-10-25T18:55:07.220Z",
+   "fetched": "2026-10-26T01:16:22.276Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -70,7 +70,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 18879,
-   "fetched": "2026-10-25T18:55:09.006Z",
+   "fetched": "2026-10-26T01:16:24.072Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-10-25T18:55:10.042Z",
+   "fetched": "2026-10-26T01:16:25.028Z",
    "count": 15,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-10-25T18:55:13.469Z",
+   "fetched": "2026-10-26T01:16:28.837Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-10-25T18:55:13.798Z",
+   "fetched": "2026-10-26T01:16:29.046Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 61304,
-   "fetched": "2026-10-25T18:55:14.448Z",
+   "fetched": "2026-10-26T01:16:29.656Z",
    "count": 4,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1220372,
-   "fetched": "2026-10-25T18:55:17.069Z",
+   "fetched": "2026-10-26T01:16:32.661Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 8908,
-   "fetched": "2026-10-25T18:55:18.818Z",
+   "fetched": "2026-10-26T01:16:33.719Z",
    "count": 3,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29445,
-   "fetched": "2026-10-25T18:55:19.217Z",
+   "fetched": "2026-10-26T01:16:34.041Z",
    "count": 122,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 11378,
-   "fetched": "2026-10-25T18:55:19.451Z",
+   "fetched": "2026-10-26T01:16:34.104Z",
    "count": 27,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 29654,
-   "fetched": "2026-10-25T18:55:19.542Z",
+   "fetched": "2026-10-26T01:16:34.165Z",
    "count": 103,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 39992,
-   "fetched": "2026-10-25T18:55:19.620Z",
+   "fetched": "2026-10-26T01:16:34.238Z",
    "count": 170,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 200,
    "bytes": 9794,
-   "fetched": "2026-10-25T18:55:19.835Z",
+   "fetched": "2026-10-26T01:16:34.462Z",
    "count": 43,
    "asOf": "231550Z OCT",
    "status": "ok"
@@ -219,7 +219,7 @@
    "kind": "discover",
    "http": 200,
    "bytes": 9449,
-   "fetched": "2026-10-25T18:55:20.051Z",
+   "fetched": "2026-10-26T01:16:34.527Z",
    "count": 94,
    "status": "ok",
    "scripts": 4
