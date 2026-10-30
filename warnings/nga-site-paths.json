@@ -2,10 +2,8 @@
  "scripts": [
   "https://msi.nga.mil/jquery.min.js",
   "https://msi.nga.mil/bootstrap.min.js",
-  "https://msi.nga.mil/jquery.min.js",
-  "https://msi.nga.mil/bootstrap.min.js",
   "https://www.google.com/recaptcha/api.js",
-  "https://msi.nga.mil/static/js/main.1d3685a1.js"
+  "https://msi.nga.mil/static/js/main.aed59dd5.js"
  ],
  "paths": [
   "../api/application/banner",
@@ -14,6 +12,7 @@
   "/NavWarnings",
   "/api/",
   "/api/application/classification",
+  "/api/application/config",
   "/api/auth/token",
   "/api/publications/download?key=",
   "/api/publications/download?key=16920949/SFH00000/Calculators/airtemp.html&type=view",
@@ -58,7 +57,6 @@
   "/manifest.json",
   "/subscribe?type=navWarnings",
   "?navArea=",
-  "?navArea=${n}",
   "BroadcastWarnings",
   "JSON",
   "NAPIER",
@@ -79,7 +77,6 @@
   "click.bs.dropdown.data-api",
   "click.bs.modal.data-api",
   "click.bs.tab.data-api",
-  "colorWarning",
   "file.xml",
   "has-warning",
   "https://www.google.com/recaptcha/api.js",
@@ -95,9 +92,6 @@
   "navArea=C",
   "navArea=P",
   "navWarnings",
-  "palette-warning-dark",
-  "palette-warning-light",
-  "palette-warning-main",
   "publications/broadcast-warn/current-warnings",
   "publications/broadcast-warn/latest-warning",
   "scroll.bs.affix.data-api",
@@ -105,14 +99,6 @@
   "selNavAreaSubregion",
   "suppressContentEditableWarning",
   "suppressHydrationWarning",
-  "warning",
-  "warningBg",
-  "warningColor",
-  "warningDisabledColor",
-  "warningFilledBg",
-  "warningFilledColor",
-  "warningIconColor",
-  "warningStandardBg",
-  "warningTrack"
+  "warning"
  ]
 }
