@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T01:30:31.796Z",
+ "built": "2026-11-01T07:25:56.255Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,7 +10,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 90777,
-   "fetched": "2026-11-01T01:30:32.422Z",
+   "fetched": "2026-11-01T07:25:56.736Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-11-01T01:30:33.121Z",
+   "fetched": "2026-11-01T07:25:57.690Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-11-01T01:30:33.866Z",
+   "fetched": "2026-11-01T07:25:58.225Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-11-01T01:30:34.069Z",
+   "fetched": "2026-11-01T07:25:58.358Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-11-01T01:30:35.322Z",
+   "fetched": "2026-11-01T07:25:59.638Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -69,8 +69,8 @@
    "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 19141,
-   "fetched": "2026-11-01T01:30:36.710Z",
+   "bytes": 18954,
+   "fetched": "2026-11-01T07:26:01.141Z",
    "count": 1,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-11-01T01:30:38.062Z",
+   "fetched": "2026-11-01T07:26:02.134Z",
    "count": 17,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-11-01T01:30:42.030Z",
+   "fetched": "2026-11-01T07:26:06.793Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-11-01T01:30:42.346Z",
+   "fetched": "2026-11-01T07:26:06.877Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -117,8 +117,8 @@
    "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 63412,
-   "fetched": "2026-11-01T01:30:42.870Z",
+   "bytes": 63150,
+   "fetched": "2026-11-01T07:26:07.257Z",
    "count": 4,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1226437,
-   "fetched": "2026-11-01T01:30:44.856Z",
+   "fetched": "2026-11-01T07:26:09.457Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 6515,
-   "fetched": "2026-11-01T01:30:46.326Z",
+   "fetched": "2026-11-01T07:26:10.696Z",
    "count": 2,
    "status": "ok"
   },
@@ -153,10 +153,10 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemIV.txt",
    "kind": "inforce",
    "http": 200,
-   "bytes": 29168,
-   "fetched": "2026-11-01T01:30:47.450Z",
-   "count": 124,
-   "asOf": "271740Z OCT 26",
+   "bytes": 29614,
+   "fetched": "2026-11-01T07:26:10.987Z",
+   "count": 127,
+   "asOf": "291425Z OCT",
    "status": "ok"
   },
   {
@@ -166,10 +166,10 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemXII.txt",
    "kind": "inforce",
    "http": 200,
-   "bytes": 10515,
-   "fetched": "2026-11-01T01:30:47.490Z",
-   "count": 31,
-   "asOf": "271740Z OCT 26",
+   "bytes": 12165,
+   "fetched": "2026-11-01T07:26:11.067Z",
+   "count": 33,
+   "asOf": "291425Z OCT",
    "status": "ok"
   },
   {
@@ -179,10 +179,10 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemLAN.txt",
    "kind": "inforce",
    "http": 200,
-   "bytes": 31490,
-   "fetched": "2026-11-01T01:30:47.530Z",
-   "count": 127,
-   "asOf": "271740Z OCT 26",
+   "bytes": 31970,
+   "fetched": "2026-11-01T07:26:11.113Z",
+   "count": 132,
+   "asOf": "291425Z OCT",
    "status": "ok"
   },
   {
@@ -192,10 +192,10 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemPAC.txt",
    "kind": "inforce",
    "http": 200,
-   "bytes": 37630,
-   "fetched": "2026-11-01T01:30:47.572Z",
-   "count": 186,
-   "asOf": "271740Z OCT 26",
+   "bytes": 41985,
+   "fetched": "2026-11-01T07:26:11.241Z",
+   "count": 200,
+   "asOf": "291425Z OCT",
    "status": "ok"
   },
   {
@@ -205,10 +205,10 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemARC.txt",
    "kind": "inforce",
    "http": 200,
-   "bytes": 9577,
-   "fetched": "2026-11-01T01:30:47.614Z",
-   "count": 45,
-   "asOf": "271740Z OCT 26",
+   "bytes": 9345,
+   "fetched": "2026-11-01T07:26:11.398Z",
+   "count": 46,
+   "asOf": "291425Z OCT",
    "status": "ok"
   },
   {
@@ -218,11 +218,11 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 200,
-   "bytes": 9484,
-   "fetched": "2026-11-01T01:30:47.655Z",
-   "count": 106,
+   "bytes": 9444,
+   "fetched": "2026-11-01T07:26:11.497Z",
+   "count": 94,
    "status": "ok",
-   "scripts": 6
+   "scripts": 4
   }
  ]
 }
