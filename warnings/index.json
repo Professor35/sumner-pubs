@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T06:18:53.322Z",
+ "built": "2026-11-08T13:38:53.880Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -10,7 +10,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 97688,
-   "fetched": "2026-11-08T06:18:53.817Z",
+   "fetched": "2026-11-08T13:38:55.086Z",
    "count": 4,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-11-08T06:18:54.496Z",
+   "fetched": "2026-11-08T13:38:55.951Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-11-08T06:18:55.067Z",
+   "fetched": "2026-11-08T13:38:56.664Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-11-08T06:18:55.249Z",
+   "fetched": "2026-11-08T13:38:56.882Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 404,
    "bytes": 355,
-   "fetched": "2026-11-08T06:18:56.076Z",
+   "fetched": "2026-11-08T13:38:57.829Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -69,9 +69,9 @@
    "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 20696,
-   "fetched": "2026-11-08T06:18:57.936Z",
-   "count": 4,
+   "bytes": 20511,
+   "fetched": "2026-11-08T13:38:59.744Z",
+   "count": 3,
    "status": "ok"
   },
   {
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-11-08T06:18:59.118Z",
+   "fetched": "2026-11-08T13:39:00.850Z",
    "count": 19,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-11-08T06:19:03.877Z",
+   "fetched": "2026-11-08T13:39:05.212Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-11-08T06:19:04.038Z",
+   "fetched": "2026-11-08T13:39:05.478Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -118,7 +118,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 52908,
-   "fetched": "2026-11-08T06:19:05.848Z",
+   "fetched": "2026-11-08T13:39:05.996Z",
    "count": 3,
    "status": "ok"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1222896,
-   "fetched": "2026-11-08T06:19:07.637Z",
+   "fetched": "2026-11-08T13:39:07.823Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 6535,
-   "fetched": "2026-11-08T06:19:08.790Z",
+   "fetched": "2026-11-08T13:39:09.274Z",
    "count": 2,
    "status": "ok"
   },
@@ -153,8 +153,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemIV.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 17446,
-   "fetched": "2026-11-08T06:19:09.100Z",
+   "bytes": 17447,
+   "fetched": "2026-11-08T13:39:09.604Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-08T06:19:09.213Z",
+   "fetched": "2026-11-08T13:39:09.781Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-08T06:19:09.341Z",
+   "fetched": "2026-11-08T13:39:09.970Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-08T06:19:09.494Z",
+   "fetched": "2026-11-08T13:39:15.107Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-08T06:19:09.677Z",
+   "fetched": "2026-11-08T13:39:15.225Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -219,7 +219,7 @@
    "kind": "discover",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-08T06:19:09.898Z",
+   "fetched": "2026-11-08T13:39:15.346Z",
    "count": 6,
    "status": "ok",
    "scripts": 1
