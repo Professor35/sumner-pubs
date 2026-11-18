@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T21:05:21.099Z",
+ "built": "2026-11-18T07:42:07.008Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 94625,
-   "fetched": "2026-11-17T21:05:21.642Z",
+   "bytes": 94645,
+   "fetched": "2026-11-18T07:42:07.482Z",
    "count": 3,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-11-17T21:05:22.381Z",
+   "fetched": "2026-11-18T07:42:08.007Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-11-17T21:05:23.171Z",
+   "fetched": "2026-11-18T07:42:08.586Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-11-17T21:05:23.401Z",
+   "fetched": "2026-11-18T07:42:08.741Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -56,9 +56,9 @@
    "name": "South African Navy Hydrographic Office (NAVAREA VII)",
    "url": "https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm",
    "kind": "page",
-   "http": 404,
-   "bytes": 355,
-   "fetched": "2026-11-17T21:05:24.806Z",
+   "http": 403,
+   "bytes": 107,
+   "fetched": "2026-11-18T07:42:09.774Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -69,8 +69,8 @@
    "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 20773,
-   "fetched": "2026-11-17T21:05:26.305Z",
+   "bytes": 20960,
+   "fetched": "2026-11-18T07:42:11.790Z",
    "count": 2,
    "status": "ok"
   },
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-11-17T21:05:27.616Z",
+   "fetched": "2026-11-18T07:42:12.797Z",
    "count": 18,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-11-17T21:05:31.638Z",
+   "fetched": "2026-11-18T07:42:17.291Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-11-17T21:05:31.810Z",
+   "fetched": "2026-11-18T07:42:17.439Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -117,8 +117,8 @@
    "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 49245,
-   "fetched": "2026-11-17T21:05:32.424Z",
+   "bytes": 49511,
+   "fetched": "2026-11-18T07:42:17.877Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -130,7 +130,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 1229019,
-   "fetched": "2026-11-17T21:05:34.630Z",
+   "fetched": "2026-11-18T07:42:20.688Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 6515,
-   "fetched": "2026-11-17T21:05:36.057Z",
+   "fetched": "2026-11-18T07:42:21.918Z",
    "count": 2,
    "status": "ok"
   },
@@ -154,7 +154,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-17T21:05:36.826Z",
+   "fetched": "2026-11-18T07:42:27.402Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-17T21:05:37.794Z",
+   "fetched": "2026-11-18T07:42:27.564Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-17T21:05:38.152Z",
+   "fetched": "2026-11-18T07:42:27.731Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-17T21:05:38.576Z",
+   "fetched": "2026-11-18T07:42:27.905Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-17T21:05:39.461Z",
+   "fetched": "2026-11-18T07:42:28.316Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -219,7 +219,7 @@
    "kind": "discover",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-17T21:05:39.990Z",
+   "fetched": "2026-11-18T07:42:28.507Z",
    "count": 6,
    "status": "ok",
    "scripts": 1
