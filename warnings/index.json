@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T07:42:07.008Z",
+ "built": "2026-11-18T20:42:20.625Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 94645,
-   "fetched": "2026-11-18T07:42:07.482Z",
+   "bytes": 94625,
+   "fetched": "2026-11-18T20:42:21.338Z",
    "count": 3,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-11-18T07:42:08.007Z",
+   "fetched": "2026-11-18T20:42:22.106Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-11-18T07:42:08.586Z",
+   "fetched": "2026-11-18T20:42:22.899Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-11-18T07:42:08.741Z",
+   "fetched": "2026-11-18T20:42:23.113Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -58,7 +58,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 107,
-   "fetched": "2026-11-18T07:42:09.774Z",
+   "fetched": "2026-11-18T20:42:24.193Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -69,9 +69,9 @@
    "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 20960,
-   "fetched": "2026-11-18T07:42:11.790Z",
-   "count": 2,
+   "bytes": 21308,
+   "fetched": "2026-11-18T20:42:25.531Z",
+   "count": 1,
    "status": "ok"
   },
   {
@@ -82,8 +82,8 @@
    "kind": "page",
    "http": 200,
    "bytes": 15061,
-   "fetched": "2026-11-18T07:42:12.797Z",
-   "count": 18,
+   "fetched": "2026-11-18T20:42:26.542Z",
+   "count": 19,
    "status": "ok"
   },
   {
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-11-18T07:42:17.291Z",
+   "fetched": "2026-11-18T20:42:30.272Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-11-18T07:42:17.439Z",
+   "fetched": "2026-11-18T20:42:30.513Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -117,8 +117,8 @@
    "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 49511,
-   "fetched": "2026-11-18T07:42:17.877Z",
+   "bytes": 49512,
+   "fetched": "2026-11-18T20:42:31.544Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -129,8 +129,8 @@
    "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100",
    "kind": "page",
    "http": 200,
-   "bytes": 1229019,
-   "fetched": "2026-11-18T07:42:20.688Z",
+   "bytes": 1229010,
+   "fetched": "2026-11-18T20:42:33.732Z",
    "count": 50,
    "status": "ok"
   },
@@ -142,7 +142,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 6515,
-   "fetched": "2026-11-18T07:42:21.918Z",
+   "fetched": "2026-11-18T20:42:35.448Z",
    "count": 2,
    "status": "ok"
   },
@@ -153,8 +153,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemIV.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 17447,
-   "fetched": "2026-11-18T07:42:27.402Z",
+   "bytes": 17446,
+   "fetched": "2026-11-18T20:42:46.053Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -167,7 +167,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-18T07:42:27.564Z",
+   "fetched": "2026-11-18T20:42:56.400Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -180,7 +180,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-18T07:42:27.731Z",
+   "fetched": "2026-11-18T20:42:59.065Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -193,7 +193,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-18T07:42:27.905Z",
+   "fetched": "2026-11-18T20:43:01.511Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -206,7 +206,7 @@
    "kind": "inforce",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-18T07:42:28.316Z",
+   "fetched": "2026-11-18T20:43:03.705Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -219,7 +219,7 @@
    "kind": "discover",
    "http": 503,
    "bytes": 17447,
-   "fetched": "2026-11-18T07:42:28.507Z",
+   "fetched": "2026-11-18T20:43:07.017Z",
    "count": 6,
    "status": "ok",
    "scripts": 1
