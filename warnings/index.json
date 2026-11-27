@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T08:48:02.320Z",
+ "built": "2026-11-27T21:28:03.509Z",
  "note": "Warnings in force read from each coordinator's own website. Check the source before relying on them.",
  "sources": [
   {
@@ -9,8 +9,8 @@
    "url": "https://msi.admiralty.co.uk/RadioNavigationalWarnings",
    "kind": "page",
    "http": 200,
-   "bytes": 82492,
-   "fetched": "2026-11-27T08:48:03.093Z",
+   "bytes": 78789,
+   "fetched": "2026-11-27T21:28:04.210Z",
    "count": 5,
    "status": "ok"
   },
@@ -22,7 +22,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 82543,
-   "fetched": "2026-11-27T08:48:03.860Z",
+   "fetched": "2026-11-27T21:28:05.218Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -34,7 +34,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 4354,
-   "fetched": "2026-11-27T08:48:04.830Z",
+   "fetched": "2026-11-27T21:28:06.032Z",
    "count": 0,
    "status": "no warnings read"
   },
@@ -46,7 +46,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5847,
-   "fetched": "2026-11-27T08:48:05.049Z",
+   "fetched": "2026-11-27T21:28:06.245Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -56,9 +56,9 @@
    "name": "South African Navy Hydrographic Office (NAVAREA VII)",
    "url": "https://www.sanho.co.za/_navarea7_bulletins/bulletin.htm",
    "kind": "page",
-   "http": 403,
-   "bytes": 107,
-   "fetched": "2026-11-27T08:48:06.230Z",
+   "http": 404,
+   "bytes": 355,
+   "fetched": "2026-11-27T21:28:07.359Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -69,9 +69,9 @@
    "url": "https://www.operations.amsa.gov.au/AMSA.Web.MSIPublication/Home",
    "kind": "page",
    "http": 200,
-   "bytes": 20934,
-   "fetched": "2026-11-27T08:48:07.898Z",
-   "count": 4,
+   "bytes": 21262,
+   "fetched": "2026-11-27T21:28:08.638Z",
+   "count": 5,
    "status": "ok"
   },
   {
@@ -82,7 +82,7 @@
    "kind": "page",
    "http": 200,
    "bytes": 7990,
-   "fetched": "2026-11-27T08:48:08.838Z",
+   "fetched": "2026-11-27T21:28:09.542Z",
    "count": 20,
    "status": "ok"
   },
@@ -94,7 +94,7 @@
    "kind": "page",
    "http": 403,
    "bytes": 5679,
-   "fetched": "2026-11-27T08:48:12.432Z",
+   "fetched": "2026-11-27T21:28:13.292Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -106,7 +106,7 @@
    "kind": "page",
    "http": 405,
    "bytes": 2235,
-   "fetched": "2026-11-27T08:48:12.772Z",
+   "fetched": "2026-11-27T21:28:13.553Z",
    "count": 0,
    "status": "blocks robots"
   },
@@ -117,8 +117,8 @@
    "url": "https://www.dhn.mil.pe/portal/navarea/radioavisos-warnings",
    "kind": "page",
    "http": 200,
-   "bytes": 55146,
-   "fetched": "2026-11-27T08:48:15.685Z",
+   "bytes": 54767,
+   "fetched": "2026-11-27T21:28:14.672Z",
    "count": 2,
    "status": "ok"
   },
@@ -129,8 +129,8 @@
    "url": "https://nis.ccg-gcc.gc.ca/public/rest/messages/en/search-navareas?page=1&maxHits=100",
    "kind": "page",
    "http": 200,
-   "bytes": 1229822,
-   "fetched": "2026-11-27T08:48:18.470Z",
+   "bytes": 1229827,
+   "fetched": "2026-11-27T21:28:16.338Z",
    "count": 50,
    "status": "ok"
   },
@@ -141,8 +141,8 @@
    "url": "http://www.navarea-xix.no/",
    "kind": "page",
    "http": 200,
-   "bytes": 9050,
-   "fetched": "2026-11-27T08:48:20.341Z",
+   "bytes": 9063,
+   "fetched": "2026-11-27T21:28:18.063Z",
    "count": 3,
    "status": "ok"
   },
@@ -153,8 +153,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemIV.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 24329,
-   "fetched": "2026-11-27T08:48:21.104Z",
+   "bytes": 24332,
+   "fetched": "2026-11-27T21:28:19.239Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -166,8 +166,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemXII.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 24330,
-   "fetched": "2026-11-27T08:48:21.491Z",
+   "bytes": 24332,
+   "fetched": "2026-11-27T21:28:19.450Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -179,8 +179,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemLAN.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 24329,
-   "fetched": "2026-11-27T08:48:21.600Z",
+   "bytes": 24332,
+   "fetched": "2026-11-27T21:28:19.694Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -192,8 +192,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemPAC.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 24329,
-   "fetched": "2026-11-27T08:48:21.752Z",
+   "bytes": 24332,
+   "fetched": "2026-11-27T21:28:19.891Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -205,8 +205,8 @@
    "url": "https://msi.nga.mil/api/publications/download?type=view&key=16694640%2FSFH00000%2FDailyMemARC.txt",
    "kind": "inforce",
    "http": 503,
-   "bytes": 24330,
-   "fetched": "2026-11-27T08:48:21.861Z",
+   "bytes": 24332,
+   "fetched": "2026-11-27T21:28:20.116Z",
    "count": 0,
    "asOf": "",
    "status": "unreachable"
@@ -218,8 +218,8 @@
    "url": "https://msi.nga.mil/NavWarnings",
    "kind": "discover",
    "http": 503,
-   "bytes": 24329,
-   "fetched": "2026-11-27T08:48:22.012Z",
+   "bytes": 24332,
+   "fetched": "2026-11-27T21:28:20.297Z",
    "count": 6,
    "status": "ok",
    "scripts": 1
